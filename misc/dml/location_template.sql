@@ -1,0 +1,10 @@
+﻿insert into `location_template`(`location_template_id`,`type_code`,`label`,`value`,`sort_order`) values (1,'header','Location','',0);
+insert into `location_template`(`location_template_id`,`type_code`,`label`,`value`,`sort_order`) values (2,'text','Address:','',1);
+insert into `location_template`(`location_template_id`,`type_code`,`label`,`value`,`sort_order`) values (3,'text','City, State, Zip:','',2);
+insert into `location_template`(`location_template_id`,`type_code`,`label`,`value`,`sort_order`) values (4,'header','Services','',3);
+insert into `location_template`(`location_template_id`,`type_code`,`label`,`value`,`sort_order`) values (5,'text','Sunday School:','9:45 AM',4);
+insert into `location_template`(`location_template_id`,`type_code`,`label`,`value`,`sort_order`) values (6,'text','Sunday Services:','10:45 AM; 6:00 PM',5);
+insert into `location_template`(`location_template_id`,`type_code`,`label`,`value`,`sort_order`) values (8,'header','Contact Info:','',7);
+insert into `location_template`(`location_template_id`,`type_code`,`label`,`value`,`sort_order`) values (9,'email','Email:','',8);
+insert into `location_template`(`location_template_id`,`type_code`,`label`,`value`,`sort_order`) values (10,'url','Web Site:','',9);
+insert into `location_template`(`location_template_id`,`type_code`,`label`,`value`,`sort_order`) values (16,'text','Wednesday PM:','7:30',6);

@@ -1,0 +1,57 @@
+/*Overall CSS for each Horizontal Accordion.
+	Most settings should be kept as it.
+	Customize each Accordion by styling each Accordion's ID attribute instead.
+*/
+
+.haccordion{
+padding: 0;
+display: inline-block;
+}
+
+.haccordion ul{
+margin: 0 0 0 15px;
+padding: 0;
+list-style: none;
+overflow: hidden; /*leave as is*/
+}
+
+
+.haccordion li{
+margin: 0;
+padding: 0;
+display: block; /*leave as is*/
+width: 100%; /*For users with JS disabled: Width of each content*/
+height: 400px; /*For users with JS disabled: Height of each content*/
+overflow: hidden; /*leave as is*/
+float: left; /*leave as is*/
+}
+
+.haccordion li .hpanel{
+width: 100%; /*For users with JS disabled: Width of each content*/
+height: 400px;  /*For users with JS disabled: Height of each content*/
+}
+
+.pictureCaption {
+	background:cornsilk;
+	border-radius: 15px;
+	box-shadow: 5px 5px 5px #888;
+	text-align: center;
+	font-weight: bold;
+}
+
+
+#pictureAccordion li {
+	margin:0 3px 0 0; /*Spacing between each LI container*/	
+}
+			
+#pictureAccordion li .hpanel{
+	padding: 5px; /*Padding inside each content*/
+	background: #c3d9ff; /* Old browsers */
+	background: -moz-linear-gradient(top,  #c3d9ff 0%, #b1c8ef 41%, #98b0d9 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c3d9ff), color-stop(41%,#b1c8ef), color-stop(100%,#98b0d9)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #c3d9ff 0%,#b1c8ef 41%,#98b0d9 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #c3d9ff 0%,#b1c8ef 41%,#98b0d9 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #c3d9ff 0%,#b1c8ef 41%,#98b0d9 100%); /* IE10+ */
+	background: linear-gradient(top,  #c3d9ff 0%,#b1c8ef 41%,#98b0d9 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c3d9ff', endColorstr='#98b0d9',GradientType=0 ); /* IE6-9 */
+}
