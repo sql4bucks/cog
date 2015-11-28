@@ -1,0 +1,1 @@
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/local/jdk1.6.0_29/jre/lib/amd64/server:/usr/local/jdk1.6.0_29/jre/lib/amd64:/usr/local/jdk1.6.0_29/jre/../lib/amd64:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
