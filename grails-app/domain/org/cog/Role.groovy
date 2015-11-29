@@ -1,21 +1,39 @@
 package org.cog
 
-class Role {
+class Role implements Serializable {
+
+	private static final long serialVersionUID = 1
 
 	String authority
 
-	static mapping = {
-		cache true
-		id column: 'role_id'
-		version false
-		autoTimestamp false
+	Role(String authority) {
+		this.authority = authority
+	}
+
+	@Override
+	int hashCode() {
+		authority?.hashCode() ?: 0
+	}
+
+	@Override
+	boolean equals(other) {
+		is(other) || (other instanceof Role && other.authority == authority)
+	}
+
+	@Override
+	String toString() {
+		authority
 	}
 
 	static constraints = {
 		authority blank: false, unique: true
 	}
-	
-	String toString() {
-		authority
-	}
+
+    static mapping = {
+        cache true
+        id column: 'role_id'
+        version false
+        autoTimestamp false
+    }
+
 }

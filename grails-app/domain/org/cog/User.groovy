@@ -1,6 +1,8 @@
 package org.cog
 
-class User {
+class User implements Serializable {
+
+	private static final long serialVersionUID = 1
 
 	transient springSecurityService
 
@@ -8,35 +10,40 @@ class User {
 	String password
 	String firstName
 	String lastName
-	boolean enabled
+	boolean enabled = true
 	boolean accountExpired
 	boolean accountLocked
 	boolean passwordExpired
 
-	static constraints = {
-		username blank: false, unique: true
-		password blank: false
-		firstName blank:false
-		lastName blank: false
+	User(String username, String password) {
+		this.username = username
+		this.password = password
 	}
 
-	static mapping = {
-		table: "User"
-		id column: 'user_id'
-		password column: '`password`'
-		username column: 'user_name'
-		enabled sqlType: 'boolean'
-		accountExpired column: 'account_expired', sqlType: 'boolean'
-		passwordExpired column: 'password_expired', sqlType: 'boolean'
-		accountLocked column: 'account_locked', sqlType: 'boolean'
-		version false
-		autoTimestamp false
-		
-		
+    static constraints = {
+        username blank: false, unique: true
+        password blank: false
+        firstName blank:false
+        lastName blank: false
+    }
+
+	@Override
+	int hashCode() {
+		username?.hashCode() ?: 0
+	}
+
+	@Override
+	boolean equals(other) {
+		is(other) || (other instanceof User && other.username == username)
+	}
+
+	@Override
+	String toString() {
+		username
 	}
 
 	Set<Role> getAuthorities() {
-		UserRole.findAllByUser(this).collect { it.role } as Set
+		UserRole.findAllByUser(this)*.role
 	}
 
 	def beforeInsert() {
@@ -50,14 +57,23 @@ class User {
 	}
 
 	protected void encodePassword() {
-		password = springSecurityService.encodePassword(password)
+		password = springSecurityService?.passwordEncoder ? springSecurityService.encodePassword(password) : password
 	}
-	
+
 	String getFullName() {
 		firstName + " " + lastName
 	}
-	
-	String toString() {
-		getFullName()
-	}
+
+    static mapping = {
+    table: "User"
+    id generator: 'native',  column: 'user_id'
+    username column: 'user_name'
+    password column: '`password`'
+    enabled sqlType: 'boolean'
+    accountExpired column: 'account_expired', sqlType: 'boolean'
+    passwordExpired column: 'password_expired', sqlType: 'boolean'
+    accountLocked column: 'account_locked', sqlType: 'boolean'
+    version false
+    autoTimestamp false
+    }
 }

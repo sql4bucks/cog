@@ -7,7 +7,7 @@ grails.project.source.level = 1.6
 //grails.project.war.file = "target/${appName}-${appVersion}.war"
 
 // Ports to use
-grails.server.port.http=8080
+grails.server.port.http=8090
 grails.server.port.https=8443
 
 grails.project.dependency.resolver="maven"
@@ -46,6 +46,7 @@ grails.project.dependency.resolution = {
     plugins {
         runtime ":hibernate:3.6.10.19"
         runtime ":jquery:1.11.0.2"
+        compile ":jquery-ui:1.10.4"
         runtime ":resources:1.2.8"
 
         // Uncomment these (or add new ones) to enable additional resources capabilities
@@ -55,5 +56,7 @@ grails.project.dependency.resolution = {
 
         build ":tomcat:7.0.54"
         compile ":spring-security-core:2.0-RC6"
+        compile ":calendar:1.2.1"
+
     }
 }

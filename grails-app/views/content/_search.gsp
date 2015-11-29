@@ -1,14 +1,12 @@
 <g:form method="post" >	
 <div class="container">
-
 	<div class="columnarFormLeft">
 		<div class="searchFields">
 			<label for="name">
 				<g:message code="content.name.label" default="Name" />
 			</label>
-			<richui:autoComplete name="name" maxlength="50" size="50" shadow="true" typeAhead="false" maxResultsDisplayed="15" 
-				minQueryLength="1" queryDelay="0" action="${createLinkTo('dir': 'content/autoComplete/')}"
-				value="${cmdObj?.name}" tabindex="10"/>
+			<g:textField name="name" id="name" maxlength="40" size="40" value="${cmdObj?.name}"
+				 tabindex="10"/>
 		</div>
 	
 		<div class="searchFields">
