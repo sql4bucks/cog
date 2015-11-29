@@ -1,9 +1,10 @@
 package org.cog
 
-import org.springframework.dao.DataIntegrityViolationException
-import javax.sql.DataSource
-import groovy.sql.Sql
+import grails.converters.JSON
 import groovy.sql.GroovyRowResult
+import groovy.sql.Sql
+import org.springframework.dao.DataIntegrityViolationException
+
 import java.sql.SQLException
 
 class ContentController {
@@ -238,19 +239,26 @@ class ContentController {
 	def autoComplete = {
 		Sql sql = new Sql(dataSource)
 		def resultSet = []
-		
+
 		/* --------------------------------------------------------------
 		 * Form a query to be executed by the autoComplete 
 		   --------------------------------------------------------------*/
 		String query = "select name_txt as item from content where lower(name_txt) like ?"
 		
 		// Add a percentage to do the like
-		String arg = params.query + "%"
+		String arg = params.term + "%"
 		
 		// Execute the query, catch exceptions and render a suitable message
 		try {
 			sql.eachRow(query, [arg]) {
-				resultSet << it.toRowResult()
+
+                def row =  it.toRowResult()
+                def resultMap = [:]
+                // resultSet << row
+                resultMap.put("id",row.get("item"))
+                resultMap.put("label",row.get("item"))
+                resultMap.put("value",row.get("item"))
+                resultSet << resultMap
 			}
 		} catch (SQLException e) {
 			log.error """
@@ -266,8 +274,8 @@ class ContentController {
 		 * The method names that specify the XML tags must be
 		 * specified as "result" and "name"
 		 * ---------------------------------------------*/
-		
-		render(contentType: "text/xml") {
+		/*
+		render(contentType: "text/json") {
 			results() {
 				resultSet.each {
 					row -> result()
@@ -275,6 +283,10 @@ class ContentController {
 				}
 			}
 		}
+		*/
+
+        render resultSet as JSON
+
 	}
 
 }

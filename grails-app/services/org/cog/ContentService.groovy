@@ -21,23 +21,22 @@ class ContentService {
 				name =~ cmdObj.name + "%"
 			}	 
 		}
-		
-		if (cmdObj?.author?.id != 0) {
+		if (cmdObj?.author?.id != null && cmdObj?.author?.id != 0) {
 			query = query.where {
 				author.id == cmdObj?.author?.id
 			}	
 		}
-		if (cmdObj?.type?.id != 0) {
+		if (cmdObj?.type?.id != null && cmdObj?.type?.id != 0) {
 			query = query.where {
 				type.id == cmdObj.type.id
 			}	
 		}
-		if (cmdObj?.location?.id != 0) {
+		if (cmdObj?.location?.id != null && cmdObj?.location?.id != 0) {
 			query = query.where {
 				location.id == cmdObj.location.id
 			}
 		}
-		if (cmdObj?.topic?.id != 0) {
+		if (cmdObj?.topic?.id != null && cmdObj?.topic?.id != 0) {
 			query = query.where {
 				topic.id == cmdObj.topic.id
 			}	
