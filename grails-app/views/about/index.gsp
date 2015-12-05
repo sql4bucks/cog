@@ -82,11 +82,11 @@
 			This website was developed using the <g:link url="http://grails.org/" target="_blank">Grails framework</g:link> (v2.0.3) from the good folks at SpringSource. Grails
 			is a tremendously productive framework that removes the plumbing out of web development. Highly recommended! <br>
 			Some of the individuals that have contributed to this framework or are simply giants in the community include the following:<br>
-			<g:link url="http://grails-contributors.cloudfoundry.com/graemerocher" target="_blank">Graeme Rocher</g:link>,&nbsp; 
-			<g:link url="http://grails-contributors.cloudfoundry.com/jeffbrown" target="_blank">Jeff Brown</g:link>,&nbsp; 
-			<g:link url="http://grails-contributors.cloudfoundry.com/pledbrook" target="_blank">Peter Ledbrook</g:link>,&nbsp; 
-			<g:link url="http://grails-contributors.cloudfoundry.com/burtbeckwith" target="_blank">Burt Beckwith</g:link>,&nbsp; 
-			<g:link url="http://grails-contributors.cloudfoundry.com/alkemist" target="_blank">Luke Daley</g:link>,&nbsp;
+			<g:link url="https://twitter.com/graemerocher" target="_blank">Graeme Rocher</g:link>,&nbsp;
+			<g:link url="https://twitter.com/jeffscottbrown" target="_blank">Jeff Brown</g:link>,&nbsp;
+			<g:link url="https://twitter.com/pledbrook" target="_blank">Peter Ledbrook</g:link>,&nbsp;
+			<g:link url="https://twitter.com/burtbeckwith" target="_blank">Burt Beckwith</g:link>,&nbsp;
+			<g:link url="https://twitter.com/ldaley" target="_blank">Luke Daley</g:link>,&nbsp;
 			<g:link url="http://grails-contributors.cloudfoundry.com/lhotari" target="_blank">Lari Hotari</g:link>,&nbsp;
 			<g:link url="http://grails-contributors.cloudfoundry.com/marcpalmer" target="_blank">Marc Palmer</g:link>,&nbsp;
 			<g:link url="http://www.thirstyhead.com/" target="_blank">Scott Davis</g:link>
