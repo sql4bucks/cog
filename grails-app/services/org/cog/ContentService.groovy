@@ -51,7 +51,7 @@ class ContentService {
 				contentDate <= cmdObj.beforeDate
 			}	
 		}
-		
+
 		return query
 		
 	}
@@ -98,12 +98,14 @@ class ContentService {
 	 * @returns The media content URL
 	 */
 	String getMediaInfo(Content content) {
-		String rootDir = grailsApplication.config.cog.media.root + "content/"
-		String mediaRoot = grailsApplication.config.cog.media.url + "content/"
+		String mediaRoot = grailsApplication.config.cog.media.url
 		String filePath = content.filePath
-		String secondaryPath = filePath.minus(rootDir)
-		String mediaUrl = mediaRoot + secondaryPath
+		String mediaUrl = mediaRoot + filePath
 		return mediaUrl
 	}
+
+    String getMediaRoot() {
+        return grailsApplication.config.cog.media.root
+    }
 	
 }

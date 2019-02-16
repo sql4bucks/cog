@@ -116,6 +116,7 @@ p {
 	background: -ms-linear-gradient(top,  rgba(238,238,238,1) 0%,rgba(204,204,204,1) 100%); /* IE10+ */
 	background: linear-gradient(top,  rgba(238,238,238,1) 0%,rgba(204,204,204,1) 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */
+    border:0;
 }
 
 .scriptureBox {
@@ -127,6 +128,10 @@ p {
 
 .scriptureVerse {
 	float: right;
+}
+
+.salvation {
+    float:right; margin-left: 10px;;
 }
 
 .defaultShadow {
@@ -176,7 +181,6 @@ p {
 
 .siteNav {
 	width: 100%;
-	height: 33px;
 	clear: both;
 	
 	background: rgb(213,206,166); /* Old browsers */
@@ -191,11 +195,11 @@ p {
 }
 
 .navItem {
-	width: 110px;
+	width: 7em;
 	height: 28px;
 	text-align: center;
 	vertical-align: bottom;
-	margin: 0 0 
+	margin: 0 0 ;
 	font-family: inherit;
 	color: navy;
 	float: left;
@@ -276,18 +280,18 @@ p {
 
 .mediaContent {
 	float:left;
-	height: 100%;
-	width: 65%;
+	height: auto;
+	width: auto;
 	border-radius: 15px;
 	border: thin lightgray solid;
-	padding: 0;
+	padding: 1em;
 	margin: 0;
 	background-color: lightgray;
 }
 
 .contentHolderLeft {
 	height: 100%;
-	width: 50%;
+	width: 70%;
 	float:left;
 	margin: 0;
 	padding: 0;	
@@ -325,7 +329,21 @@ border-top-right-radius: 15px;
 	margin: 10px;
 }
 
+.centered {
+    text-align: center;
+}
 
+.bigger {
+    font-size: 1.25em;
+}
+
+.fullWidth {
+    width: 100%;
+}
+
+.padBelow {
+    padding-bottom: .25em;
+}
 
 /* replace with .no-boxshadow body if you have modernizr available */
 .ie6 body,
@@ -407,7 +425,7 @@ width: 98%;
 	font-size: 0.8em;
 	margin-top: 1.5em;
 	padding: 1em;
-	min-height: 1em;
+	min-height: 1.5em;
 	clear: both;
 }
 

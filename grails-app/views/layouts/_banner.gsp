@@ -19,5 +19,5 @@
 			<article class="scriptureBox lightGradient floatLeft defaultShadow">
 				<g:scripture/>
 			</article>
-			<hr class="clearBoth"/>
+			<div class="clearBoth"></div>
 		</section>

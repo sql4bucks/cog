@@ -79,4 +79,37 @@
 	.error ul {
 		margin-left: 0;
 	}
+
+    .pictures {
+        display: none;
+    }
+
+    .headerRight {
+        display:none;
+    }
+
+    .blueGradient {
+        padding-bottom: .75em;
+        border: 0;
+    }
+    .salvation {
+        clear: both;
+        margin-left: 0;
+        float:left;
+    }
+
+    .footer {
+        min-height: 2.5em;
+    }
+
+    .mediaContent {
+        float:left;
+        height: auto;
+        width: auto;
+        border-radius: 15px;
+        border: thin lightgray solid;
+        padding: 1em;
+        margin: 0;
+        background-color: lightgray;
+    }
 }
