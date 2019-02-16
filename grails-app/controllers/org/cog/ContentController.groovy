@@ -38,6 +38,11 @@ class ContentController {
 		session.searchCommand = cmdObj
 		params.max = Math.min(params.max ? params.int('max') : 10, 100)
 		if (params.offset==null) {params.offset=0}
+        // Default sort is by content data desc
+        if (params.sort == null)  {
+            params.sort = "contentDate"
+            params.order = "desc"
+        }
 		render (view: "searchResults", model: [contentInstanceList: query.list(params), contentInstanceTotal: query.count(), cmdObj: cmdObj, params: params])
 	}
 	
@@ -117,14 +122,15 @@ class ContentController {
 			redirect(action: "search")
 			return 
 		}
-		
+
 		// Get the URL for the media context
 		String mediaUrl = contentService.getMediaInfo(contentInstance)
-		log.info("Media url for content served: ${mediaUrl}")
-		
-		// Check if file exists
-		File file = new File(contentInstance.filePath + "/" + contentInstance.fileName)
-		if (!file.exists()) {
+        String mediaRoot = contentService.getMediaRoot()
+
+        // Check if file exists
+        File file = new File(contentInstance.filePath + "/" + contentInstance.fileName)
+        log.info("File path for content to be served: ${file.getAbsolutePath()}")
+        if (!file.exists()) {
 			contentInstance.errors.rejectValue("fileName", "content.file.not.found",
                   [contentInstance.name] as Object[],
 				  "The underlying file ({0}) is no longer present and can not be played or downloaded."	)
@@ -146,7 +152,9 @@ class ContentController {
 	def file() {
 		Content content = Content.get(params.id)
 		File file = new File(content.filePath + "/" + content.fileName)
+        log.info("Request to download file ${file.absolutePath}")
 		if (file.exists()) {
+            log.info("File exists, preparing to stream")
 			file.withInputStream {
 				  response.contentLength = it.available()
 				  response.setHeader("Content-disposition", "attachment; filename=${content.fileName}")

@@ -44,11 +44,7 @@ class Picture {
 	*/
 	
 	String getUrl() {
-	   String rootDir = grailsApplication.config.cog.media.root 
-	   String mediaRoot = grailsApplication.config.cog.media.url
-	   String filePath = this.filePath
-	   String secondaryPath = filePath.minus(rootDir)
-	   String pictureUrl = mediaRoot + secondaryPath + "/" + this.fileName
+	   String pictureUrl = this.filePath + "/" + this.fileName
 	   return pictureUrl
    }
 

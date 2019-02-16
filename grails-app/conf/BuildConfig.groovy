@@ -7,7 +7,7 @@ grails.project.source.level = 1.6
 //grails.project.war.file = "target/${appName}-${appVersion}.war"
 
 // Ports to use
-grails.server.port.http=8090
+grails.server.port.http=8080
 grails.server.port.https=8443
 
 grails.project.dependency.resolver="maven"
