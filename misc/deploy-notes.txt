@@ -1,0 +1,19 @@
+Deployment Notes:
+
+Local:
+
+1) Install Tomcat 7
+2) External configuration - cog-config.groovy file located in /home/javabucks/cog/cog-config.groovy
+   * Includes datasource with actual password to DB (overrides the password in grais-app/conf/DataSource.groovy
+   * includes cogmedia.url
+   * can go in different path if you use JVM parameter "-DCOG_CONFIG=/path/to/file/cog-config.groovy" to point to it
+   * See example in misc/external-conf folder
+3) Copy the cogmedia.xml file to $CATALINA_BASE/conf/Catalina/localhost
+4) Create a symbolic link /cogmedia (in root directory with root) pointing to the root of the media folder
+
+Server:
+
+1) Use javabucks account
+2) Use aliases in account to navigate to tomcat folders and bounce service
+
+

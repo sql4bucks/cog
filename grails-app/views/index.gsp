@@ -3,6 +3,7 @@
 <html>
 	<head>
 		<meta name="layout" content="main"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Church of God - Portland, Oregon</title>
 		<meta name="description" content="The Church of God congregation from Portland, Oregon; providing audio content and encouragement to all thirsty souls"/>
 		<r:require module="haccordion"/>
@@ -16,12 +17,11 @@
 		</r:script>
 	</head>
 	<body>
-		<h1 class="structuralClear"></h1>
-		<a href="#page-body" class="skip"><g:message code="default.link.skip.label" default="Skip to content&hellip;"/></a>
+		%{--<span class="structuralClear"></span>--}%
 		<section id="churchOfGod" class="content scaffold-show" role="main">
-			<h1>What is the Church?</h1>
-			<article class="floatLeft marginLeft" style="width: 95%; text-align:justify;">
-			<p>
+            <h1 class=clearBoth>What is the Church?</h1>
+            <article class="floatLeft marginLeft" style="width: 90%; text-align:justify;">
+                <p>
 				Our society commonly defines the word <em>church</em> as a building, or place of worship. 
 				However, the Greek origin of the word as found in the Bible, 
 				<a class="indexLinks noSpin" href="http://concordances.org/strongs/greek/1577.htm" target="_blank"><em>ekkl&eacute;sia</em></a>, 
@@ -53,7 +53,9 @@
 			</p>
 			</article>
 			<h1 class="structuralClear"></h1>
+            <div class="pictures">
 			<g:pictures/>
+            </div>
 		</section>
 	</body>
 </html>
