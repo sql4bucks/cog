@@ -1,7 +1,7 @@
 import org.apache.catalina.loader.WebappLoader
 
 eventConfigureTomcat = { tomcat ->
-    def mediaContext = tomcat.addWebapp("/media", "/mnt/Data/data/media")
+    def mediaContext = tomcat.addWebapp("/cogmedia", "/mnt/Data/data/media")
     mediaContext.reloadable = false
     def loader = new WebappLoader(tomcat.class.classLoader)
     loader.container = mediaContext
