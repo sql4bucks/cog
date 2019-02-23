@@ -54,7 +54,7 @@
 				<g:each in="${contentInstanceList}" status="i" var="contentInstance">
 					<tr class="${(i % 2) == 0 ? 'even' : 'odd'}">
 					
-						<td><g:link action="view" id="${contentInstance.id}" params="[max: params.max, offset: params.offset]">
+						<td><g:link action="view" id="${contentInstance.id}" params="[max: params.max, offset: params.offset, sort:params.sort, order:params.order]">
 							${fieldValue(bean: contentInstance, field: "name")}
 							</g:link>
 						</td>
