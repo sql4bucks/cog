@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 {
 
 html {
 	background-color: #ddd;
-	background-image: -moz-linear-gradient(center top, #aaa, #ddd);
+	background-image: -moz-linear-gradient(top, #aaa 0%, #ddd 100%);
 	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #aaa), color-stop(1, #ddd));
 	background-image: linear-gradient(top, #aaa, #ddd);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorStr = '#aaaaaa', EndColorStr = '#dddddd');
@@ -38,7 +38,7 @@ html * {
 }
 
 body {
-	background: #ffffff;
+	background: whitesmoke;
 	color: #333333;
 	margin: 0 auto;
 	max-width: 960px;
@@ -78,6 +78,12 @@ p {
 	margin: 1em;
 }
 
+.cogImage {
+	margin: 0;
+	height: auto;
+	width: auto;
+}
+
 .marginLeft {
 	margin-left: 2em;
 }
@@ -86,6 +92,9 @@ p {
 	margin-right: 2em;
 }
 
+.titleMargin {
+	margin-top: 1em;
+}
 
 .marginTop {
 	margin-top: 2em;
@@ -103,8 +112,7 @@ p {
 	font-family: "Trebuchet MS", "Monotype Corsiva","Verdana", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 	color:navy;
 	font-weight: bolder;
-	font-size:  1.5em;
-	margin: 0px 0 0px 0;
+	font-size:  1.2em;
 }
 
 .lightGradient {
@@ -120,7 +128,7 @@ p {
 }
 
 .scriptureBox {
-	width: 77%;
+	width: 70%;
 	min-height: 3em;
 	margin-top: 0px;
 	padding: 10px;
@@ -536,7 +544,7 @@ width: 98%;
 	background-position: left;
 	text-indent: 1.5em;
 	width: 20em;
-	height: 1.5 em; 			
+	height: 1.5em;
 }				
 
 .resultsCollapse h3.active  {
@@ -620,7 +628,7 @@ width: 98%;
 .yui-ac {
 	width: 85%;
 	padding: 0%;
-	margin 0;
+	margin: 0;
 	display: inline;
 }
 
@@ -870,7 +878,7 @@ th {
 	line-height: 1.7em;
 	border: thin outset;
 	padding: 0.2em 0.6em;
-	margin: 0, 0 15px 0;
+	margin: 0 0 15px 0;
 	
 }
 
@@ -1143,30 +1151,31 @@ a.skip {
 
 .locationList {
 	width: 50%;
-	margin: 5px 0 0px 20px;
+	margin: 5px 0 0 20px;
 	padding: 0;
 }
 
 .contactInfo {
-	
-	width: 50%;
+	width: 100%;
 	margin: 0 0 0 20px;
 	padding: 0;
 }
 
 .googleMap {
 	clear:both;
-	width: 50%;
 	margin: 20px 0 10px 20px;
 	padding: 0;
 }
 
 .contactLabel {
 	text-align: left;
+	width: 15%;
 }
 
 .contactvalue {
 	text-align: left;
+	width: 85%;
+	word-wrap: break-word;
 }
 
 .contactHeader {

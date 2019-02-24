@@ -8,7 +8,7 @@ insert into cog.location_detail (location_detail_id,location_id,type_code,label,
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (7,1,'text','Sunday Services:','11:15 AM, 3:00 PM',5);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (9,1,'header','Contact Info:','',8);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (10,1,'email','Email:','delwell2@yahoo.com',9);
-insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (11,1,'url','Web Site:','http://localhost/cog',10);
+insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (11,1,'url','Web Site:','http://churchofgodportland.org',10);
 INSERT INTO cog.location_detail (location_detail_id, location_id, type_code, label, value, sort_order) VALUES (91, 2, 'header', 'Location', '', 0);
 INSERT INTO cog.location_detail (location_detail_id, location_id, type_code, label, value, sort_order) VALUES (93, 2, 'text', 'Address:', '255 E Exeter St.', 1);
 INSERT INTO cog.location_detail (location_detail_id, location_id, type_code, label, value, sort_order) VALUES (94, 2, 'text', 'City, State, Zip', 'Gladstone, OR 97027', 2);
@@ -44,7 +44,7 @@ insert into cog.location_detail (location_detail_id,location_id,type_code,label,
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (39,5,'text','Sunday AM Service','10:45 AM',5);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (40,5,'text','Sunday PM Service:','6:00 PM',6);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (41,5,'header','Contact Info:','',8);
-insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (43,5,'url','Web Site:','http://www.sapulpachurchofgod.com/',10);
+insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (43,5,'url','Web Site:','http://sapulpachurchofgod.com/',10);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (44,5,'text','Wednesday PM:','7:00',7);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (45,1,'text','Wednesday PM:','7:15 PM',7);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (46,6,'header','Location','',0);
@@ -54,7 +54,7 @@ insert into cog.location_detail (location_detail_id,location_id,type_code,label,
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (50,6,'text','Sunday School:','9:45 AM',4);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (51,6,'text','Sunday Services:','10:45 AM; 6:30 PM',5);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (53,6,'header','Contact Info:','',8);
-insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (55,6,'url','Web Site:','http://www.churchofgodneosho.org/',10);
+insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (55,6,'url','Web Site:','http://churchofgodneosho.org/',10);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (56,6,'text','Wednesday PM:','7:00 PM',7);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (68,7,'header','Location','',0);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (69,7,'text','Address:','444 E. Evergreen',1);
@@ -64,7 +64,7 @@ insert into cog.location_detail (location_detail_id,location_id,type_code,label,
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (73,7,'text','Sunday Services:','10:45 AM; 6:00 PM',5);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (74,7,'header','Contact Info:','',7);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (75,7,'text','Pastor:','Bro. Michael Smith (417) 725-5769',8);
-insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (76,7,'url','Web Site:','https://www.facebook.com/springfieldchurchofgod/',9);
+insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (76,7,'url','Web Site:','https://facebook.com/springfieldchurchofgod/',9);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (77,7,'text','Wednesday PM:','7:00',6);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (78,8,'header','Location','',0);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (79,8,'text','Address:','5900 NE 23rd St',1);
@@ -75,6 +75,6 @@ insert into cog.location_detail (location_detail_id,location_id,type_code,label,
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (84,8,'header','Contact Info:','',7);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (85,8,'email','Phone:','Bro. Loren Busbee (405) 478-3860',8);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (86,8,'text','Chapel Phone:','(405) 427-1223',9);
-insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (88,8,'url','Web Site:','http://www.oklahomacitychurchofgod.com/',10);
+insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (88,8,'url','Web Site:','http://oklahomacitychurchofgod.com/',10);
 insert into cog.location_detail (location_detail_id,location_id,type_code,label,value,sort_order) values (87,8,'text','Wednesday PM:','7:30',6);
 commit;

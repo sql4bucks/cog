@@ -1,9 +1,5 @@
 <h2>Contact Details</h2>
-<table>
-	<colgroup span="2">
-		<col width="35%">
-		<col width="65%">
-	</colgroup>
+<table style="table-layout: fixed; width: 100%">
 <tbody>		
 <g:each in="${locationDetails}" var="detail" status="i">
 	<tr>
