@@ -21,4 +21,6 @@ insert into cog.link(`id`,`name`,`url`,`sort_order`) values (18,'Bible Gateway -
 insert into cog.link(`id`,`name`,`url`,`sort_order`) values (19,'Quick Bible Search','http://quod.lib.umich.edu/k/kjv/simple.html',90);
 insert into cog.link(`id`,`name`,`url`,`sort_order`) values (20,'Bible History','http://bible-history.com/',95);
 insert into cog.link(`id`,`name`,`url`,`sort_order`) values (21,'Life and Epistles of Paul','http://www.biblestudy.org/apostlepaul/main.html',100);
+insert into cog.link(`id`,`name`,`url`,`sort_order`) values (22,'Church of God - Oklahoma City','http://www.oklahomacitychurchofgod.com/',66);
+
 commit;

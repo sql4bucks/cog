@@ -1,4 +1,5 @@
-UPDATE location 
+use cog;
+UPDATE location
 SET 
     google_url = '<iframe width="480" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?source=s_q&hl=en&geocode=&q=255+E+Exeter+Street,+Gladstone,+OR+97027&t=h&ie=UTF8&output=embed"></iframe>',
     name_txt = 'Gladstone',
@@ -43,3 +44,5 @@ SET
     google_url = '<iframe width="480" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=6438+Northeast+23rd+Street,+Oklahoma+City,+OK&t=h&ie=UTF8&output=embed"></iframe>'
 WHERE
         location_id = '8';
+
+commit;

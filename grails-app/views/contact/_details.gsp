@@ -1,8 +1,8 @@
 <h2>Contact Details</h2>
 <table>
 	<colgroup span="2">
-		<col width="25%">
-		<col width="75%">	                              
+		<col width="35%">
+		<col width="65%">
 	</colgroup>
 <tbody>		
 <g:each in="${locationDetails}" var="detail" status="i">

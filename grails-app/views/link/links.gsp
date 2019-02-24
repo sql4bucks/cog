@@ -17,8 +17,6 @@
 			<p style="margin: 20px;">
 				This page contains a variety of links, including preaching, singing, bible studies and assorted content
 				from all across the country. Choose a link below to open the site in a separate tab or window. </br></br> 
-				<span style="color: red"> <em>Note:</em></span> The link will open in a separate tab or window. Based on your browser settings, 
-				the new window or tab may not open in the foreground and will require you to choose it manually.
 			</p>
 			<table>
 				<thead>

@@ -1142,34 +1142,23 @@ a.skip {
 /* ------- Contact Page --------------- */
 
 .locationList {
-	width: 25%;
-	float: left;	
+	width: 50%;
 	margin: 5px 0 0px 20px;
 	padding: 0;
-	border-left: thin solid black;
-	border-top: thin solid black;
-	height: 252px;
-	overflow: auto;
 }
 
 .contactInfo {
 	
-	width: 70%;
-	float: left;	
-	margin: 5px 0 0 0;
+	width: 50%;
+	margin: 0 0 0 20px;
 	padding: 0;
-	border-right: thin solid black;
-	border-top: thin solid black;
-	height: 252px;
-	overflow: auto;
 }
 
 .googleMap {
 	clear:both;
-	width: 95%;
+	width: 50%;
 	margin: 20px 0 10px 20px;
 	padding: 0;
-	border: thin solid black;
 }
 
 .contactLabel {

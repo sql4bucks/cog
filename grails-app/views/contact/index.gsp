@@ -15,14 +15,13 @@
 				congregations scattered across the country. Click on the location near you for more details. A hearty invitation
 				is extended to you to attend our services or contact us using the information below
 			</p>
-			<div id="locationList" class="locationList lightGradient">
-				<g:render template="/contact/list"/ model="${[locationList: locationList]}"/>
+			<div id="locationList" class="locationList">
+				<g:render template="/contact/list" model="${[locationList: locationList, defaultLocation: defaultLocation]}"/>
 			</div>
-			<div id="contactInfo" class="contactInfo lightGradient">
+			<div id="contactInfo" class="contactInfo">
 				<g:render template="/contact/details" model="${[locationDetails: defaultDetails]}"/>
 			</div>
-			<section id="googleMap" class="googleMap lightGradient">
-				<h2 style="margin 20px;">Map</h2>
+			<section id="googleMap" class="googleMap">
 				<div id="mapContents">
 					<g:render template="/contact/map" model="${[location: defaultLocation]}" />
 				</div>

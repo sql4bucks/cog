@@ -7,6 +7,7 @@ class ContactController {
 		Location defaultLocation = list.find{ it.name == 'Gladstone'}
 		log.info("Default location = ${defaultLocation}")
 		log.info("Default details = ${defaultLocation.details}")
+
 		return [locationList: list, defaultLocation: defaultLocation, defaultDetails: defaultLocation.details]
     }
 	
