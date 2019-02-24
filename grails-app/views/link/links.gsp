@@ -15,7 +15,7 @@
 			<div class="message" role="status">${flash.message}</div>
 			</g:if>
 			<p style="margin: 20px;">
-				You may be interested in the content provided at the links below. These include preaching, singing, bible studies and assorted content
+				This page contains a variety of links, including preaching, singing, bible studies and assorted content
 				from all across the country. Choose a link below to open the site in a separate tab or window. </br></br> 
 				<span style="color: red"> <em>Note:</em></span> The link will open in a separate tab or window. Based on your browser settings, 
 				the new window or tab may not open in the foreground and will require you to choose it manually.
@@ -23,16 +23,13 @@
 			<table>
 				<thead>
 					<tr>
-						<g:sortableColumn property="name" title="${message(code: 'link.name.label', default: 'Name')}" />
-						<g:sortableColumn property="url" title="${message(code: 'link.url.label', default: 'Url')}" />
-					
+						<th><g:message code="default.links.label" default="Links" /></th>
 					</tr>
 				</thead>
 				<tbody>
 				<g:each in="${linkInstanceList}" status="i" var="linkInstance">
 					<tr class="${(i % 2) == 0 ? 'even' : 'odd'}">
-						<td>${fieldValue(bean: linkInstance, field: "name")}</td>
-						<td><g:link url="${linkInstance.url}" target="_blank">${fieldValue(bean: linkInstance, field: "url")}</g:link></td>
+						<td><g:link url="${linkInstance.url}" target="_blank">${fieldValue(bean: linkInstance, field: "name")}</g:link></td>
 					</tr>
 				</g:each>
 				</tbody>

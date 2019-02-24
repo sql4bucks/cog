@@ -1,0 +1,6 @@
+Google Maps:
+
+   * We are not actually using the Google Maps Api, we simply form the URL manually
+     based on the address of the congregation. The definition of the entire Iframe
+     is stored in the database in the location.google_url column.
+
