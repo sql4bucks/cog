@@ -108,11 +108,22 @@ p {
 	float:right;
 }
 
+.h1 {
+	line-height: 1.1;
+	color: purple;
+	font-size: 1.25em;
+	font-weight: normal;
+}
+
 .h0 {
 	font-family: "Trebuchet MS", "Monotype Corsiva","Verdana", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 	color:navy;
 	font-weight: bolder;
 	font-size:  1.2em;
+}
+
+.italics {
+	font-style: italic;
 }
 
 .lightGradient {
@@ -185,6 +196,10 @@ p {
 	float: left;
 	margin: .5em 0 0 0px;
 	padding: 0px;
+}
+
+.ifMobile {
+	visibility: hidden;
 }
 
 .siteNav {

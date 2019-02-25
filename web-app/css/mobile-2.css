@@ -10,6 +10,25 @@
 		padding: 0.25em;
 	}
 
+	.navButton {
+		width: 34px;
+		height: 34px;
+		float: left;
+		margin: -.3em 0 0 .25em;
+	}
+
+	.navItem {
+		width: 7em;
+		height: 28px;
+		text-align: center;
+		vertical-align: bottom;
+		margin: 0 0 ;
+		font-family: inherit;
+		color: navy;
+		float: left;
+		padding-top: 5px;
+	}
+
 	/* Hide individual steps in pagination, just have next & previous */
 	.pagination .step, .pagination .currentStep {
 		display: none;
@@ -101,6 +120,9 @@
 		height: 60px;
 	}
 
+	.ifMobile {
+		visibility: visible;
+	}
 
 	.titleMargin {
 		margin-top: .25em;
