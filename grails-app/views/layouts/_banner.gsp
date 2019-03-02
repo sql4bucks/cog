@@ -1,7 +1,8 @@
 		<section id="banner" class="blueGradient" role="banner">
 			<article id="logo" class="floatLeft cogPic">
 				<g:link url="http://www.inspired-art.com" target="_blank">
-					<img src="${resource(dir: 'images', file: 'jesusHugging.jpg')}" alt="Forgiven" class="smallShadow"/>
+					<img src="${resource(dir: 'images', file: 'jesusHugging.jpg')}"
+						 alt="Forgiven" class="smallShadow cogImage"/>
 				</g:link>
 			</article>	
 			<article id="login" class="headerRight">
@@ -14,8 +15,7 @@
 					</sec:ifNotLoggedIn>
 					<br>	
 			</article>
-			<div class="h0">Church of God</div>
-			<h1>Portland, Oregon</h1>
+			<div class="h1 titleMargin floatLeft"><h1>Church of God - Portland</h1></div>
 			<article class="scriptureBox lightGradient floatLeft defaultShadow">
 				<g:scripture/>
 			</article>

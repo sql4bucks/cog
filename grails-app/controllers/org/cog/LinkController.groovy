@@ -11,17 +11,16 @@ class LinkController {
     }
 
     def list() {
-        params.max = Math.min(params.max ? params.int('max') : 10, 100)
+        params.max = Math.min(params.max ? params.int('max') : 15, 100)
         [linkInstanceList: Link.list(params), linkInstanceTotal: Link.count()]
     }
 	
 	def links() {
-		params.max = Math.min(params.max ? params.int('max') : 10, 100)
+        log.info("Before Params = ${params}")
+		params.max = Math.min(params.max ? params.int('max') : 15, 100)
 		log.info("Params = ${params}")
-		// Sort by name by default
-		if (!params.keySet().contains("sort")) {
-			params.sort = "sortOrder"
-		}
+		params.sort = "sortOrder"
+
 		[linkInstanceList: Link.list(params), linkInstanceTotal: Link.count()]
 	}
 

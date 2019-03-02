@@ -6,7 +6,9 @@
 		<meta name="layout" content="main">
 		<g:set var="entityName" value="${message(code: 'content.results.label', default: 'Results')}" />
 		<title><g:message code="default.search.title" args="[entityName, 'Results']" /></title>
-		<meta name="description" content="Search results of media content"/>
+		<meta name="description" content="Church of God - Portland Oregon. The requirements for
+                    membership in God's church are salvation through faith in the Blood of Jesus and obedience
+                    to his word. 'If you continue in my word ye are my disciples indeed'."/>
 		<calendar:resources lang="en" theme="blue"/>
 		<r:require modules="collapse"/>
 		<resource:autoComplete skin="default" />
@@ -34,7 +36,11 @@
 			</div>
 		</div>	 
 		<div id="list-content" class="content scaffold-list" role="main">
-			<h1><g:message code="default.list.label" args="[entityName]" /></h1>
+			<div style="margin: 1em">
+				<div class="h1 floatLeft"><g:message code="default.list.label" args="[entityName]"/></div>
+				<div class="ifMobile floatRight italics">(Rotate your phone sideways for details)</div>
+			</div>
+
 			<g:if test="${flash.message}">
 			<div class="message" role="status">${flash.message}</div>
 			</g:if>
@@ -54,7 +60,7 @@
 				<g:each in="${contentInstanceList}" status="i" var="contentInstance">
 					<tr class="${(i % 2) == 0 ? 'even' : 'odd'}">
 					
-						<td><g:link action="view" id="${contentInstance.id}" params="[max: params.max, offset: params.offset]">
+						<td><g:link action="view" id="${contentInstance.id}" params="[max: params.max, offset: params.offset, sort:params.sort, order:params.order]">
 							${fieldValue(bean: contentInstance, field: "name")}
 							</g:link>
 						</td>

@@ -34,7 +34,7 @@
 <body>
 <div class="nav" role="navigation">
     <ul>
-        <li><g:link class="back" action="getPage" params="[offset: params.offset, max: params.max]">
+        <li><g:link class="back" action="getPage" params="[offset: params.offset, max: params.max, sort:params.sort, order:params.order]">
             <g:message code='default.goBack' default='Back'/>
         </g:link>
         </li>

@@ -4,9 +4,10 @@ class ContactController {
 
     def index() { 
 		def list = Location.findAllWhere(active: "Y").sort {it.city?.state?.code + it.name}
-		Location defaultLocation = list.find{ it.name == 'Clackamas'}
+		Location defaultLocation = list.find{ it.name == 'Gladstone'}
 		log.info("Default location = ${defaultLocation}")
 		log.info("Default details = ${defaultLocation.details}")
+
 		return [locationList: list, defaultLocation: defaultLocation, defaultDetails: defaultLocation.details]
     }
 	
