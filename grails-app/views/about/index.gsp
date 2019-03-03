@@ -3,7 +3,9 @@
 	<head>
 		<meta name="layout" content="main"/>
 		<title>About the Church of God - Portland, Oregon</title>
-		<meta name="description" content="About the Church of God at Portland Oregon"/>
+		<meta name="description" content="About the Church of God at Portland, Oregon."/>
+		<meta name="robots" content="index, follow">
+		<meta name="revisit-after" content="14 days">
 		<style type="text/css">
 		 p {
 		 	margin: 10px 20px 15px 20px;
@@ -53,7 +55,6 @@
 				This web site is presented by the Church of God	congregation at Gladstone, a suburb of Portland, Oregon. <br/>
 				&copy; 2012 - ${new Date().format("yyyy")} - Church of God. All Rights Reserved.
 			<p> Software release version 0.5 </p>
-			</p>
 			<article id="credits">
 				<h2><g:link action="credits">Credits</g:link></h2>
 				<p>

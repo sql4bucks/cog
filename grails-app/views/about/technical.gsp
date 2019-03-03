@@ -2,9 +2,10 @@
 <html>
 	<head>
 		<meta name="layout" content="main"/>
-		<title>About the Church of God - Portland, Oregon</title>
-		<meta name="description" content="Church of God Portland, Oregon - technical information
-					concerning the website and browser reuirements, etc."/>
+		<title>About the Church of God - Portland, Oregon - Technical Information</title>
+		<meta name="description" content="About the Church of God at Portland, Oregon. Technical information and credits."/>
+		<meta name="robots" content="index, nofollow">
+		<meta name="revisit-after" content="14 days">
 		<style type="text/css">
 		 p {
 		 	margin: 10px 20px 15px 20px;

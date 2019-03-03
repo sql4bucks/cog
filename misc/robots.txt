@@ -1,0 +1,25 @@
+# Rule 1 - prevent mp3
+User-agent: *
+Disallow: /*.mp3
+
+# Rule 2 - prevent media directory
+User-agent: *
+Disallow: /cogmedia/
+
+# Rule 3 - prevent content files
+User-agent: *
+Disallow: /content/file/
+
+# Rule 4 - prevent login page
+User-agent: *
+Disallow: /login/
+
+# Rule 5 - prevent admin
+User-agent: *
+Disallow: /user/
+
+# Rule 6 - prevent admin
+User-agent: *
+Disallow: /userRole/
+
+Sitemap: http://churchofgodportland.org/sitemap.xml
