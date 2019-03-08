@@ -6,6 +6,7 @@
 		<meta name="description" content="About the Church of God at Portland, Oregon. Credits for artwork on the site."/>
 		<meta name="robots" content="index, nofollow">
 		<meta name="revisit-after" content="14 days">
+		<link rel="canonical" href="http://churchofgodportland.org/about/credits" />
 		<style type="text/css">
 		 p {
 		 	margin: 10px 20px 15px 20px;
