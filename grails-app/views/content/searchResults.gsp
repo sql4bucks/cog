@@ -9,7 +9,6 @@
 		<meta name="description" content="The Church of God, Portland, Oregon web site. Publishing recorded media for the encouragement of the community. Sermons, congregational singing and special songs are available." />
 		<meta name="robots" content="index, follow">
 		<meta name="revisit-after" content="14 days">
-		<link rel="canonical" href="http://churchofgodportland.org/content/doSearch" />
 		<!-- Church, God, Portland -->
 		<calendar:resources lang="en" theme="blue"/>
 		<r:require modules="collapse"/>

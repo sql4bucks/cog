@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>http://churchofgodportland.org/</loc>
+        <lastmod>2019-03-25</lastmod>
+    </url>
+    <url>
         <loc>http://churchofgodportland.org/content/doSearch</loc>
-        <lastmod>2019-03-07</lastmod>
+        <lastmod>2019-03-25</lastmod>
     </url>
     <url>
         <loc>http://churchofgodportland.org/contact/index</loc>
-        <lastmod>2019-03-07</lastmod>
+        <lastmod>2019-03-25</lastmod>
     </url>
     <url>
         <loc>http://churchofgodportland.org/link/links</loc>
-        <lastmod>2019-03-07</lastmod>
+        <lastmod>2019-03-25</lastmod>
     </url>
     <url>
         <loc>http://churchofgodportland.org/about/index</loc>
-        <lastmod>2019-03-07</lastmod>
+        <lastmod>2019-03-25</lastmod>
     </url>
     <url>
         <loc>http://churchofgodportland.org/about/credits</loc>
-        <lastmod>2019-03-07</lastmod>
+        <lastmod>2019-03-25</lastmod>
     </url>
     <url>
         <loc>http://churchofgodportland.org/about/technical</loc>
-        <lastmod>2019-03-07</lastmod>
+        <lastmod>2019-03-25</lastmod>
     </url>
 </urlset>

@@ -6,7 +6,6 @@
 		<meta name="description" content="The Church of God, Portland, Oregon. This page lists contact information for affiliated congregations across the country." />
 		<meta name="robots" content="index, follow">
 		<meta name="revisit-after" content="14 days">
-		<link rel="canonical" href="http://churchofgodportland.org/contact/index" />
 	</head>
 	<body>
 		<h1 class="structuralClear"></h1>
