@@ -7,7 +7,6 @@
 		<meta name="description" content="The Church of God, Portland, Oregon. Links to affiliated congregations and other resources for your encouragement." />
 		<meta name="robots" content="index, follow">
 		<meta name="revisit-after" content="14 days">
-		<link rel="canonical" href="http://churchofgodportland.org/link/links" />
 		<g:set var="entityName" value="${message(code: 'default.links.label', default: 'Links')}" />
 		<title><g:message code="default.list.title" args="[entityName]" /></title>
 	</head>
