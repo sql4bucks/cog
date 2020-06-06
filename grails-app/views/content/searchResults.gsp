@@ -4,11 +4,12 @@
 <html>
 	<head>
 		<meta name="layout" content="main">
-		<g:set var="entityName" value="${message(code: 'content.results.label', default: 'Results')}" />
-		<title><g:message code="default.search.title" args="[entityName, 'Results']" /></title>
-		<meta name="description" content="Church of God - Portland Oregon. The requirements for
-                    membership in God's church are salvation through faith in the Blood of Jesus and obedience
-                    to his word. 'If you continue in my word ye are my disciples indeed'."/>
+		<g:set var="entityName" value="${message(code: 'content.label', default: 'Content')}" />
+		<title><g:message code="default.search.title" args="[entityName, 'Content']" /></title>
+		<meta name="description" content="The Church of God, Portland, Oregon web site. Publishing recorded media for the encouragement of the community. Sermons, congregational singing and special songs are available." />
+		<meta name="robots" content="index, follow">
+		<meta name="revisit-after" content="14 days">
+		<!-- Church, God, Portland -->
 		<calendar:resources lang="en" theme="blue"/>
 		<r:require modules="collapse"/>
 		<resource:autoComplete skin="default" />

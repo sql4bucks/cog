@@ -7,10 +7,10 @@ if(!grails.config.locations || !(grails.config.locations instanceof List)) {
     grails.config.locations = []
 }
 if(System.getenv(configLocation)) {
-    println "Including configuration file specified in environment: " + System.getenv(configLocation);
+    println "Including configuration file specified in environment: " + System.getenv(configLocation)
     grails.config.locations << "file:" + System.getenv(configLocation)
 } else if(System.getProperty(configLocation)) {
-    println "Including configuration file specified on command line: " + System.getProperty(configLocation);
+    println "Including configuration file specified on command line: " + System.getProperty(configLocation)
     grails.config.locations << "file:" + System.getProperty(configLocation)
 } else {
     File defaultConfig = new File(defaultConfiguration)
@@ -22,6 +22,10 @@ if(System.getenv(configLocation)) {
     }
 }
 
+javax.servlet.http.HttpServletRequest.metaClass.getSiteUrl = {
+    final String url = delegate.getRequestURL().toString()
+    return url.replace("grails/","").replace(".dispatch","")
+}
 
 cog.bible.gateway.base.url = "http://www.biblegateway.com/passage/?search="
 

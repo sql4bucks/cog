@@ -4,7 +4,10 @@
 <html>
 	<head>
 		<meta name="layout" content="main">
-		<g:set var="entityName" value="${message(code: 'link.label', default: 'Links')}" />
+		<meta name="description" content="The Church of God, Portland, Oregon. Links to affiliated congregations and other resources for your encouragement." />
+		<meta name="robots" content="index, follow">
+		<meta name="revisit-after" content="14 days">
+		<g:set var="entityName" value="${message(code: 'default.links.label', default: 'Links')}" />
 		<title><g:message code="default.list.title" args="[entityName]" /></title>
 	</head>
 	<body>
@@ -16,7 +19,7 @@
 			</g:if>
 			<p style="margin: 20px;">
 				This page contains a variety of links, including preaching, singing, bible studies and assorted content
-				from all across the country. Choose a link below to open the site in a separate tab or window. </br></br> 
+				from all across the country. Choose a link below to open the site in a separate tab or window.
 			</p>
 			<table>
 				<thead>

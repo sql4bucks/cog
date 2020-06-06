@@ -3,7 +3,9 @@
 	<head>
 		<meta name="layout" content="main"/>
 		<title>Church of God - Contact Information</title>
-		<meta name="description" content="Contact information for Church of God congregations across the country"/> 
+		<meta name="description" content="The Church of God, Portland, Oregon. This page lists contact information for affiliated congregations across the country." />
+		<meta name="robots" content="index, follow">
+		<meta name="revisit-after" content="14 days">
 	</head>
 	<body>
 		<h1 class="structuralClear"></h1>

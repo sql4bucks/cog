@@ -27,7 +27,6 @@
             <g:message code="default.subscribe.label"/>
         </g:link>
         </li>
-        --%>
         <li>
             <g:link class="navItem" controller="contact" action="index">
                 <div class="navButton">
@@ -36,6 +35,8 @@
                 <g:message code="default.contact.nav.label"/>
             </g:link>
         </li>
+        --%>
+
         <li>
             <g:link class="navItem" controller="link" action="links">
                 <div class="navButton">
