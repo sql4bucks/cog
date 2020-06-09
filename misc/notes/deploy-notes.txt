@@ -1,5 +1,14 @@
 Deployment Notes:
 
+Setting up project on new workstation:
+1) Install MySQL
+2) From IntelliJ, create new project from version control
+3) Select project from GitHub
+4) Create the database
+5) Create schema and populate tables from scripts in sql directory
+6) grails runApp
+
+
 Local:
 
 1) Install Tomcat 7
