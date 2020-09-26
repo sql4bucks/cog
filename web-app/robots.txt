@@ -23,3 +23,4 @@ User-agent: *
 Disallow: /userRole/
 
 Sitemap: http://churchofgodportland.org/sitemap.xml
+Sitemap: http://churchofgodportland.org/www-sitemap.xml

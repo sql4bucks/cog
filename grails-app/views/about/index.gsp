@@ -7,39 +7,19 @@
 		<meta name="robots" content="index, follow">
 		<meta name="revisit-after" content="14 days">
 		<style type="text/css">
-		 p {
-		 	margin: 10px 20px 15px 20px;
-		 	clear: both;
-		 }
-		 
-		 .content h1 {
-		 	margin-top: 20px;
-		 }
-		 
+
 		 .content h2 {
 		 	font-weight: bold;
 		 	color: navy;
 		 }
-		 
+
 		 h3 {
 		 	margin: 10px 0 5px 20px;
 		 	color: green;
 		 }
-		 
+
 		 a {
 		 	text-decoration: none;
-		 }
-		 
-		 thead tr {
-		 	background:#D5CEA6;
-		 }
-		 
-		 tbody tr {
-		 	background: white;
-		 }
-		 
-		 tbody tr:hover {
-		 	background: white;
 		 }
 
 		</style>

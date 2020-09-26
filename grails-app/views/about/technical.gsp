@@ -7,20 +7,6 @@
 		<meta name="robots" content="index, nofollow">
 		<meta name="revisit-after" content="14 days">
 		<style type="text/css">
-		 p {
-		 	margin: 10px 20px 15px 20px;
-		 	clear: both;
-		 }
-		 
-		 .content h1 {
-		 	margin-top: 20px;
-		 }
-		 
-		 .content h2 {
-		 	font-weight: bold;
-		 	color: navy;
-		 }
-		 
 		 h3 {
 		 	margin: 10px 0 5px 20px;
 		 	color: green;
