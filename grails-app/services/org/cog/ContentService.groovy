@@ -63,7 +63,7 @@ class ContentService {
 			println "File upload - Content Service"
 			def uploadedFile = request.getFile('uploadFile')
 				
-			if( uploadedFile  && !uploadedFile.empty && uploadedFile?.originalFilename?.toLowerCase()?.contains('.mp3')){
+			if( uploadedFile  && !uploadedFile.empty ){
 			  def rootDir = grailsApplication.config.cog.media.root
 			  rootDir += "content/"
 			  def mediaDir = rootDir + Utility.getDatedDirectory(content?.contentDate)

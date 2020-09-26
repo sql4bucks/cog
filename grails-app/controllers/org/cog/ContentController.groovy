@@ -138,6 +138,31 @@ class ContentController {
 		return [contentInstance: contentInstance, mediaUrl: mediaUrl, params: params]
 	}
 
+	def viewPdf() {
+		log.info("Viewing pdf - params = ${params}")
+		def contentInstance = Content.get(params.id)
+		if (!contentInstance) {
+			flash.message = message(code: 'default.not.found.message', args: [message(code: 'content.label', default: 'Content'), params.id])
+			redirect(action: "search")
+			return
+		}
+
+		// Get the URL for the media context
+		String mediaUrl = contentService.getMediaInfo(contentInstance)
+		String mediaRoot = contentService.getMediaRoot()
+
+		// Check if file exists
+		File file = new File(contentInstance.filePath + "/" + contentInstance.fileName)
+		log.info("File path for content to be served: ${file.getAbsolutePath()}")
+		if (!file.exists()) {
+			contentInstance.errors.rejectValue("fileName", "content.file.not.found",
+					[contentInstance.name] as Object[],
+					"The underlying file ({0}) is no longer present and can not be viewed."	)
+		}
+		return [contentInstance: contentInstance, mediaUrl: mediaUrl, params: params]
+	}
+
+
     def edit() {
         def contentInstance = Content.get(params.id)
         if (!contentInstance) {

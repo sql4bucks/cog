@@ -14,8 +14,8 @@
 		<link rel="apple-touch-icon" href="${resource(dir: 'images', file: 'apple-touch-icon.png')}">
 		<link rel="apple-touch-icon" sizes="114x114" href="${resource(dir: 'images', file: 'apple-touch-icon-retina.png')}">
 		<link rel="stylesheet" href="${resource(dir: 'css', file: 'adminMenu.css')}" type="text/css">
-		<link rel="stylesheet" href="${resource(dir: 'css', file: 'main-1.css')}" type="text/css">
-		<link rel="stylesheet" href="${resource(dir: 'css', file: 'mobile-1.css')}" type="text/css">
+		<link rel="stylesheet" href="${resource(dir: 'css', file: 'main-01.css')}" type="text/css">
+		<link rel="stylesheet" href="${resource(dir: 'css', file: 'mobile-01.css')}" type="text/css">
 		<script type="text/javascript">
 		/*****************************************************************************************
 		 * Credits: Using the following scripts from dynamicdrive.com:
