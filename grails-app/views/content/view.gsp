@@ -1,11 +1,11 @@
-<%@ page import="org.cog.Content" %>
+<%@ page import="org.springframework.validation.FieldError; org.cog.Content" %>
 <!doctype html>
 <html>
 <head>
     <meta name="layout" content="main">
     <g:set var="entityName" value="${message(code: 'content.label', default: 'Content')}"/>
     <title><g:message code="default.view.title" args="[entityName]"/></title>
-    <meta name="description" content="Listen to or download selected media content from CHurch of God services"/>
+    <meta name="description" content="Listen to or download selected media content from Church of God services"/>
     <link rel="stylesheet" href="${resource(dir: 'css', file: 'jplayer-pink.css')}" type="text/css">
     <r:require modules="jPlayer"/>
     <r:script>
@@ -49,7 +49,7 @@
     <g:hasErrors bean="${contentInstance}">
         <ul class="errors" role="alert">
             <g:eachError bean="${contentInstance}" var="error">
-                <li <g:if test="${error in org.springframework.validation.FieldError}">data-field-id="${error.field}"</g:if>><g:message
+                <li <g:if test="${error in FieldError}">data-field-id="${error.field}"</g:if>><g:message
                         error="${error}"/></li>
             </g:eachError>
         </ul>
@@ -146,12 +146,12 @@
                     <ul class="jp-controls">
 
                         <!-- comment out any of the following <li>s to remove these buttons -->
-                        <li><a href="javascript:;" class="jp-play" tabindex="1">play</a></li>
-                        <li><a href="javascript:;" class="jp-pause" tabindex="1">pause</a></li>
-                        <li><a href="javascript:;" class="jp-stop" tabindex="1">stop</a></li>
-                        <li><a href="javascript:;" class="jp-mute" tabindex="1" title="mute">mute</a></li>
-                        <li><a href="javascript:;" class="jp-unmute" tabindex="1" title="unmute">unmute</a></li>
-                        <li><a href="javascript:;" class="jp-volume-max" tabindex="1" title="max volume">max volume</a>
+                        <li><a href="javascript:" class="jp-play" tabindex="1">play</a></li>
+                        <li><a href="javascript:" class="jp-pause" tabindex="1">pause</a></li>
+                        <li><a href="javascript:" class="jp-stop" tabindex="1">stop</a></li>
+                        <li><a href="javascript:" class="jp-mute" tabindex="1" title="mute">mute</a></li>
+                        <li><a href="javascript:" class="jp-unmute" tabindex="1" title="unmute">unmute</a></li>
+                        <li><a href="javascript:" class="jp-volume-max" tabindex="1" title="max volume">max volume</a>
                         </li>
                     </ul>
 
