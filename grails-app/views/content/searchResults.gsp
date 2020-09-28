@@ -60,17 +60,23 @@
 				<tbody>
 				<g:each in="${contentInstanceList}" status="i" var="contentInstance">
 					<tr class="${(i % 2) == 0 ? 'even' : 'odd'}">
-					
-						<td><g:link action="view" id="${contentInstance.id}" params="[max: params.max, offset: params.offset, sort:params.sort, order:params.order]">
-							${fieldValue(bean: contentInstance, field: "name")}
+						<g:if test="${contentInstance?.fileName?.endsWith("pdf")}">
+							<td><g:link url="${contentInstance.filePath}/${contentInstance.fileName}" target="_blank"
+										id="${contentInstance.id}" params="[max: params.max, offset: params.offset, sort:params.sort, order:params.order]">
+								${fieldValue(bean: contentInstance, field: "name")}
 							</g:link>
-						</td>
-					
+							</td>
+						</g:if>
+						<g:else>
+							<td><g:link action="view" id="${contentInstance.id}" params="[max: params.max, offset: params.offset, sort:params.sort, order:params.order]">
+								${fieldValue(bean: contentInstance, field: "name")}
+								</g:link>
+							</td>
+						</g:else>
 						<td>${fieldValue(bean: contentInstance, field: "type")}</td>
 						<td>${fieldValue(bean: contentInstance, field: "author")}</td>
 						<td>${fieldValue(bean: contentInstance, field: "topic")}</td>
 						<td>${fieldValue(bean: contentInstance, field: "location")}</td>
-
 						<td><g:formatDate format="MM/dd/yyyy" date="${contentInstance.contentDate}" /></td>
 					</tr>
 				</g:each>
