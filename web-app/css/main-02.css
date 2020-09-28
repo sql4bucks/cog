@@ -450,6 +450,8 @@ width: 98%;
 .pdfViewer {
 	width: 100%;
 	height: 1000px;
+	-webkit-overflow-scrolling: touch !important;
+	overflow-y: scroll !important;
 }
 
 

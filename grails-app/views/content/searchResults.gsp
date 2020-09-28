@@ -61,7 +61,8 @@
 				<g:each in="${contentInstanceList}" status="i" var="contentInstance">
 					<tr class="${(i % 2) == 0 ? 'even' : 'odd'}">
 						<g:if test="${contentInstance?.fileName?.endsWith("pdf")}">
-							<td><g:link action="viewPdf" id="${contentInstance.id}" params="[max: params.max, offset: params.offset, sort:params.sort, order:params.order]">
+							<td><g:link url="${contentInstance.filePath}/${contentInstance.fileName}" target="_blank"
+										id="${contentInstance.id}" params="[max: params.max, offset: params.offset, sort:params.sort, order:params.order]">
 								${fieldValue(bean: contentInstance, field: "name")}
 							</g:link>
 							</td>
