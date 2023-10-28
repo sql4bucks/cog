@@ -1,0 +1,661 @@
+content_id	title	author_name	location_name	content_date	file_name	series	book	content_type	active_ind
+1	God's Joy in Our Lives	Don Elwell	Clackamas	2011-10-16	p2011-10-16pm.mp3			Message	Y
+2	The Fatherly Bond	Steve Elwell	Clackamas	2011-10-30	p2011-10-30am.mp3			Message	Y
+3	Keep your eyes on the Prize	Don Elwell	Clackamas	2011-10-30	p2011-10-30pm.mp3			Message	Y
+4	Fear God	Steve Elwell	Clackamas	2011-11-13	p2011-11-13am.mp3			Message	Y
+5	Pluses and Minuses	Mary Lawson	Clackamas	2012-01-15	p2012-01-29am.mp3			Message	Y
+7	Smoke and Mirrors	Steve Elwell	Clackamas	2011-09-25	p2011-09-25am.mp3			Message	Y
+8	Open mouth - I will fill it	Steve Elwell	Clackamas	2012-03-01	p2012-02-05am.mp3			Message	Y
+9	Can't Take Jesus Away	Joe Elwell Family	Clackamas	2012-01-29	ssp20120129.mp3			Special Song	Y
+10	You Were Faithful Yesterday	Joe Elwell Family	Clackamas	2012-01-29	ssa20120129.mp3			Special Song	Y
+11	Law of God	Steve Elwell	Clackamas	2012-05-27	p2012-05-27am.mp3			Message	Y
+12	Spiritual Commerce	Don Elwell	Clackamas	2012-05-27	p2012-05-27pm.mp3			Message	Y
+13	Awesome Gospel Workers	Don Elwell	Clackamas	2012-05-13	p2012-05-13am.mp3			Message	Y
+14	The Mark of a Child of God	Don Elwell	Clackamas	2012-04-29	p2012-04-29am.mp3			Message	Y
+15	Inversely Proportional	Don Elwell	Clackamas	2012-05-06	p2012-05-06am.mp3			Message	Y
+17	God Knows the Way	Darrell Johnson	Clackamas	2016-02-25	p2016-02-25pm.mp3			Message	Y
+18	Follow God	Darrell Johnson	Clackamas	2016-02-26	p2016-02-26pm.mp3			Message	Y
+19	Relationships	Darrell Johnson	Clackamas	2016-02-27	p2016-02-27pm.mp3			Message	Y
+20	Through The Fire	Darrell Johnson	Clackamas	2016-02-28	2016-02-28.mp3			Message	Y
+21	Hope, Love and Patience	Steve Elwell	Clackamas	2012-08-19	p2012-08-19am..mp3			Message	Y
+22	Come and Learn of Me	Don Elwell	Clackamas	2012-08-26	p2012-08-26am.mp3			Message	Y
+23	Christ the Source of Life	Ken Elwell	Clackamas	2012-09-02	p2012-09-02am..mp3			Message	Y
+24	Gem Production Process	Don Elwell	Clackamas	2016-03-06	p2016-03-06am.mp3			Message	Y
+25	Ministry of Reconciliation	Don Elwell	Clackamas	2016-03-13	Record_0005.mp3			Message	Y
+26	Safety in the Love of God	Steve Elwell	Clackamas	2012-09-23	p2012-09-23am.mp3			Message	Y
+27	Keep the Faith	Steve Elwell	Clackamas	2012-10-28	p2012-10-28am.mp3			Message	Y
+28	By One Man	Steve Elwell	Clackamas	2012-11-04	p2012-11-04am.mp3			Message	Y
+29	God's Covenant is Sure	Steve Elwell	Clackamas	2012-11-11	p2012-11-11am.mp3			Message	Y
+30	Give Thanks in All Things	Steve Elwell	Clackamas	2012-11-18	p2012-11-18am.mp3			Message	Y
+31	Repairing the Breach	Don Elwell	Clackamas	2012-11-25	p2012-11-25am.mp3			Message	Y
+32	Cast of Characters	Don Elwell	Clackamas	2016-04-03	p2016-04-03am.mp3			Message	Y
+33	Be Ye Steadfast	Don Elwell	Clackamas	2016-04-10	p2016-04-10am.mp3			Message	Y
+34	A Friend Closer Than Brother	Steve Elwell	Clackamas	2012-12-09	p2012-12-09am.mp3			Message	Y
+35	Jesus, Light of the World	Steve Elwell	Clackamas	2012-12-16	p2012-12-16am.mp3			Message	Y
+36	God's Heritage	Steve Elwell	Clackamas	2012-12-23	p2012-12-23am.mp3			Message	Y
+37	God's Order	Steve Elwell	Clackamas	2012-04-22	p2012-04-22am.mp3			Message	Y
+38	No Shame in the Gospel	Don Elwell	Clackamas	2012-04-22	p2012-04-22pm.mp3			Message	Y
+39	God Our Refuge	Steve Elwell	Clackamas	2013-07-07	p2013-07-07am.mp3			Message	Y
+40	The Lord is My Shepherd	Steve Elwell	Clackamas	2013-07-14	p2013-07-14am.mp3			Message	Y
+41	A Continuing City	Steve Elwell	Clackamas	2013-08-04	p2013-08-04am.mp3			Message	Y
+42	Your Personal Advocate	Steve Elwell	Clackamas	2013-09-08	p2013-09-08am.mp3			Message	Y
+43	Never Alone	Steve Elwell	Clackamas	2013-09-29	p2013-09-29.mp3			Message	Y
+44	Perfecting the Love of God	Steve Elwell	Clackamas	2013-01-13	p2013-01-13am.mp3			Message	Y
+45	The Prize	Steve Elwell	Clackamas	2013-03-31	p2013-03-31am.mp3			Message	Y
+46	Your Heart in the Game	Steve Elwell	Clackamas	2013-04-14	p2013-04-14am.mp3			Message	Y
+47	God's Generosity	Don Elwell	Clackamas	2013-04-14	p2013-04-14pm.mp3			Message	Y
+48	Grafted into God's Family	Ken Elwell	Clackamas	2013-04-28	p2013-04-28am.mp3			Message	Y
+49	Resist the Devil	Steve Elwell	Clackamas	2013-05-05	p2013-05-05am.mp3			Message	Y
+50	Behold The City of Zion	Don Elwell	Clackamas	2016-04-24	Behold the City of Zion(1).mp3			Message	Y
+51	Encourage Yourself in the Lord	Don Elwell	Clackamas	2016-05-08	p2016-05-08am.mp3			Message	Y
+52	What Effects Our Motivation	Don Elwell	Clackamas	2016-05-01	p2016-05-01am.mp3			Message	Y
+53	When the Going Gets Tough ...	Don Elwell	Clackamas	2016-05-15	p2016-05-15am.mp3			Message	Y
+54	Time to Remember	Don Elwell	Clackamas	2016-05-29	p2016-05-29am.mp3			Message	Y
+55	I'm Not Who I Used To Be	Don Elwell	Clackamas	2016-06-05	p2016-06-05am.mp3			Message	Y
+56	Christ our Stabilizing Force	Don Elwell	Clackamas	2016-06-12	p2016-06-12am.mp3			Message	Y
+57	He Maketh the Storm a Calm	Huyen Hoang	Clackamas	2016-07-03	p2016-07-03am.mp3			Message	Y
+58	Carefully Maintain Good Works	Don Elwell	Clackamas	2016-07-10	p2016-07-10am.mp3			Message	Y
+59	Hope	Joe Elwell Family	Clackamas	2016-07-03	2016-07-03-198.mp3			Singing	Y
+60	The Solid Rock	Joe Elwell Family	Clackamas	2016-07-03	2016-07-03-51.mp3			Singing	Y
+61	Beautiful	Joe Elwell Family	Clackamas	2016-07-03	2016-07-03-182.mp3			Singing	Y
+62	Sweet Bye and Bye	Joe Elwell Family	Clackamas	2016-07-03	2016-07-03-byeNbye.mp3			Singing	Y
+63	Sitting at the Feet of Jesus	Joe Elwell Family	Clackamas	2016-07-03	2016-07-03-175.mp3			Singing	Y
+64	Lighthouse	Joe Elwell Family	Clackamas	2016-07-03	2016-07-03-lighthouse.mp3			Singing	Y
+65	What a Friend	Joe Elwell Family	Clackamas	2016-07-03	2016-07-03-179.mp3			Singing	Y
+66	God is Love	Joe Elwell Family	Clackamas	2016-07-03	2016-07-03-140.mp3			Singing	Y
+67	Abide With Me	Joe Elwell Family	Clackamas	2016-07-03	2016-07-03-342.mp3			Singing	Y
+68	The Virtue of Faith	Joe Elwell Family	Clackamas	2016-07-03	2016-07-03-284.mp3			Singing	Y
+69	Holding On to Jesus	Joe Elwell Family	Clackamas	2016-07-03	2016-07-03-holding.mp3			Singing	Y
+70	Amazing Love	Joe Elwell Family	Clackamas	2016-07-03	2016-07-03-amazing.mp3			Singing	Y
+71	Soaring Like Eagles	Fari Matthews	Clackamas	2016-08-07	p2016-08-07am.mp3			Message	Y
+72	Taking God at His Word	Ken Elwell	Clackamas	2016-08-21	p2016-08-21am.mp3			Message	Y
+73	Spiritual Maintenance	Don Elwell	Clackamas	2016-08-28	p2016-08-28am.mp3			Message	Y
+74	A Time to Build	Don Elwell	Clackamas	2016-09-11	p2016-09-11am.mp3			Message	Y
+75	A Love Beyond Nostalgia	Huyen Hoang	Clackamas	2016-09-04	p2016-09-04am.mp3			Message	Y
+76	Our Greatest Thoughts	Huyen Hoang	Clackamas	2016-10-30	Our Greatest Thoughts .mp3			Message	Y
+77	Passive Agressive	Huyen Hoang	Clackamas	2016-11-13	Passive Aggressive.mp3			Message	Y
+78	Take the Shield of Faith	Don Elwell	Clackamas	2016-10-23	p2016-10-23am.mp3			Message	Y
+79	Covenant Wrought By Faith	Don Elwell	Gladstone	2016-11-06	p2016-11-06am.mp3			Message	Y
+80	Robbing God	Don Elwell	Clackamas	2016-12-11	p2016-12-11am.mp3			Message	Y
+81	Remember Me	Huyen Hoang	Clackamas	2016-12-18	p2016-12-18am.mp3			Message	Y
+82	The Love Mender	Huyen Hoang	Clackamas	2016-11-27	p2016-11-27am.mp3			Message	Y
+83	Not Coming This Way Before	Huyen Hoang	Clackamas	2017-01-01	YeHaveNotGoneThisWay.mp3			Message	Y
+84	A Cheat Sheet	Huyen Hoang	Clackamas	2017-01-01	A Cheat Sheet.mp3			Message	Y
+85	Building Confidence	Don Elwell	Clackamas	2017-01-15	Building Confidence.mp3			Message	Y
+86	A Friend Closer Than A Brother	Steve Elwell	Clackamas	2015-02-15	FriendCloser.mp3			Message	Y
+87	God Has One True Doctrine	Steve Elwell	Clackamas	2015-02-01	God Has One True Doctrine.mp3			Message	Y
+88	God Hath Commanded a Blessing	Steve Elwell	Clackamas	2015-03-15	GodCommandedBlessing.mp3			Message	Y
+89	God's Wisdom	Steve Elwell	Clackamas	2015-03-01	Gods Wisdom.mp3			Message	Y
+90	I Am Not Alone	Steve Elwell	Clackamas	2015-03-15	I Am Not Alone.mp3			Message	Y
+91	The Glory of His Love	Steve Elwell	Clackamas	2015-01-11	The Glory of His Love.mp3			Message	Y
+92	The Hard Facts; Through Faith	Steve Elwell	Clackamas	2015-01-25	TheHardFacts.mp3			Message	Y
+93	The Perfect Author	Steve Elwell	Clackamas	2015-01-04	ThePerfectAuthor.mp3			Message	Y
+94	The Star	Steve Elwell	Clackamas	2014-11-02	The Star.mp3			Message	Y
+95	A Sustaining Strength	Don Elwell	Clackamas	2015-03-15	A Sustaining Strength.mp3			Message	Y
+96	Lord, I've Seen My Salvation!	Don Elwell	Clackamas	2015-03-01	LordSeenSalvation.mp3			Message	Y
+97	The Tools That Promote Peace	Don Elwell	Clackamas	2015-01-25	ToolsPromotePeace.mp3			Message	Y
+98	There's A Place For You	Don Elwell	Clackamas	2015-02-15	There's A Place For You.mp3			Message	Y
+99	Through It All	Don Elwell	Clackamas	2015-01-18	Through It All.mp3			Message	Y
+100	Wait God's Timing is Perfect	Don Elwell	Clackamas	2015-01-18	GodTimingPerfect.mp3			Message	Y
+101	We're All Part of a Picture	Don Elwell	Clackamas	2015-02-22	PartOfPicture.mp3			Message	Y
+102	Is Your Heart in God's Work	Mary Lawson	Clackamas	2015-02-07	HeartFully.mp3			Message	Y
+103	The Example Set By Christ	Mary Lawson	Clackamas	2015-02-08	The Example Set By Christ.mp3			Message	Y
+104	All Things Are Yours	Huyen Hoang	Clackamas	2017-01-29	p2017-01-29am.mp3			Message	Y
+105	By Their Example	Don Elwell	Clackamas	2017-01-22	p2017-01-22am.mp3			Message	Y
+106	Wonderful, Merciful Savior	Joe Elwell Family	Clackamas	2017-01-29	ss2017-01-29-1155.mp3			Special Song	Y
+107	Perfectly Broken	Don Elwell Family	Clackamas	2017-01-29	ss2017-01-29-1158.mp3			Special Song	Y
+108	The Word of God	Don Elwell	Clackamas	2017-02-19	The Word of God.mp3			Message	Y
+109	Loves Carvings	Huyen Hoang	Clackamas	2017-02-19	Loves Carvings.mp3			Message	Y
+110	Living in Two Kingdoms	Huyen Hoang	Clackamas	2017-02-05	p2017-02-05am.mp3			Message	Y
+111	Being About Father's Business	Don Elwell	Clackamas	2017-02-12	p2017-02-12am.mp3			Message	Y
+112	A Vision of the Big Picture	Don Elwell	Clackamas	2017-02-26	p2017-02-26am.mp3			Message	Y
+113	Our Choices	Don Elwell	Clackamas	2017-03-05	p2017-03-05am.mp3			Message	Y
+114	A Position of Life	Huyen Hoang	Clackamas	2017-04-02	A Position of Life.mp3			Message	Y
+115	Don't Settle	Huyen Hoang	Clackamas	2017-03-05	Dont Settle.mp3			Message	Y
+116	A Quite Place	Huyen Hoang	Clackamas	2017-03-26	A Quite Place .mp3			Message	Y
+117	Take Heed	Don Elwell	Clackamas	2017-04-02	Take Heed.mp3			Message	Y
+118	GOAT	Don Elwell	Clackamas	2017-04-16	p2017-04-16am.mp3			Message	Y
+119	Joy in Discomfort	Huyen Hoang	Gladstone	2017-04-23	p2017-04-23am.mp3			Message	Y
+120	Inward Manifestation	LaDawna Adams	Clackamas	2017-04-30	p2017-04-30am.mp3			Message	Y
+121	Resting in Christ's Authority	Ken Elwell	Clackamas	2017-05-14	p2017-05-14am.mp3			Message	Y
+122	Inspect, Recognize, Apply	Don Elwell	Clackamas	2017-05-21	p2017-05-21am.mp3			Message	Y
+123	Song of Praise	Clackamas Congregation	Clackamas	2017-06-18	cs2017-06-18-songOfPraise.mp3			Singing	Y
+124	Shepherd's Point of View	Joe Elwell Family	Clackamas	2017-06-18	ss2017-06-18-shepherdpov.mp3			Special Song	Y
+125	Benefits of True Wealth	Don Elwell	Clackamas	2017-06-18	p2017-06-18am.mp3			Message	Y
+126	I Will Tell The Wondrous Story	Clackamas Congregation	Clackamas	2017-07-02	2017-07-02-WondrousStory.mp3			Singing	Y
+127	Press the Battle On	Clackamas Congregation	Clackamas	2017-07-02	2017-07-02-PressBattle.mp3			Singing	Y
+128	You Ought To Sing	Clackamas Congregation	Clackamas	2017-07-02	2017-07-02-oughtToSing.mp3			Singing	Y
+129	What WIll It Be To Be There	Clackamas Congregation	Clackamas	2017-07-02	2017-07-02-whatwillitbe.mp3			Singing	Y
+130	Starry Nights at the Beaches	Huyen Hoang	Clackamas	2017-07-03	p2017-07-02am.mp3			Message	Y
+131	Sing It Again	Clackamas Congregation	Clackamas	2017-07-02	2017-07-02-singitagain.mp3			Singing	Y
+132	Glorious Peace	Clackamas Congregation	Clackamas	2017-07-02	2017-07-02-peace.mp3			Singing	Y
+133	Ba an Overcomer	Clackamas Congregation	Clackamas	2017-07-02	2017-07-02-overcome.mp3			Singing	Y
+134	This is Why I Love My Savior	Clackamas Congregation	Clackamas	2017-07-02	2017-07-02-thisiswhy.mp3			Singing	Y
+135	Word of God	Clackamas Congregation	Clackamas	2017-07-02	2017-07-02-wordOfGod.mp3			Singing	Y
+136	Only His Touch Speaks Peace	Ken Elwell	Clackamas	2017-07-03	p2017-07-02pm.mp3			Message	Y
+137	Making Preparation	Don Elwell	Clackamas	2017-06-04	Making Preparation.mp3			Message	Y
+138	To Name Your Kids Again	Huyen Hoang	Clackamas	2017-06-11	To Name Your Kids Again.mp3			Message	Y
+139	Continue on	Don Elwell	Clackamas	2017-07-09	Continueon.mp3			Message	Y
+140	Patterns	Huyen Hoang	Clackamas	2017-07-16	Patterns.mp3			Message	Y
+141	Grace Through Him	Huyen Hoang	Clackamas	2017-08-09	Grace_Through_Him[1].mp3			Bible Study	Y
+142	Labor For That Which Endures	Don Elwell	Clackamas	2017-08-13	Dad.mp3			Message	Y
+143	Hey, We're Up To Bat	Donald Elwell III	Clackamas	2017-08-12	Hey, were up to bat.mp3			Young People Mtg	Y
+144	Spiritual Eating	Don Elwell	Clackamas	2017-08-27	Spiritual Eating.mp3			Message	Y
+145	Pacoima Young People's Meeting	Damar Randle	Pacoima	2017-08-19	YPM Pacoima.mp3			Young People Mtg	Y
+146	Our Identity	Don Elwell	Clackamas	2017-09-17	Our Identity.mp3			Message	Y
+147	Living An Upside Down Life	Huyen Hoang	Clackamas	2017-09-10	LivingAnUpsideDownLife.mp3			Message	Y
+148	Spiritual Investments	Huyen Hoang	Clackamas	2017-09-17	Spiritual Investments.mp3			Message	Y
+149	To The Saints At:	Huyen Hoang	Clackamas	2017-10-08	10-08-2017.mp3			Message	Y
+150	Romans 7	Huyen Hoang	Clackamas	2017-09-23	Romans Chapter 7.mp3			Young People Mtg	Y
+151	Divine Inspiration	Don Elwell	Clackamas	2017-09-24	Devine Inspiration.mp3			Message	Y
+152	What We Have In Christ	Huyen Hoang	Clackamas	2017-10-01	What We Have In Christ.mp3			Message	Y
+153	In This World; Not of It	Don Elwell	Clackamas	2017-10-01	In This World; Not of It.mp3			Message	Y
+154	Who is in Your Posse?	Don Elwell	Clackamas	2017-10-15	Who is in Your Posse.mp3			Message	Y
+155	Free Shipping	Huyen Hoang	Clackamas	2017-10-22	Free Shipping.mp3			Message	Y
+156	That New Car Smell	Curtis Williams	Gladstone	2017-11-12	p2017-11-12am.mp3			Message	Y
+157	Ever Faithful	Joe Elwell Family	Gladstone	2017-11-12	ss2017-11-12-ever-faithful.mp3			Special Song	Y
+158	The Son Hath Made Me Free	Herter Family	Gladstone	2017-11-11	ss2012-11-11-sonmademefree.mp3			Special Song	Y
+159	Keep Your Trust in Jesus	Herter Family	Gladstone	2017-11-11	ss2012-11-11trustinjesus.mp3			Special Song	Y
+160	Amazing Love	Ken Elwell Family	Gladstone	2017-11-11	ss2012-11-11-amazinglove.mp3			Special Song	Y
+161	Wise Man Built His House	Ken Elwell Family	Gladstone	2017-11-11	ss2012-11-11-wisemanbuild.mp3			Special Song	Y
+162	My Anchor Of Hope	Joe Elwell Family	Gladstone	2017-11-11	ss2012-11-11-anchorofhope.mp3			Special Song	Y
+163	He Touched Me	Josh & John Samons	Gladstone	2017-11-11	ss2012-11-11he-touched-me.mp3			Special Song	Y
+164	He Lifts Me Higher	Josh & John Samons	Gladstone	2017-11-11	ss2012-11-11-higher.mp3			Special Song	Y
+165	Who Am I?	Josh & John Samons	Gladstone	2017-11-11	ss2017-11-11-whoami.mp3			Special Song	Y
+166	Never Made A Promise	Joe Elwell Family	Gladstone	2017-11-11	ss2017-11-11neverpromise.mp3			Special Song	Y
+167	Prayer Bells of Heaven	Cliff Smith Family	Gladstone	2017-11-11	2017-11-11-prayerbells.mp3			Special Song	Y
+168	Be Ready	Curtis Williams	Gladstone	2017-11-11	p2017-11-11pm.mp3			Message	Y
+169	Spiritual Underbrush	Don Elwell	Clackamas	2017-11-19	p2017-11-19am.mp3			Message	Y
+170	To Your Faith Add Knowledge	Don Elwell	Clackamas	2017-11-05	p2017-11-05am.mp3			Message	Y
+171	Dominion of Christ	Huyen Hoang	Clackamas	2017-11-26	p2017-11-26am.mp3			Message	Y
+172	The Mind of Christ	Don Elwell	Clackamas	2017-12-03	p2017-12-03am.mp3			Message	Y
+173	The Almond in the Garden	Huyen Hoang	Clackamas	2017-12-03	p2017-12-03pm.mp3			Message	Y
+174	Announcing Arrival of Christ	Don Elwell	Clackamas	2017-12-10	p2017-12-10am.mp3			Message	Y
+175	Value of Tragedy	Don Elwell	Clackamas	2017-12-31	p2017-12-31am.mp3			Message	Y
+176	The Power Within You	Curtis Williams	Clackamas	2017-11-10	Exceeding Abundantly Above.mp3			Message	Y
+177	Never Made A Promise	Joe Elwell Family	Clackamas	2018-01-07	ss2018-01-07am.mp3			Special Song	Y
+178	Seeing the Glory of God	Huyen Hoang	Clackamas	2018-01-07	p2018-01-07am.mp3			Message	Y
+179	Joy in Service	Don Elwell	Clackamas	2018-01-07	p2018-01-07pm.mp3			Message	Y
+180	Bear Another's Burdens	Don Elwell	Clackamas	2018-01-14	p2018-01-14am.mp3			Message	Y
+181	The Prudent Man	Don Elwell	Clackamas	2018-01-21	p2018-01-21am.mp3			Message	Y
+182	Urgings of the Apostles	Huyen Hoang	Clackamas	2018-01-21	p2018-01-21pm.mp3			Message	Y
+183	Walking with God	Huyen Hoang	Clackamas	2018-01-28	p2018-01-28am.mp3			Message	Y
+184	One Bite at a Time	Don Elwell	Clackamas	2018-02-04	p2018-02-04am.mp3			Message	Y
+185	Source of True Progress	Huyen Hoang	Clackamas	2018-02-04	p2018-02-04pm.mp3			Message	Y
+186	Thinking Errors	Don Elwell	Clackamas	2018-02-18	p2018-02-18am.mp3			Message	Y
+187	Spiritually Stubborn	Don Elwell	Clackamas	2018-02-18	p2018-02-18pm.mp3			Message	Y
+188	He Cares	Don Elwell	Clackamas	2018-02-25	p2018-02-25am.mp3			Message	Y
+189	The Work of God	Don Elwell	Clackamas	2018-03-04	p2018-03-04am.mp3			Message	Y
+190	Kiss the Son	Huyen Hoang	Clackamas	2018-03-04	p2018-03-04pm.mp3			Message	Y
+191	Playing to Win	Don Elwell	Clackamas	2018-03-11	p2018-03-11am.mp3			Message	Y
+192	The Wisdom of God	Huyen Hoang	Clackamas	2018-03-18	p2018-03-18am.mp3			Message	Y
+193	DIstractions	Don Elwell	Clackamas	2018-03-18	p2018-03-18pm.mp3			Message	Y
+194	Be an Overcomer	Clackamas Congregation	Clackamas	2018-03-18	cs2018-03-18-Overcomer.mp3			Singing	Y
+195	Press the Battle On	Clackamas Congregation	Clackamas	2018-03-18	ss-2018-3-18-PressBON.mp3			Singing	Y
+196	The Land of Beulah	Clackamas Congregation	Clackamas	2018-03-18	cs2018-03-18Beulah.mp3			Singing	Y
+197	Never Alone	Clackamas Congregation	Clackamas	2018-03-18	cs2018-03-18NeverAlone.mp3			Singing	Y
+198	I'll Follow Jesus	Clackamas Congregation	Clackamas	2018-03-18	cs2018-03-18followJesus.mp3			Singing	Y
+199	God Omnicient	Clackamas Congregation	Clackamas	2018-03-18	cs2018-03-18Omnicient.mp3			Singing	Y
+201	Satisfied in Jesus	Clackamas Congregation	Clackamas	2018-03-18	cs2018-03-18-satisfied.mp3			Singing	Y
+202	Satisfies My Soul	Clackamas Congregation	Clackamas	2018-03-18	cs-2018-03-18satisfies.mp3			Singing	Y
+203	Real Freedom	Don Elwell	Clackamas	2018-03-25	p2018-03-25am.mp3			Message	Y
+204	Bless Your Holy Name Again	Joe Elwell Family	Clackamas	2018-04-01	ss2018-04-01am.mp3			Special Song	Y
+205	I'm Redeemed	Clackamas Congregation	Clackamas	2018-04-01	cs2018-04-01redeemed.mp3			Singing	Y
+206	Decision Tree	Don Elwell	Clackamas	2018-04-08	p2018-04-08am.mp3			Message	Y
+207	Impossible is Nothing	Don Elwell	Clackamas	2018-04-15	p2018-04-15am.mp3			Message	Y
+208	Abide in the Love of God	Huyen Hoang	Clackamas	2018-04-15	p2018-04-15pm.mp3			Message	Y
+209	One Thing I Can Do	Clackamas Congregation	Clackamas	2018-04-15	cs2018-04-15OneThing.mp3			Singing	Y
+210	Heaven Holds All To Me	Clackamas Congregation	Clackamas	2018-04-15	cs2018-04-15HeavenHoldsAll.mp3			Singing	Y
+211	He is Just the Same Today	Clackamas Congregation	Clackamas	2018-04-15	cs2018-04-15JustTheSame.mp3			Singing	Y
+212	Never Alone	Clackamas Congregation	Clackamas	2018-04-15	cs2018-04-15NeverAlone.mp3			Singing	Y
+213	In Thou Whose Presence	Clackamas Congregation	Clackamas	2018-04-15	cs2018-04-15ThouPresence.mp3			Singing	Y
+214	Conscience Void of Offence	Don Elwell	Clackamas	2018-04-29	p2018-04-29am.mp3			Message	Y
+215	The Wondrous Story	Clackamas Congregation	Clackamas	2018-04-29	cs2018-04-29Wondrous.mp3			Singing	Y
+216	What a Friend	Clackamas Congregation	Clackamas	2018-04-29	cs2018-04-29Friend.mp3			Singing	Y
+217	There is a Fountain	Clackamas Congregation	Clackamas	2018-04-29	cs2018-04-29Fountain.mp3			Singing	Y
+218	Joy in the Lord	Clackamas Congregation	Clackamas	2018-04-29	cs2018-04-29JoyInLord.mp3			Singing	Y
+219	The Word of God	Clackamas Congregation	Clackamas	2018-04-29	cs2018-04-29WordofGod.mp3			Singing	Y
+220	The Lord Will Get You There	Don Elwell	Clackamas	2018-05-06	p2018-05-06am.mp3			Message	Y
+221	Recharging	Don Elwell	Clackamas	2018-05-13	p2018-05-13am.mp3			Message	Y
+222	Press the Battle On	Clackamas Congregation	Clackamas	2018-05-20	cs2018-05-20PressBattle.mp3			Singing	Y
+223	Opening Song	Clackamas Congregation	Clackamas	2018-05-20	CS2018-05-20Opening.mp3			Singing	Y
+224	Song of Praise	Clackamas Congregation	Clackamas	2018-05-20	cs2018-05-20SongOfPraise.mp3			Singing	Y
+225	Sacrifice, Seek, Save	Don Elwell	Clackamas	2018-05-20	p2018-05-20am.mp3			Message	Y
+226	The Battle's Not Mine	Joe Elwell Family	Clackamas	2018-05-27	ss2018-05-27NotMine.mp3			Special Song	Y
+227	Encourage Yourself in the Lord	Don Elwell	Clackamas	2018-05-27	p2018-05-27am.mp3			Message	Y
+228	Friends and Witnesses	Huyen Hoang	Clackamas	2018-06-10	p2018-06-10am.mp3			Message	Y
+229	Jesus Lives in Me	Clackamas Congregation	Clackamas	2018-06-10	cs2018-06-10JesusLives.mp3			Singing	Y
+230	Never Alone	Clackamas Congregation	Clackamas	2018-06-10	cs2018-06-10NeverAlone.mp3			Singing	Y
+231	Joy Unspeakable	Clackamas Congregation	Clackamas	2018-06-10	cs2018-06-10JoyUnspeak.mp3			Singing	Y
+232	Test of Time	Joe Elwell Family	Clackamas	2018-06-10	ss2018-06-10TestTime.mp3			Special Song	Y
+233	Song of Praise	Clackamas Congregation	Clackamas	2018-06-10	cs2018-06-10SongPraise.mp3			Singing	Y
+234	He Hideth My Soul	Clackamas Congregation	Clackamas	2018-06-10	cs2018-06-10Hideth.mp3			Singing	Y
+235	Hope of the Righteous	Clackamas Congregation	Clackamas	2018-06-10	cs2018-06-10HopeRight.mp3			Singing	Y
+236	Confidence in God	Don Elwell	Clackamas	2018-06-03	p2018-06-03am.mp3			Message	Y
+237	Everlasting Joy	Clackamas Congregation	Clackamas	2018-06-03	ss2018-06-03EverJoy.mp3			Singing	Y
+238	I Will Tell the Wondrous Story	Clackamas Congregation	Clackamas	2018-06-03	ss2018-06-03Free.mp3			Singing	Y
+239	Come Jesus Reign in Me	Clackamas Congregation	Clackamas	2018-06-03	ss2018-06-03Reign.mp3			Singing	Y
+240	We Will Work for Jesus	Clackamas Congregation	Clackamas	2018-06-03	ss2018-06-03Work.mp3			Singing	Y
+241	Still Lot of Blood at Calvary	Joe Elwell Family	Clackamas	2018-06-03	ss2018-06-03.mp3			Special Song	Y
+242	Sweetly Resting	Clackamas Congregation	Clackamas	2018-06-17	cs2018-06-17SweetlyResting.mp3			Singing	Y
+243	My Home is On the Rock	Clackamas Congregation	Clackamas	2018-06-17	cs2018-06-17HomeRock.mp3			Singing	Y
+244	Sweet Rest in Jesus	Clackamas Congregation	Clackamas	2018-06-17	cs2018-06-17RestInJesus.mp3			Singing	Y
+245	You Ought To Sing	Clackamas Congregation	Clackamas	2018-06-17	cs2018-06-17Ought.mp3			Singing	Y
+246	What a Lovely Name	Michael Smith Family	Clackamas	2018-06-17	ss2018-06-17LovelyName.mp3			Special Song	Y
+247	The Father with Two Sons	Michael Smith	Clackamas	2018-06-17	p2018-06-17am.mp3			Message	Y
+248	Peace in the Glorious Mundane	Don Elwell	Clackamas	2018-07-01	p2018-07-01am.mp3			Message	Y
+249	A Call to Ministry	Huyen Hoang	Clackamas	2018-08-05	p2018-08-05pm.mp3			Message	Y
+250	A Lively Hope	Don Elwell	Clackamas	2018-07-08	p2018-07-08am.mp3			Message	Y
+251	Spiritual Warfare	Don Elwell	Clackamas	2018-08-05	p2018-08-05am.mp3			Message	Y
+252	Children of Light	Huyen Hoang	Clackamas	2018-08-12	p2018-08-12am.mp3			Message	Y
+253	Fill My Cup, Lord	Joe Elwell Family	Clackamas	2018-08-12	ss2018-08-12Fill.mp3			Special Song	Y
+254	Acknowledge Him	Don Elwell	Clackamas	2018-09-02	p2018-09-02am.mp3			Message	Y
+255	Encounter Jesus Christ	Huyen Hoang	Clackamas	2018-09-09	p2018-09-09am.mp3			Message	Y
+256	Stand in the Gap	Don Elwell	Clackamas	2018-09-23	p2018-09-23am.mp3			Message	Y
+257	Chosen and Recruited	Don Elwell	Clackamas	2018-09-30	p2018-09-30am.mp3			Message	Y
+258	Double Down on Jesus	Don Elwell	Clackamas	2018-10-14	p2018-10-14am.mp3			Message	Y
+259	Examine Yourselves	Don Elwell	Clackamas	2018-10-21	p2018-10-21am.mp3			Message	Y
+260	To The Table	Herter & Elwell Young People	Clackamas	2018-10-14	ss2018-10-14am.mp3			Special Song	Y
+261	Decisive Obedience	Don Elwell	Gladstone	2018-12-02	p2018-12-02am.mp3			Message	Y
+262	Go Slow to Go Fast	Don Elwell	Clackamas	2018-11-11	p2018-11-11am.mp3			Message	Y
+263	Bless Your Holy Name Again	Joe Elwell Family	Clackamas	2018-11-11	ss2018-11-11am.mp3			Special Song	Y
+264	Be Like the Eagle	Don Elwell	Clackamas	2018-10-28	p2018-10-28am.mp3			Message	Y
+265	The Happy People	Gladstone Congregation	Gladstone	2018-12-09	cs2018-12-09happy.mp3			Singing	Y
+266	Humble Thyself to Walk	Gladstone Congregation	Gladstone	2018-12-09	cs2018-12-09humble.mp3			Singing	Y
+267	Sitting with Jesus	Gladstone Congregation	Gladstone	2018-12-09	cs2018-12-09sitting.mp3			Singing	Y
+268	Take My Life and Let it Be	Gladstone Congregation	Gladstone	2018-12-09	cs2018-12-09take.mp3			Singing	Y
+269	Fullness of Joy in the Light	Don Elwell	Gladstone	2018-12-09	p2018-12-09am.mp3			Message	Y
+270	Good Tidings of Great Joy	Ken Elwell	Gladstone	2018-12-23	p2018-12-23am.mp3			Message	Y
+271	The Word of God	Don Elwell	Gladstone	2018-12-16	p2018-12-16pm.mp3			Message	Y
+272	From the Beginning	Huyen Hoang	Gladstone	2018-12-16	p2018-12-16am-huyen.mp3			Message	N
+273	Fringe Benefits	Don Elwell	Gladstone	2019-01-13	p2019-01-13am.mp3			Message	Y
+274	Satan's Long Game	Don Elwell	Gladstone	2019-01-27	p2019-01-27am.mp3			Message	Y
+275	Be Still	Gladstone Congregation	Gladstone	2019-01-27	cs2019-01-27-be-still.mp3			Singing	Y
+276	Blessed Assurance	Gladstone Congregation	Gladstone	2019-01-27	cs2019-01-27-assurance.mp3			Singing	Y
+277	God is Love	Gladstone Congregation	Gladstone	2019-01-27	cs2019-01-27-love.mp3			Singing	Y
+278	Called to Be Extraordinary	Don Elwell	Gladstone	2019-01-20	p2019-01-20am.mp3			Message	Y
+279	A Sip of Near Beer	Don Elwell	Gladstone	2019-02-10	p2019-02-10am.mp3			Message	Y
+280	Victory in Jesus	Donald Elwell III	Gladstone	2019-02-17	p2019-02-17pm.mp3			Message	Y
+281	Cultivating Compassion	Don Elwell	Gladstone	2019-02-17	p2019-02-17am.mp3			Message	Y
+282	The Lighthouse	Gladstone Congregation	Gladstone	2019-02-17	cs2019-02-17-lighthouse.mp3			Singing	Y
+283	Victory	Gladstone Congregation	Gladstone	2019-02-17	cs2019-02-17-victory.mp3			Singing	Y
+284	Happy, Redeemed and Free	Gladstone Congregation	Gladstone	2019-02-17	cs2019-02-17-happy.mp3			Singing	Y
+285	Everlasting Joy	Gladstone Congregation	Gladstone	2019-02-17	cs2019-02-17-joy.mp3			Singing	Y
+286	Hallelujah Praise Jehovah	Gladstone Congregation	Gladstone	2019-02-17	cs2019-02-17-jehovah.mp3			Singing	Y
+287	Opening Song	Gladstone Congregation	Gladstone	2019-02-17	cs2019-02-17-opening.mp3			Singing	Y
+288	Take Us the Little Foxes	Don Elwell	Gladstone	2019-02-24	p2019-02-24am.mp3			Message	Y
+289	Seeking for Inspiration	Don Elwell	Gladstone	2019-03-03	p2019-03-03am.mp3			Message	Y
+290	The Battle - Good vs. Evil	Don Elwell	Gladstone	2019-03-17	p2019-03-17am.mp3			Message	Y
+291	Two Weapons	Don Elwell	Gladstone	2019-03-17	p2019-03-17pm.mp3			Message	Y
+292	Witness Protection Program	Donald Elwell III	Gladstone	2019-03-24	p2019-03-24am.mp3			Message	Y
+293	Suffer the Children	Gladstone Congregation	Gladstone	2019-03-24	ss2019-03-24am.mp3			Special Song	Y
+294	Weapons of Our Warfare	Don Elwell	Gladstone	2019-03-31	p2019-03-31am.mp3			Message	Y
+295	Clear Vision	Ken Elwell	Gladstone	2019-04-07	p2019-04-07am.mp3			Message	Y
+296	Tools for Battle	Don Elwell	Gladstone	2019-04-07	p2019-04-07pm.mp3			Message	Y
+297	How Could Not We Cast Him Out?	Don Elwell	Gladstone	2019-04-14	p2019-04-14am.mp3			Message	Y
+298	God our H.O.P.E.	Don Elwell	Gladstone	2019-04-21	p2019-04-21am.mp3			Message	Y
+299	God's Love - Our Confidence	Don Elwell	Gladstone	2019-04-28	p2019-04-28am.mp3			Message	Y
+300	Jesus is a Hiding Place	Herter & Elwell Young People	Gladstone	2019-04-28	ss2019-04-28am.mp3			Special Song	Y
+301	Because He Lives	Gladstone Young People	Gladstone	2019-04-21	ss2019-04-21am.mp3			Special Song	Y
+302	Battle of the Sexes	Don Elwell	Gladstone	2019-05-12	p2019-05-12am.mp3			Message	Y
+303	Unlimited Minutes	Don Elwell	Gladstone	2019-05-19	p2019-05-19am.mp3			Message	Y
+304	The Butterfly Effect	Don Elwell	Gladstone	2019-05-26	p2019-05-26am.mp3			Message	Y
+305	Jesus Loves The Children	Gladstone Congregation	Gladstone	2019-06-02	ss2019-06-02ss.mp3			Special Song	Y
+306	Contentment by Faith	Don Elwell	Gladstone	2019-06-02	p2019-06-02am.mp3			Message	Y
+307	Heavenly Corporation	Donald Elwell III	Gladstone	2019-06-02	p2019-06-02pm.mp3			Message	Y
+308	Building on the Rock	Donald Elwell III	Gladstone	2019-06-16	p2019-06-16am.mp3			Message	Y
+309	Proving your Love	Donald Elwell III	Gladstone	2019-07-07	p2019-07-07am.mp3			Message	Y
+310	What Doth God Require?	Don Elwell	Gladstone	2019-07-21	p2019-07-21am.mp3			Message	Y
+311	Obedience By Faith	Don Elwell	Gladstone	2019-07-14	p2019-07-14am.mp3			Message	Y
+312	What a Day!	Joe Elwell Family	Gladstone	2019-07-14	ss2019-07-14am.mp3			Special Song	Y
+313	And a Child Shall Lead Them	Gladstone Congregation	Gladstone	2019-07-14	ss2019-07-14ss.mp3			Singing	Y
+314	A Dog's Life	Don Elwell	Gladstone	2019-08-11	p2019-08-11am.mp3			Message	Y
+315	Take 1	Joe Elwell Family	Gladstone	2019-09-01	spliced.mp3			Special Song	N
+316	Take 2	Joe Elwell Family	Gladstone	2019-09-01	final.mp3			Singing	N
+317	Casual Christianity	Don Elwell	Gladstone	2019-08-25	p2019-08-25am.mp3			Message	Y
+318	Prioritizing our Preferences	Don Elwell	Gladstone	2019-09-01	p2019-09-01am.mp3			Message	Y
+319	The Power of Life and Death	Don Elwell	Gladstone	2019-09-29	p2019-09-29am.mp3			Message	Y
+320	Keep Your Focus on God	Donald Elwell III	Gladstone	2019-10-13	p2019-10-13am.mp3			Message	Y
+321	Destroy Your Distractions	Don Elwell	Gladstone	2019-09-22	p2019-09-22am.mp3			Message	Y
+322	Distractions	Donald Elwell III	Gladstone	2019-10-27	p2019-10-27am.mp3			Message	Y
+323	Stir up they Gift	Donald Elwell III	Gladstone	2019-11-10	p2019-11-10am.mp3			Message	Y
+324	Max Out Your Experience	Don Elwell	Gladstone	2019-10-20	p2019-10-20am.mp3			Message	Y
+325	Directing thy Path	Don Elwell	Gladstone	2019-11-24	p2019-11-24am.mp3			Message	Y
+326	Beautifying the Meek	Don Elwell	Gladstone	2019-12-08	p2019-12-08am.mp3			Message	Y
+327	More Blessed to Give	Don Elwell	Gladstone	2019-12-15	p2019-12-15am.mp3			Message	Y
+328	Don't Conform - Transform	Don Elwell	Gladstone	2019-12-29	p2019-12-29am.mp3			Message	Y
+329	Run for Your Life	Don Elwell	Gladstone	2020-01-12	p2020-01-12am.mp3			Message	Y
+330	Can't Skate to Heaven	Ken Elwell Family	Gladstone	2020-01-12	ss2020-01-12am.mp3			Special Song	Y
+331	Unspotted From the World	Don Elwell	Gladstone	2020-02-09	p2020-02-09am.mp3			Message	Y
+332	Mental Fortitude	Don Elwell	Gladstone	2020-02-16	p2020-02-16am.mp3			Message	Y
+333	Dedicated to God's Work	Don Elwell	Gladstone	2020-03-01	p2020-03-01am.mp3			Message	Y
+334	Satisfies My Soul	Gladstone Congregation	Gladstone	2020-03-08	satisfies.mp3			Singing	N
+335	Glorious Freedom	John Samons Family	Gladstone	2020-03-08	ss2020-03-08-glorious.mp3			Special Song	Y
+336	Now My Soul Has Been Set Free	Damar Randle	Gladstone	2020-03-08	ss2020-03-08-damar.mp3			Special Song	Y
+337	The Fifth Column	Michael Smith	Gladstone	2020-03-08	p2020-03-08am.mp3			Message	Y
+338	Standing on the Rock	Ken Elwell	Virtual	2020-04-05	p2020-04-05am.mp3			Message	Y
+339	Beyond the Cross	Don Elwell	Virtual	2020-04-12	p2020-04-12am.mp3			Message	Y
+340	Resurrection	Ken Elwell	Virtual	2020-04-12	p2020-04-12pm.mp3			Message	Y
+341	Standing on the Promises	Herter Family	Virtual	2020-04-05	ss2020-04-05-standing.mp3			Special Song	Y
+342	Take Heed How you Build	Don Elwell	Virtual	2020-04-19	p2020-04-19am.mp3			Message	Y
+343	Power of the Blessing	Don Elwell	Virtual	2020-04-26	p2020-04-26am.mp3			Message	Y
+344	Take My Yoke Upon You	Ken Elwell	Virtual	2020-05-03	p2020-05-03am.mp3			Message	Y
+345	When Feeling Overwhelmed	Don Elwell	Virtual	2020-05-10	p2020-05-10am.mp3			Message	Y
+346	Walking in the Old Paths	Ken Elwell	Virtual	2020-05-17	p2020-05-17am.mp3			Message	Y
+347	Glorious Zion	Joe Elwell Family	Virtual	2020-05-17	p2020-05-17ss1.mp3			Special Song	Y
+348	Time	Mary Lawson	Virtual	2020-05-24	p2020-05-24am.mp3			Message	Y
+349	Pure Religion	Don Elwell	Virtual	2020-05-31	p2020-05-31am.mp3			Message	Y
+350	A Place of Maturity	Ken Elwell	Gladstone	2020-06-07	p2020-06-07am.mp3			Message	Y
+351	The Abundant Life	Don Elwell	Gladstone	2020-06-14	p2020-06-14am.mp3			Message	Y
+352	God Is Still On His Throne	Michael Smith	Jefferson	2020-06-19	p2020-06-19pm.mp3			Message	Y
+353	The Land of Our Fathers	Michael Smith	Gladstone	2020-06-21	p2020-06-21am.mp3			Message	Y
+354	Healing Our Wounds	Donald Elwell III	Gladstone	2020-06-28	p2020-06-28am.mp3			Message	Y
+355	Savior Solves Every Problem	Herter Family	Virtual	2020-06-28	special-2020-06-28.mp3			Special Song	Y
+356	Separate From the World - #1	Ken Elwell	Gladstone	2020-06-21	ss-2020-06-21.mp3	Separate 	Separate 	Sunday School	Y
+357	Separate From the World - #2	Ken Elwell	Gladstone	2020-06-28	ss2020-06-28.mp3	Separate 	Separate 	Sunday School	Y
+358	Discourage Proof	Don Elwell	Gladstone	2020-07-05	p2020-07-05am.mp3			Message	Y
+359	Spiritual PPE	Don Elwell	Gladstone	2020-07-12	p2020-07-12am.mp3			Message	Y
+360	He Knows Your Name	Don Elwell	Virtual	2020-07-26	p2020-07-26am.mp3			Message	Y
+361	A Gracious Offender	Don Elwell	Gladstone	2020-08-09	p2020-08-09am.mp3			Message	Y
+362	Who Do You Love?	Ken Elwell	Gladstone	2020-08-02	p2020-08-02am.mp3			Message	Y
+363	Strength through weakness	Ken Elwell	Gladstone	2020-08-16	p2020-08-16am.mp3			Message	Y
+364	Obedience though Faith	Ken Elwell	Gladstone	2020-08-23	2020-08-23am.mp3			Message	Y
+365	Your Own Work, Your Own Reward	Don Elwell	Gladstone	2020-08-30	p2020-08-30am.mp3			Message	Y
+366	The Cause of Christ	Ken Elwell	Gladstone	2020-09-06	p2020-09-06am.mp3			Message	Y
+367	Knowing The Truth	Donald Elwell III	Gladstone	2020-09-13	p2020-09-13am.mp3			Message	Y
+368	Misplaced Fear	Don Elwell	Gladstone	2020-09-20	p2020-09-20am.mp3			Message	Y
+369	Test	Julie Elwell	Gladstone	2020-09-27	Andy Lewis resume - 2020.pdf			Lesson	N
+370	Influence	Julie Elwell	Gladstone	2020-09-27	9-27-20-influence.pdf			Lesson	Y
+372	When I Get To End of the Way	Herter Family	Virtual	2020-09-27	ss2020-09-27am.mp3			Special Song	Y
+373	Rewarder of the Diligent	Ken Elwell	Gladstone	2020-09-27	p2020-09-27am.mp3			Message	Y
+374	Truth vs Prosperity Gospel	Donald Elwell III	Gladstone	2020-10-07	TruthVsProsperityGospel.pdf			Lesson	Y
+375	Power in the Blood	Herter Family	Virtual	2020-10-11	ss2020-10-11am.mp3			Special Song	Y
+376	You Can Trust God	Don Elwell	Virtual	2020-10-11	p2020-10-11am.mp3			Message	Y
+377	Behold the Hand, Behold Nail	Huyen Hoang	Gladstone	2020-10-04	p2020-10-04am.mp3			Message	Y
+378	Nothing Can Touch Me	Don Elwell Family	Gladstone	2020-10-04	ss2020-10-04am.mp3			Special Song	Y
+379	I Know a Man Who Can	Darren & Tiffany Gellenbeck	Virtual	2020-10-18	ss-2020-10-18am.mp3			Special Song	Y
+380	Keep your Heart Tender	Don Elwell	Virtual	2020-10-18	p2020-10-18am.mp3			Message	Y
+381	I Know My Name Is There	Gladstone Congregation	Gladstone	2020-10-21	cs2020-10-21pm.mp3			Singing	Y
+382	The Better Life	Michael Smith	Gladstone	2020-10-21	p2020-10-21pm.mp3			Message	Y
+383	Preparing for Battle	Bob Wilson	Jefferson	2020-10-22	p2020-10-22pm.mp3			Message	Y
+384	Consider What You Have	Paul Phillips	Jefferson	2020-10-23	p2020-10-23pm.mp3			Message	Y
+385	His Grace Reaches Me	Michael Smith Family	Jefferson	2020-10-23	ss2020-10-23pm.mp3			Special Song	Y
+386	Don't Give Up Your Faith	Bob Wilson	Gladstone	2020-10-25	p2020-10-25am.mp3			Message	Y
+387	His Name is Jesus	Damar Randle	Gladstone	2020-10-25	ss2020-10-25am.mp3			Special Song	Y
+388	Don Elwell's Ordination	Michael Smith	Gladstone	2020-10-24	p2020-10-24pm-1.mp3			Message	Y
+389	I Still Serve an Amazing God	Joe Elwell Family	Gladstone	2020-10-24	ss-2020-10-24.mp3			Special Song	Y
+390	A New Chapter	Michael Smith	Gladstone	2020-10-24	p2020-10-24-pm-2.mp3			Message	Y
+391	Spiritual Discipline	Julie Elwell	Gladstone	2020-11-01	11-1-20-slugs.pdf			Lesson	Y
+392	High Priest, Friend & Brother	Ken Elwell	Gladstone	2020-11-01	p2020-11-01am.mp3			Message	Y
+393	Discipline (continued)	Julie Elwell	Gladstone	2020-11-08	discipline11-8.pdf			Lesson	Y
+394	Review Your List	Don Elwell	Gladstone	2020-11-08	p2020-11-08am.mp3			Message	Y
+395	Hear Admonishment of Wisdom	Ken Elwell	Gladstone	2020-11-15	p2020-11-15am.mp3			Message	Y
+397	Truth vs Prosperity Gospel	Donald Elwell III	Gladstone	2020-11-18	prosperity.pdf			Lesson	Y
+398	Lineage of Jesus	Julie Elwell	Gladstone	2020-11-22	11.21.20-lineage.pdf			Lesson	Y
+399	Zecharias & Elizabeth	Julie Elwell	Gladstone	2020-11-29	11.29.20-zecharias.pdf			Lesson	Y
+400	Mary and Joseph	Julie Elwell	Gladstone	2020-12-06	12-6-20-mary-joseph.pdf			Lesson	Y
+401	If Jesus is There	Herter Family	Virtual	2020-12-06	ss2020-12-06.mp3			Special Song	Y
+402	Hope in our Messiah	Huyen Hoang	Gladstone	2020-12-06	p2020-12-06am.mp3			Message	Y
+403	Trust in God's Capability	Ken Elwell	Gladstone	2020-11-29	p2020-11-29am.mp3			Message	Y
+404	Ask and it shall be Given	Don Elwell	Gladstone	2020-11-22	p2020-11-22am.mp3			Message	Y
+405	Birth of Jesus	Julie Elwell	Gladstone	2020-12-13	12.13.20-birth-of-jesus.pdf			Lesson	Y
+406	Don't Forget the Benefits	Don Elwell	Gladstone	2020-12-13	p2020-12-13am.mp3			Message	Y
+407	Divine or Just Mighty?	Donald Elwell III	Gladstone	2020-12-16	divine-or-mighty.pdf			Lesson	Y
+408	Good Tidings	Julie Elwell	Gladstone	2020-12-20	12.20.20-Good-Tidings.pdf			Lesson	Y
+409	Wise Men Still Seek Him	Julie Elwell	Gladstone	2020-12-27	wise-men.pdf			Lesson	Y
+410	He Knows What you Need	Huyen Hoang	Gladstone	2020-12-27	p2020-12-27am.mp3			Message	Y
+411	That Place Made For Me	Ken Elwell	Gladstone	2021-01-03	p2021-01-03am.mp3			Message	Y
+412	Fallen From Heaven	Donald Elwell III	Gladstone	2021-01-20	fallen-from-heaven.pdf			Lesson	Y
+413	The Glory of the Cross	Ken Elwell	Gladstone	2021-01-24	p2021-01-24am.mp3			Message	Y
+414	Keep the Faith	Don Elwell	Gladstone	2021-01-17	p2021-01-17am.mp3			Message	Y
+415	The Perfect Gift	Donald Elwell III	Gladstone	2021-01-10	p2021-01-10am.mp3			Message	Y
+416	Mercy	Don Elwell	Gladstone	2021-01-31	p2021-01-31am.mp3			Message	Y
+417	Fallen From Heaven (cont)	Donald Elwell III	Gladstone	2021-02-03	fallen-from-heaven-2.pdf			Lesson	Y
+418	Lord Lead Me On	Herter Family	Gladstone	2021-01-17	ss2021-01-17-llmo.mp3			Special Song	Y
+419	Fully Saved Today	Herter Family	Gladstone	2021-01-31	ss2021-01-31fully.mp3			Special Song	Y
+420	What A Privilege	Herter Family	Gladstone	2021-01-10	ss2021-01-10.mp3			Special Song	Y
+421	Calmly Resting in the Lord	Herter Family	Gladstone	2021-01-24	ss2021-01-24am.mp3			Special Song	Y
+422	Relationships	Don Elwell	Gladstone	2021-02-07	p2021-02-07am.mp3			Message	Y
+423	.. But God	Ken Elwell	Gladstone	2021-02-14	p2021-02-14am.mp3			Message	Y
+424	Spiritual Gifts	Donald Elwell III	Virtual	2021-02-17	spiritual-gifts.pdf			Lesson	Y
+425	Reacting to Offenses	Ken Elwell	Gladstone	2021-02-28	p2021-02-28am.mp3			Message	Y
+426	Romans Study - 2021-03-07	Huyen Hoang	Gladstone	2021-03-07	sschool2021-03-07am.mp3	Romans 	Romans 	Sunday School	Y
+427	Seek Those Things Above	Don Elwell	Gladstone	2021-03-07	p2021-03-07am.mp3			Message	Y
+428	Romans - Chapter 5	Huyen Hoang	Gladstone	2021-03-14	ssch2021-03-14am.mp3	Romans 	Romans 	Sunday School	Y
+429	Ponder the Path of thy Feet	Rodney Smith	Gladstone	2021-03-14	p2021-03-14am.mp3			Message	Y
+430	Let Me Lose Myself	Herter Family	Virtual	2021-03-21	ss-2021-03-21am.mp3			Special Song	Y
+431	Romans 6 - 3/21/2021	Huyen Hoang	Gladstone	2021-03-21	ssch2021-03-21am.mp3	Romans 	Romans 	Sunday School	Y
+432	The River of God	Ken Elwell	Gladstone	2021-03-21	p2021-03-21am.mp3			Message	Y
+433	Romans 6 - 3/28/2021	Huyen Hoang	Gladstone	2021-03-28	ssch2021-03-28am.mp3	Romans 	Romans 	Sunday School	Y
+434	Do You Know How It Feels	Herter Family	Virtual	2021-03-28	ss2021-03-28am.mp3			Special Song	Y
+435	If It Be Possible	Don Elwell	Gladstone	2021-03-28	p2021-03-28am.mp3			Message	Y
+436	Romans 7 - 04-04-2021	Huyen Hoang	Gladstone	2021-04-04	ssch2021-04-04am.mp3	Romans 	Romans 	Sunday School	Y
+437	Jesus Knows Your Name	Ken Elwell	Gladstone	2021-04-04	p2021-04-04am.mp3			Message	Y
+438	Heavenly Love	Don Elwell Family	Gladstone	2021-04-04	ss2021-04-04am.mp3			Special Song	Y
+439	Going It Alone	Michael Smith	Jefferson	2021-04-09	p2021-04-10pm.mp3			Message	Y
+440	Is All Clear?	Michael Smith	Jefferson	2021-04-10	p2021-04-11pm.mp3			Message	Y
+441	From the Fix I was In	Damar Randle	Jefferson	2021-04-10	ss2021-04-11pm.mp3			Special Song	Y
+442	There Is A Path	Michael Smith	Jefferson	2021-04-11	p2021-04-11am.mp3			Message	Y
+443	Last Sunday School @ Jefferson	Patsy Smith	Jefferson	2021-04-11	ssch-2021-04-11am.mp3	Last 	Last 	Sunday School	Y
+444	Goodbye Jefferson!	Jefferson Congregation	Jefferson	2021-04-11	m2021-04-11pm.mp3			Memorial Service	Y
+445	Romans 7 - Ten Commandments?	Huyen Hoang	Gladstone	2021-04-18	ssch2021-04-18am.mp3	Romans 	Romans 	Sunday School	Y
+446	How Deep The Father's Love	Herter Family	Virtual	2021-04-18	ss2021-04-18am.mp3			Special Song	Y
+447	Jesus Has Risen Within You	Don Elwell	Gladstone	2021-04-18	p2021-04-18am.mp3			Message	Y
+448	Before the Throne of God Above	Herter Family	Virtual	2021-04-25	ss2021-04-25am.mp3			Special Song	Y
+449	Romans 8 - 4/25/2021	Huyen Hoang	Gladstone	2021-04-25	ssch2021-04-25am.mp3	Romans 	Romans 	Sunday School	Y
+450	Jesus Christ - Your Friend	Don Elwell	Gladstone	2021-04-25	p2021-04-25am.mp3			Message	Y
+451	Freedom in Christ	Ken Elwell	Gladstone	2021-05-02	p2021-05-02am.mp3			Message	Y
+452	Because of Him	Gladstone Young People	Gladstone	2021-05-02	ss2021-05-02am.mp3			Special Song	Y
+453	Freedom!	Lois Davenport	Virtual	2021-05-02	t2021-05-02am.mp3			Testimony	Y
+454	Romans 8 - Suffering & Glory	Huyen Hoang	Gladstone	2021-05-02	ssch2021-05-02am.mp3	Romans 	Romans 	Sunday School	Y
+455	According to His Divine Power	Don Elwell	Gladstone	2021-05-09	p2021-05-09am.mp3			Message	Y
+456	Romans 8 - Destined for Glory	Huyen Hoang	Gladstone	2021-05-09	ssch2021-05-09am.mp3	Romans 	Romans 	Sunday School	Y
+457	Romans 9 - 5/16/2021	Huyen Hoang	Gladstone	2021-05-16	ssch2021-05-16am.mp3	Romans 	Romans 	Sunday School	Y
+458	Suffer the Children	Gladstone Congregation	Gladstone	2021-05-09	ss2021-05-09am.mp3			Singing	Y
+459	Walking in the Spirit	Don Elwell	Gladstone	2021-05-16	p2021-05-16am.mp3			Message	Y
+460	Gifts of The Spirit: Tongues	Donald Elwell III	Gladstone	2021-05-19	spiritual-gifts-tongues.pdf			Bible Study	Y
+461	Rest in the Lord	Ken Elwell	Gladstone	2021-05-23	p2021-05-23am.mp3			Message	Y
+462	Romans 9:9-33	Huyen Hoang	Gladstone	2021-05-23	ssch2021-05-23am.mp3	Romans 	Romans 	Sunday School	Y
+463	Romans 10:1-13	Huyen Hoang	Gladstone	2021-05-30	ssch2021-05-30am.mp3	Romans 	Romans 	Sunday School	Y
+464	Connected to the Vine	Ken Elwell	Gladstone	2021-05-30	p2021-05-30am.mp3			Message	Y
+465	Romans 10:14-21	Huyen Hoang	Gladstone	2021-06-06	ssch2021-06-06am.mp3	Romans 	Romans 	Sunday School	Y
+466	Romans 11:1-24	Huyen Hoang	Gladstone	2021-06-13	ssch2021-06-13am.mp3	Romans 	Romans 	Sunday School	Y
+467	Who Do You Say That I Am?	Donald Elwell III	Gladstone	2021-06-06	p2021-06-06am.mp3			Message	Y
+468	Preparing the Ground	Ken Elwell	Gladstone	2021-06-13	p2021-06-13am.mp3			Message	Y
+469	What is Your Mindset?	Michael Smith	Gladstone	2021-06-16	p2021-06-16pm.mp3			Message	Y
+470	Trapped	Michael Smith	Gladstone	2021-06-17	p2021-06-17pm.mp3			Message	Y
+471	Don't Conform, Transform!	Darrell Johnson	Gladstone	2021-06-18	p2021-06-18am.mp3			Message	Y
+472	The Sun is Coming Up	Smith and Elwell Families	Gladstone	2021-06-18	ss2021-06-18am.mp3			Special Song	Y
+473	Memories - Sun is Coming Up	Edee Jane Elwell	Gladstone	2021-06-18	t2021-06-18am.mp3			Testimony	Y
+474	You Are My All in All	Young People	Gladstone	2021-06-18	ss2021-06-18pm.mp3			Special Song	Y
+475	Worth of a Child	Alice Johnson	Gladstone	2021-06-18	p2021-06-18pm.mp3			Message	Y
+476	Down To the River	Young People	Elwell Corp	2021-06-19	ss2021-06-19am.mp3			Special Song	Y
+477	Have you Met the Lord?	Michael Smith	Elwell Corp	2021-06-19	p2021-06-19am.mp3			Message	Y
+478	Fill My Cup, Lord	Young People	Gladstone	2021-06-19	ss2021-06-19pm.mp3			Special Song	Y
+479	When Jesus Passes By	Damar Randle	Gladstone	2021-06-19	p2021-06-19pm.mp3			Message	Y
+480	Little David	Young People	Clackamas	2021-06-20	ss2021-06-20-1-am.mp3			Special Song	Y
+481	He Gave Me the Well	Josh Elwell & Lindsey Gellenbeck	Gladstone	2021-06-20	ss2021-06-20-2-am.mp3			Special Song	Y
+482	God Famous	Alicia Johnson	Gladstone	2021-06-20	p2021-06-20am.mp3			Message	Y
+483	Romans 11:25-34	Huyen Hoang	Gladstone	2021-06-20	ssch2021-06-20am.mp3	Romans 	Romans 	Sunday School	Y
+484	Jesus In the Pandemic	Serena Johnson	Gladstone	2021-06-20	t2021-06-20am.mp3			Testimony	Y
+485	Romans 12:3-8	Huyen Hoang	Gladstone	2021-06-27	ssch2021-06-27am.mp3	Romans 	Romans 	Sunday School	Y
+486	What Manner of Person	Don Elwell	Gladstone	2021-06-27	p2021-06-27am.mp3			Message	Y
+487	Does God Love Me Always?	Oleseya Sivyy	Gladstone	2021-06-27	t2021-06-27am.mp3			Testimony	Y
+488	Romans 12:9-21	Huyen Hoang	Gladstone	2021-07-04	ssch2021-07-04am.mp3	Romans 	Romans 	Sunday School	Y
+489	A Well Watered Garden	Phillip Gellenbeck	Gladstone	2021-07-04	p2021-07-04am.mp3			Message	Y
+490	The Lord is My Helper	Elli Herter	Gladstone	2021-07-11	t2021-07-11am.mp3			Testimony	Y
+491	The Big Picture View	Don Elwell	Gladstone	2021-07-11	p2021-07-11am.mp3			Message	Y
+492	Romans 13	Huyen Hoang	Gladstone	2021-07-11	ssch2021-07-11am.mp3	Romans 	Romans 	Sunday School	Y
+493	Romans 14:1-12	Huyen Hoang	Gladstone	2021-08-01	ssch2021-08-01am.mp3	Romans 	Romans 	Sunday School	Y
+494	All Things	Don Elwell	Gladstone	2021-08-01	p2021-08-01am.mp3			Message	Y
+495	Romans 14:13-23	Huyen Hoang	Gladstone	2021-08-08	ssch2021-08-08am.mp3	Romans 	Romans 	Sunday School	Y
+496	Sufficiency in God	Ken Elwell	Gladstone	2021-08-08	p2021-08-08am.mp3			Message	Y
+497	Romans 15:1-13	Huyen Hoang	Gladstone	2021-08-15	ssch2021-08-15am.mp3	Romans 	Romans 	Sunday School	Y
+498	Faith That Worketh By Love	Don Elwell	Gladstone	2021-08-15	p2021-08-15am.mp3			Message	Y
+499	Romans 15:14-33	Huyen Hoang	Gladstone	2021-08-22	ssch2021-08-22am.mp3	Romans 	Romans 	Sunday School	Y
+500	Our High Places	Don Elwell	Gladstone	2021-08-22	p2021-08-22am.mp3			Message	Y
+501	Romans 16	Huyen Hoang	Gladstone	2021-08-29	ssch2021-08-29am.mp3	Romans 	Romans 	Sunday School	Y
+502	What Will You Do With Freedom?	Don Elwell	Gladstone	2021-08-29	p2021-08-29am.mp3			Message	Y
+503	Living Revelation of Christ	Ken Elwell	Gladstone	2021-09-05	p2021-09-05am.mp3			Message	Y
+504	Shoutout to Jesus	Lois Davenport	Gladstone	2021-09-05	t2021-09-05am.mp3			Testimony	Y
+505	Philip	Julie Elwell	Gladstone	2021-09-12	2021-9.12 Philip.pdf			Lesson	Y
+506	Staying Power - Consider Jesus	Don Elwell	Gladstone	2021-09-12	p2021-09-12am.mp3			Message	Y
+507	He Looked Past My Faults	Lois Davenport	Gladstone	2021-09-12	t2021-09-12am-1.mp3			Testimony	Y
+508	Pressing Through To Blessing	Donald Elwell III	Gladstone	2021-09-12	t2021-09-12am-2.mp3			Testimony	Y
+509	Thomas	Julie Elwell	Gladstone	2021-09-19	Thomas 9.18.21.pdf			Lesson	Y
+510	'Til The Storm Passes By	Herter Family	Gladstone	2021-09-19	ss2021-09-19am.mp3			Special Song	Y
+511	Invest in Your Calling	Ken Elwell	Gladstone	2021-09-19	p2021-09-19am.mp3			Message	Y
+512	I'll Never Miss Heaven	Gladstone Young People	Gladstone	2021-09-26	ss2021-09-26am.mp3			Special Song	Y
+513	Hebrews 1:1 - 2:4	Huyen Hoang	Gladstone	2021-09-26	ssch2021-09-26am.mp3	Hebrews 	Hebrews 	Sunday School	Y
+514	God's Power Through You	Bob Wilson	Gladstone	2021-09-26	p2021-09-26am.mp3			Message	Y
+515	For the Joy	Don Elwell	Gladstone	2021-10-03	p2021-10-03am.mp3			Message	Y
+516	Fellowship	Don Elwell	Gladstone	2021-10-10	p2021-10-10am.mp3			Message	Y
+517	Hebrews 2:5-17	Huyen Hoang	Gladstone	2021-10-10	ssch-2021-10-10am.mp3	Hebrews 	Hebrews 	Sunday School	Y
+518	Hebrews 3	Huyen Hoang	Gladstone	2021-10-17	ssch-2021-10-17am.mp3	Hebrews 	Hebrews 	Sunday School	Y
+519	Stay Put / Stand Fast	Don Elwell	Gladstone	2021-10-17	p2021-10-17am.mp3			Message	Y
+520	Hebrews 4:1-13	Huyen Hoang	Gladstone	2021-10-24	ssch-2021-10-24am.mp3	Hebrews 	Hebrews 	Sunday School	Y
+521	Buy The Truth	Don Elwell	Gladstone	2021-10-24	p2021-10-24am.mp3			Message	Y
+522	Hebrews 4:14 - 5:10	Huyen Hoang	Gladstone	2021-10-31	ssch-2021-10-31am.mp3	Hebrews 	Hebrews 	Sunday School	Y
+523	Your Habitation	Ken Elwell	Gladstone	2021-10-31	p2021-10-31am.mp3			Message	Y
+524	Hebrews 5:11 - 6:12	Huyen Hoang	Gladstone	2021-11-07	ssch-2021-11-07am.mp3	Hebrews 	Hebrews 	Sunday School	Y
+525	Ministers of Reconciliation	Don Elwell	Gladstone	2021-11-07	p2021-11-07am.mp3			Message	Y
+526	Thanksgiving	Julie Elwell	Gladstone	2021-11-03	bs2021-11-04pm.mp3			Bible Study	N
+527	Hebrew 6:13-20	Huyen Hoang	Gladstone	2021-11-14	ss-2021-11-14am.mp3	Hebrew 	Hebrew 	Sunday School	Y
+528	My Lord and I	Herter Family	Gladstone	2021-11-14	ss-2021-11-14am.mp3			Special Song	Y
+529	Ministry of Reconciliation (2)	Don Elwell	Gladstone	2021-11-14	p2021-11-14am.mp3			Message	Y
+530	Hebrews 7	Huyen Hoang	Gladstone	2021-11-21	ssch-2021-11-21am.mp3	Hebrews 	Hebrews 	Sunday School	Y
+531	Child-like Dependence	Ken Elwell	Gladstone	2021-11-21	p2021-11-21am.mp3			Message	Y
+532	Hebrews 8	Huyen Hoang	Gladstone	2021-11-28	ssch-2021-11-28am.mp3	Hebrews 	Hebrews 	Sunday School	Y
+533	Be ... Like a Tree	Don Elwell	Gladstone	2021-11-28	p2021-11-28am.mp3			Message	Y
+534	Hebrews 9:1-14	Huyen Hoang	Gladstone	2021-12-05	ssch-2021-12-05am.mp3	Hebrews 	Hebrews 	Sunday School	Y
+535	Flowers of Thanksgiving	Lois Davenport	Gladstone	2021-12-05	t-2021-12-05am.mp3			Testimony	Y
+536	Adoring the Christ	Don Elwell	Gladstone	2021-12-05	p2021-12-05am.mp3			Message	Y
+537	Hebrews 9:15-28	Huyen Hoang	Gladstone	2021-12-12	ssch-2021-12-12am.mp3	Hebrews 	Hebrews 	Sunday School	Y
+538	Hebrews 10:1-18	Huyen Hoang	Gladstone	2021-12-19	ssch-2021-12-19am.mp3	Hebrews 	Hebrews 	Sunday School	Y
+539	Thankful for the Blood	Julie Elwell	Gladstone	2021-12-12	t2021-12-12am.mp3			Testimony	Y
+540	Rites and Rituals	Don Elwell	Gladstone	2021-12-12	p2021-12-12am.mp3			Message	Y
+541	Nothing Can Touch Me	Gladstone Young People	Gladstone	2021-12-19	ss-2021-12-19am.mp3			Special Song	Y
+542	Lo, Behold the Gift of God	Ken Elwell	Gladstone	2021-12-19	p2021-12-19am.mp3			Message	Y
+543	With God Nothing is Impossible	Don Elwell	Gladstone	2021-12-26	p2021-12-26am.mp3			Message	Y
+544	Hebrews 10:19-39	Huyen Hoang	Gladstone	2022-01-02	ssch-2022-01-02am.mp3	Hebrews 	Hebrews 	Sunday School	Y
+545	Jesus Holds His Nose	Edee Jane Elwell	Gladstone	2022-01-02	t2022-01-02am.mp3			Testimony	Y
+546	Willing and Obedient	Don Elwell	Gladstone	2022-01-02	p2022-01-02am.mp3			Message	Y
+547	Hebrews 11:1-7	Huyen Hoang	Gladstone	2022-01-09	ssch-2022-01-09am.mp3	Hebrews 	Hebrews 	Sunday School	Y
+548	Put Your Trust in God	Ken Elwell	Gladstone	2022-01-09	p2022-01-09am.mp3			Message	Y
+549	Hebrew 11:8-40	Huyen Hoang	Gladstone	2022-01-16	ssch-2022-01-16am.mp3	Hebrew 	Hebrew 	Sunday School	Y
+550	Hebrews 12	Huyen Hoang	Gladstone	2022-01-23	ssch-2022-01-23am.mp3	Hebrews 	Hebrews 	Sunday School	Y
+551	Handling Stress and Difficulty	Don Elwell	Gladstone	2022-01-23	p2022-01-23am.mp3			Message	Y
+552	Jesus is the Oil in Our Lamps	Ken Elwell	Gladstone	2022-01-16	p2022-01-16am.mp3			Message	Y
+553	I'll Keep Holding On To Jesus	Gladstone Young People	Gladstone	2022-01-23	ss2022-01-23am.mp3			Special Song	Y
+554	Thankfulness and Contentment	Patsy Smith	Gladstone	2022-01-30	ssch-2022-01-30am.mp3	Thankfulness 	Thankfulness 	Sunday School	Y
+555	A Correct View of Ourselves	Don Elwell	Gladstone	2022-01-30	p2022-01-30am.mp3			Message	Y
+556	Hebrews 13	Huyen Hoang	Gladstone	2022-02-06	ssch2022-02-06am.mp3	Hebrews 	Hebrews 	Sunday School	Y
+557	Leonard Davenport	Edee Jane Elwell	Gladstone	2022-01-30	t-2022-01-30am.mp3			Testimony	Y
+558	Our Identity in Christ	Don Elwell	Gladstone	2022-02-06	p2022-02-06am.mp3			Message	Y
+559	Galatians 1:1-10	Huyen Hoang	Gladstone	2022-02-13	ssch2022-02-13am.mp3	Galatians 	Galatians 	Sunday School	Y
+560	Love is Greater than Right	Bob Wilson	Gladstone	2022-02-13	p2022-02-13am.mp3			Message	Y
+561	Galations 1:10-24	Huyen Hoang	Gladstone	2022-02-20	ssch2022-02-20am.mp3	Galations 	Galations 	Sunday School	Y
+562	Who You Are in God's Eyes	Don Elwell	Gladstone	2022-02-20	p2022-02-20am.mp3			Message	Y
+563	Galations 2:1-10	Huyen Hoang	Gladstone	2022-02-27	ss2022-02-27am.mp3	Galations 	Galations 	Sunday School	Y
+564	Who We Are in Christ	Don Elwell	Gladstone	2022-02-27	p2022-02-27am.mp3			Message	Y
+565	Found What I Needed So Long	Herter Family	Gladstone	2022-02-27	ss2022-02-27am.mp3			Special Song	Y
+566	Galatians 2:11-21	Huyen Hoang	Gladstone	2022-03-06	ssch2022-03-06am.mp3	Galatians 	Galatians 	Sunday School	Y
+567	Warring for the Faith	Huyen Hoang	Gladstone	2022-03-06	p2022-03-06am.mp3			Message	Y
+568	Galatians 3:1-14	Huyen Hoang	Gladstone	2022-03-13	ssch2022-03-13am.mp3	Galatians 	Galatians 	Sunday School	Y
+569	Your Titles in Christ	Don Elwell	Gladstone	2022-03-13	p2022-03-13am.mp3			Message	Y
+570	Galatians 3:15-29	Huyen Hoang	Gladstone	2022-03-20	ssch2022-03-20am.mp3	Galatians 	Galatians 	Sunday School	Y
+571	Seeking the Good Pasture	Ken Elwell	Gladstone	2022-03-20	p2022-03-20am.mp3			Message	Y
+572	Old Testament Tithing	Patsy Smith	Gladstone	2022-04-06	w2022-04-06am.mp3			Bible Study	Y
+573	Galatians 4:1-7	Huyen Hoang	Gladstone	2022-03-27	ssch2022-03-27am.mp3	Galatians 	Galatians 	Sunday School	Y
+574	Friendship with the World	Huyen Hoang	Gladstone	2022-03-27	p2022-03-27am.mp3			Message	Y
+575	Galatians 4:8-31	Huyen Hoang	Gladstone	2022-04-03	ssch2022-04-03am.mp3	Galatians 	Galatians 	Sunday School	Y
+576	Hindered by Our History	Don Elwell	Gladstone	2022-04-03	p2022-04-03am.mp3			Message	Y
+577	I've Found it Lord In Thee	Cliff Smith	Gladstone	2022-03-27	t2022-03-27am.mp3			Testimony	Y
+578	Social Programming	Don Elwell	Gladstone	2022-04-10	p2022-04-10am.mp3			Message	Y
+579	Glorious Freedom	Gladstone Young People	Gladstone	2022-04-17	ss2022-04-17am.mp3			Special Song	Y
+580	Good For Nothing?	Don Elwell	Gladstone	2022-04-17	p2022-04-17am.mp3			Message	Y
+581	Build Up Your Most Holy Faith	Don Elwell	Gladstone	2022-04-24	p2022-04-24am.mp3			Message	Y
+582	The Publican Factor	Julie Elwell	Gladstone	2022-05-01	2022 5.2Publicans.pdf			Lesson	Y
+583	I Can Do All Things	Don Elwell	Gladstone	2022-05-01	p2022-05-01am.mp3			Message	Y
+584	New Testament Giving	Patsy Smith	Gladstone	2022-05-04	bs2022-05-04pm.mp3			Bible Study	Y
+585	True Freedom in Christ	Don Elwell	Knott City Park	2022-05-07	p2022-05-07pm.mp3			Message	Y
+586	A Tale of Two Apostles	Don Elwell	Knott City Park	2022-05-08	p2022-05-08am.mp3			Message	Y
+587	Our God, He is Alive	Herter Family	Gladstone	2022-05-15	ss2022-05-15am.mp3			Special Song	Y
+588	Galatians 5:1-12	Huyen Hoang	Gladstone	2022-05-15	ssch2022-05-15am.mp3	Galatians 	Galatians 	Sunday School	Y
+589	Examine Yourself	Don Elwell	Gladstone	2022-05-15	p2022-05-15am.mp3			Message	Y
+590	Galatians 5:13-26	Huyen Hoang	Gladstone	2022-05-22	ssch2022-05-22am.mp3	Galatians 	Galatians 	Sunday School	Y
+591	Digging out the Stones	Don Elwell	Gladstone	2022-05-22	p2022-05-22am.mp3			Message	Y
+592	Galatians 6:1-18	Huyen Hoang	Gladstone	2022-05-29	ssch2022-05-29am.mp3	Galatians 	Galatians 	Sunday School	Y
+593	Embracing Refinement	Don Elwell	Gladstone	2022-05-29	p2022-05-29am.mp3			Message	Y
+594	Ephesians 1:1-14	Huyen Hoang	Gladstone	2022-06-05	ssch2022-06-05am.mp3	Ephesians 	Ephesians 	Sunday School	Y
+595	The Christian Disposition	Don Elwell	Gladstone	2022-06-05	p2022-06-05am.mp3			Message	Y
+596	Ephesians 1:15-23	Huyen Hoang	Gladstone	2022-06-12	ssch2022-06-12am.mp3	Ephesians 	Ephesians 	Sunday School	Y
+597	Rich Toward God	Don Elwell	Gladstone	2022-06-12	p2022-06-12am.mp3			Message	Y
+598	When Faith Matters Most	David Shiryayev	Gladstone	2022-06-12	t2022-06-12am.mp3			Testimony	Y
+599	God of the Mountain	Gladstone Young People	Hillside Christian	2022-06-15	ss2022-06-15pm.mp3			Special Song	Y
+600	The Gift of Salvation	Michael Smith	Hillside Christian	2022-06-15	p2022-06-15pm.mp3			Message	Y
+601	God's SuperStore	Mary Lawson	Hillside Christian	2022-06-16	p2022-06-16am.mp3			Message	Y
+602	Preparing the Soil	Phillip Gellenbeck	Hillside Christian	2022-06-16	p2022-06-16pm.mp3			Message	Y
+603	Without Reserve	Michael Smith	Hillside Christian	2022-06-17	p2022-06-17pm.mp3			Message	Y
+604	Heaven in the House	Michael Smith	Hillside Christian	2022-06-17	p2022-06-17am.mp3			Message	Y
+605	Satisfied	Gladstone Young People	Hillside Christian	2022-06-17	ss2022-06-17pm.mp3			Special Song	Y
+606	At the Cross of Jesus Bowing	Gladstone Congregation	Hillside Christian	2022-06-17	cs2022-06-17pm-cross.mp3			Singing	Y
+607	Happy in the Lord	Gladstone Congregation	Hillside Christian	2022-06-17	cs2022-06-17pm-happy.mp3			Singing	Y
+608	It is Well With My Soul	Gladstone Congregation	Hillside Christian	2022-06-17	cs2022-06-17pm-well.mp3			Singing	Y
+609	Whiter than Snow	Gladstone Congregation	Hillside Christian	2022-06-17	cs2022-06-17pm-white.mp3			Singing	Y
+610	The Golden Key	Gladstone Congregation	Hillside Christian	2022-06-17	cs2022-06-17pm-key.mp3			Singing	Y
+611	Do You Really Mean That?	Damar Randle	Hillside Christian	2022-06-18	t2022-06-18am.mp3			Testimony	Y
+612	Hearing His Voice	Paul Phillips	Hillside Christian	2022-06-18	p2022-06-18am.mp3			Message	Y
+613	While Ages Roll	Smith and Gellenbeck Families	Hillside Christian	2022-06-18	ss2022-06-18am-rolls.mp3			Special Song	Y
+614	He Giveth More Grace	Smith and Gellenbeck Families	Hillside Christian	2022-06-18	ss2022-06-18am-grace.mp3			Special Song	Y
+615	We Have Jesus	Serena Johnson	Hillside Christian	2022-06-18	t2022-06-18pm.mp3			Testimony	Y
+616	A Place Prepared for You	Damar Randle	Hillside Christian	2022-06-18	p2022-06-18pm.mp3			Message	Y
+617	Grossly Overpaid	Don Elwell	Hillside Christian	2022-06-18	t2022-06-18-overpaid-pm.mp3			Testimony	Y
+618	Sweet Rest in Jesus	Gladstone Congregation	Hillside Christian	2022-06-18	cs2022-06-18pm-sweetrest.mp3			Singing	Y
+619	Found it Lord in Thee	Gladstone Congregation	Hillside Christian	2022-06-18	cs2022-06-18pm-foundit.mp3			Singing	Y
+620	Get Through to the Other Side	Paul Phillips	Hillside Christian	2022-06-19	p2022-06-19am.mp3			Message	Y
+621	Ephesians 2:1-10	Huyen Hoang	Hillside Christian	2022-06-19	ssch2022-06-19pm.mp3	Ephesians 	Ephesians 	Sunday School	Y
+622	A New Era	Don Elwell	Hillside Christian	2022-06-19	t2022-06-19am.mp3			Testimony	Y
+623	Ephesians 2:11-22	Huyen Hoang	Gladstone	2022-06-26	ssch2022-06-26pm.mp3	Ephesians 	Ephesians 	Sunday School	Y
+624	Making a Jewel In Your Life	Don Elwell	Gladstone	2022-06-26	p2022-06-26am.mp3			Message	Y
+625	Epesians 3:1-11	Huyen Hoang	Gladstone	2022-07-03	ssch2022-07-03pm.mp3	Epesians 	Epesians 	Sunday School	Y
+626	Following Hard After God	Don Elwell	Gladstone	2022-07-03	p2022-07-03am.mp3			Message	Y
+627	Ephesians 3:13-21	Huyen Hoang	Gladstone	2022-07-10	ssch2022-07-10am.mp3	Ephesians 	Ephesians 	Sunday School	Y
+628	Children Have Ye Any Meat?	Ken Elwell	Gladstone	2022-07-10	p2022-07-10am.mp3			Message	Y
+629	Ephesian 4:1-6	Huyen Hoang	Gladstone	2022-07-31	ssch2022-07-31am.mp3	Ephesian 	Ephesian 	Sunday School	Y
+630	An Intimate Knowledge of God	Don Elwell	Gladstone	2022-07-31	p2022-07-31am.mp3			Message	Y
+631	Ephesians 4:7-12	Huyen Hoang	Gladstone	2022-08-07	ssch2022-08-07am.mp3	Ephesians 	Ephesians 	Sunday School	Y
+632	He's Everything That I Need	Joe Elwell Family	Gladstone	2022-08-07	ss2022-08-07am.mp3			Special Song	Y
+633	Writing Your Own Eulogy	Don Elwell	Gladstone	2022-08-07	p2022-08-07am.mp3			Message	Y
+634	Ephesians 4:12-16	Huyen Hoang	Gladstone	2022-08-14	ssch2022-08-14am.mp3	Ephesians 	Ephesians 	Sunday School	Y
+635	Calmly Resting in the Lord	Gladstone Young People	Gladstone	2022-08-14	ss2022-08-14am.mp3			Special Song	Y
+636	Glorifying God's Name	Ken Elwell	Gladstone	2022-08-14	p2022-08-14am.mp3			Message	Y
+637	Power From on Hgh	Donald Elwell III	Gladstone	2022-08-17	Poweronhigh.pdf			Lesson	Y
+638	Ephesians 4:17-24	Huyen Hoang	Gladstone	2022-08-21	ssch2022-08-21am.mp3	Ephesians 	Ephesians 	Sunday School	Y
+639	Life is Short - Seize the Day	Huyen Hoang	Gladstone	2022-08-21	p2022-08-21am.mp3			Message	Y
+644	Try the Spirits	Don Elwell	Gladstone	2022-08-28	p2022-08-28am.m4a			Message	Y
+645	Ephesians 5:1:14	Huyen Hoang	Gladstone	2022-09-04	ssch2022-09-04am.mp3	Ephesians 	Ephesians 	Sunday School	Y
+646	Spiritual Weapons	Don Elwell	Gladstone	2022-09-04	p2022-09-04am.m4a			Message	Y
+647	Ephesians 4:22-32	Huyen Hoang	Gladstone	2022-08-28	ssch2022-08-28am.mp3	Ephesians 	Ephesians 	Sunday School	Y
+648	Ephesians 5:15-20	Huyen Hoang	Gladstone	2022-09-11	ssch2022-09-11am.mp3	Ephesians 	Ephesians 	Sunday School	Y
+649	Heaven is Worth the Fight	Don Elwell	Gladstone	2022-09-11	p2022-09-11am.m4a			Message	Y
+650	Ephesians 6:1-4	Huyen Hoang	Gladstone	2022-09-25	ssch2022-09-25am.mp3	Ephesians 	Ephesians 	Sunday School	Y
+651	Honesty the Best Policy	Don Elwell	Gladstone	2022-09-25	p2022-09-25am.m4a			Message	Y
+652	Ephesians 6:5-9	Huyen Hoang	Gladstone	2022-10-02	ssch2022-10-02am.mp3	Ephesians 	Ephesians 	Sunday School	Y
+653	Helmet of Salvation	Don Elwell	Gladstone	2022-10-02	p2022-10-02am.m4a			Message	Y
+654	Ephesians 6:10-24	Huyen Hoang	Gladstone	2022-10-09	ssch2022-10-09am.mp3	Ephesians 	Ephesians 	Sunday School	Y
+655	Why?	Bob Wilson	Gladstone	2022-10-09	p2022-10-09am.m4a			Message	Y
+656	Phillipians 1:1-11	Huyen Hoang	Gladstone	2022-10-16	ssch2022-10-16am.mp3	Phillipians 	Phillipians 	Sunday School	Y
+657	Philippians 1:12-26	Huyen Hoang	Gladstone	2022-10-23	ssch2022-10-23am.mp3	Philippians 	Philippians 	Sunday School	Y
+658	Preparing for Battle	Huyen Hoang	Gladstone	2022-10-16	p2022-10-16am.m4a			Message	Y
+659	Unity	Don Elwell	Gladstone	2022-10-23	p2022-10-23am.m4a			Message	Y
+660	Fill My Cup Lord	Gladstone Young People	Gladstone	2022-10-28	ss2022-10-28pm.m4a			Special Song	Y
+661	God Will Supply All Your Needs	Curtis Williams	Gladstone	2022-10-28	p2022-10-28pm.m4a			Message	Y
+662	Let Mercy Work in Your Life	Curtis Williams	Gladstone	2022-10-29	p2022-10-29pm.m4a			Message	Y
+663	Bring it All to Jesus	Ashlyn, Emily & Kait Elwell	Gladstone	2022-10-29	ss2022-10-29pm.m4a			Special Song	Y
+664	Philippians 1:27 - 2:3	Huyen Hoang	Gladstone	2022-10-30	ssch2022-10-30am.mp3	Philippians 	Philippians 	Sunday School	Y
+665	God's Abundant Power	Curtis Williams	Gladstone	2022-10-30	p2022-10-30am.m4a			Message	Y
+666	Phillipians 2:3-11	Huyen Hoang	Gladstone	2022-11-06	ssch2022-11-06am.mp3	Phillipians 	Phillipians 	Sunday School	Y
+667	Philippians 2:12-16	Huyen Hoang	Gladstone	2022-11-13	ssch2022-11-13am.mp3	Philippians 	Philippians 	Sunday School	Y
+668	Jesus - The Who for Our Why	Huyen Hoang	Gladstone	2022-11-06	p2022-11-06am.m4a			Message	Y
+669	A Sure Calling and Election	Don Elwell	Gladstone	2022-11-13	p2022-11-13am.m4a			Message	Y
