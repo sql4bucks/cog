@@ -1,0 +1,376 @@
+1,God's Joy in Our Lives,Don Elwell,Clackamas,10/16/2011,p2011-10-16pm.mp3,,,Message,Y
+2,The Fatherly Bond,Steve Elwell,Clackamas,10/30/2011,p2011-10-30am.mp3,,,Message,Y
+3,Keep your eyes on the Prize,Don Elwell,Clackamas,10/30/2011,p2011-10-30pm.mp3,,,Message,Y
+4,Fear God,Steve Elwell,Clackamas,11/13/2011,p2011-11-13am.mp3,,,Message,Y
+5,Pluses and Minuses,Mary Lawson,Clackamas,1/15/2012,p2012-01-29am.mp3,,,Message,Y
+7,Smoke and Mirrors,Steve Elwell,Clackamas,9/25/2011,p2011-09-25am.mp3,,,Message,Y
+8,Open mouth - I will fill it,Steve Elwell,Clackamas,3/1/2012,p2012-02-05am.mp3,,,Message,Y
+11,Law of God,Steve Elwell,Clackamas,5/27/2012,p2012-05-27am.mp3,,,Message,Y
+12,Spiritual Commerce,Don Elwell,Clackamas,5/27/2012,p2012-05-27pm.mp3,,,Message,Y
+13,Awesome Gospel Workers,Don Elwell,Clackamas,5/13/2012,p2012-05-13am.mp3,,,Message,Y
+14,The Mark of a Child of God,Don Elwell,Clackamas,4/29/2012,p2012-04-29am.mp3,,,Message,Y
+15,Inversely Proportional,Don Elwell,Clackamas,5/6/2012,p2012-05-06am.mp3,,,Message,Y
+17,God Knows the Way,Darrell Johnson,Clackamas,2/25/2016,p2016-02-25pm.mp3,,,Message,Y
+18,Follow God,Darrell Johnson,Clackamas,2/26/2016,p2016-02-26pm.mp3,,,Message,Y
+19,Relationships,Darrell Johnson,Clackamas,2/27/2016,p2016-02-27pm.mp3,,,Message,Y
+20,Through The Fire,Darrell Johnson,Clackamas,2/28/2016,2016-02-28.mp3,,,Message,Y
+21,"Hope, Love and Patience",Steve Elwell,Clackamas,8/19/2012,p2012-08-19am..mp3,,,Message,Y
+22,Come and Learn of Me,Don Elwell,Clackamas,8/26/2012,p2012-08-26am.mp3,,,Message,Y
+23,Christ the Source of Life,Ken Elwell,Clackamas,9/2/2012,p2012-09-02am..mp3,,,Message,Y
+24,Gem Production Process,Don Elwell,Clackamas,3/6/2016,p2016-03-06am.mp3,,,Message,Y
+25,Ministry of Reconciliation,Don Elwell,Clackamas,3/13/2016,Record_0005.mp3,,,Message,Y
+26,Safety in the Love of God,Steve Elwell,Clackamas,9/23/2012,p2012-09-23am.mp3,,,Message,Y
+27,Keep the Faith,Steve Elwell,Clackamas,10/28/2012,p2012-10-28am.mp3,,,Message,Y
+28,By One Man,Steve Elwell,Clackamas,11/4/2012,p2012-11-04am.mp3,,,Message,Y
+29,God's Covenant is Sure,Steve Elwell,Clackamas,11/11/2012,p2012-11-11am.mp3,,,Message,Y
+30,Give Thanks in All Things,Steve Elwell,Clackamas,11/18/2012,p2012-11-18am.mp3,,,Message,Y
+31,Repairing the Breach,Don Elwell,Clackamas,11/25/2012,p2012-11-25am.mp3,,,Message,Y
+32,Cast of Characters,Don Elwell,Clackamas,4/3/2016,p2016-04-03am.mp3,,,Message,Y
+33,Be Ye Steadfast,Don Elwell,Clackamas,4/10/2016,p2016-04-10am.mp3,,,Message,Y
+34,A Friend Closer Than Brother,Steve Elwell,Clackamas,12/9/2012,p2012-12-09am.mp3,,,Message,Y
+35,"Jesus, Light of the World",Steve Elwell,Clackamas,12/16/2012,p2012-12-16am.mp3,,,Message,Y
+36,God's Heritage,Steve Elwell,Clackamas,12/23/2012,p2012-12-23am.mp3,,,Message,Y
+37,God's Order,Steve Elwell,Clackamas,4/22/2012,p2012-04-22am.mp3,,,Message,Y
+38,No Shame in the Gospel,Don Elwell,Clackamas,4/22/2012,p2012-04-22pm.mp3,,,Message,Y
+39,God Our Refuge,Steve Elwell,Clackamas,7/7/2013,p2013-07-07am.mp3,,,Message,Y
+40,The Lord is My Shepherd,Steve Elwell,Clackamas,7/14/2013,p2013-07-14am.mp3,,,Message,Y
+41,A Continuing City,Steve Elwell,Clackamas,8/4/2013,p2013-08-04am.mp3,,,Message,Y
+42,Your Personal Advocate,Steve Elwell,Clackamas,9/8/2013,p2013-09-08am.mp3,,,Message,Y
+43,Never Alone,Steve Elwell,Clackamas,9/29/2013,p2013-09-29.mp3,,,Message,Y
+44,Perfecting the Love of God,Steve Elwell,Clackamas,1/13/2013,p2013-01-13am.mp3,,,Message,Y
+45,The Prize,Steve Elwell,Clackamas,3/31/2013,p2013-03-31am.mp3,,,Message,Y
+46,Your Heart in the Game,Steve Elwell,Clackamas,4/14/2013,p2013-04-14am.mp3,,,Message,Y
+47,God's Generosity,Don Elwell,Clackamas,4/14/2013,p2013-04-14pm.mp3,,,Message,Y
+48,Grafted into God's Family,Ken Elwell,Clackamas,4/28/2013,p2013-04-28am.mp3,,,Message,Y
+49,Resist the Devil,Steve Elwell,Clackamas,5/5/2013,p2013-05-05am.mp3,,,Message,Y
+50,Behold The City of Zion,Don Elwell,Clackamas,4/24/2016,Behold the City of Zion(1).mp3,,,Message,Y
+51,Encourage Yourself in the Lord,Don Elwell,Clackamas,5/8/2016,p2016-05-08am.mp3,,,Message,Y
+52,What Effects Our Motivation,Don Elwell,Clackamas,5/1/2016,p2016-05-01am.mp3,,,Message,Y
+53,When the Going Gets Tough ...,Don Elwell,Clackamas,5/15/2016,p2016-05-15am.mp3,,,Message,Y
+54,Time to Remember,Don Elwell,Clackamas,5/29/2016,p2016-05-29am.mp3,,,Message,Y
+55,I'm Not Who I Used To Be,Don Elwell,Clackamas,6/5/2016,p2016-06-05am.mp3,,,Message,Y
+56,Christ our Stabilizing Force,Don Elwell,Clackamas,6/12/2016,p2016-06-12am.mp3,,,Message,Y
+57,He Maketh the Storm a Calm,Huyen Hoang,Clackamas,7/3/2016,p2016-07-03am.mp3,,,Message,Y
+58,Carefully Maintain Good Works,Don Elwell,Clackamas,7/10/2016,p2016-07-10am.mp3,,,Message,Y
+71,Soaring Like Eagles,Fari Matthews,Clackamas,8/7/2016,p2016-08-07am.mp3,,,Message,Y
+72,Taking God at His Word,Ken Elwell,Clackamas,8/21/2016,p2016-08-21am.mp3,,,Message,Y
+73,Spiritual Maintenance,Don Elwell,Clackamas,8/28/2016,p2016-08-28am.mp3,,,Message,Y
+74,A Time to Build,Don Elwell,Clackamas,9/11/2016,p2016-09-11am.mp3,,,Message,Y
+75,A Love Beyond Nostalgia,Huyen Hoang,Clackamas,9/4/2016,p2016-09-04am.mp3,,,Message,Y
+76,Our Greatest Thoughts,Huyen Hoang,Clackamas,10/30/2016,Our Greatest Thoughts .mp3,,,Message,Y
+77,Passive Agressive,Huyen Hoang,Clackamas,11/13/2016,Passive Aggressive.mp3,,,Message,Y
+78,Take the Shield of Faith,Don Elwell,Clackamas,10/23/2016,p2016-10-23am.mp3,,,Message,Y
+79,Covenant Wrought By Faith,Don Elwell,Gladstone,11/6/2016,p2016-11-06am.mp3,,,Message,Y
+80,Robbing God,Don Elwell,Clackamas,12/11/2016,p2016-12-11am.mp3,,,Message,Y
+81,Remember Me,Huyen Hoang,Clackamas,12/18/2016,p2016-12-18am.mp3,,,Message,Y
+82,The Love Mender,Huyen Hoang,Clackamas,11/27/2016,p2016-11-27am.mp3,,,Message,Y
+83,Not Coming This Way Before,Huyen Hoang,Clackamas,1/1/2017,YeHaveNotGoneThisWay.mp3,,,Message,Y
+84,A Cheat Sheet,Huyen Hoang,Clackamas,1/1/2017,A Cheat Sheet.mp3,,,Message,Y
+85,Building Confidence,Don Elwell,Clackamas,1/15/2017,Building Confidence.mp3,,,Message,Y
+86,A Friend Closer Than A Brother,Steve Elwell,Clackamas,2/15/2015,FriendCloser.mp3,,,Message,Y
+87,God Has One True Doctrine,Steve Elwell,Clackamas,2/1/2015,God Has One True Doctrine.mp3,,,Message,Y
+88,God Hath Commanded a Blessing,Steve Elwell,Clackamas,3/15/2015,GodCommandedBlessing.mp3,,,Message,Y
+89,God's Wisdom,Steve Elwell,Clackamas,3/1/2015,Gods Wisdom.mp3,,,Message,Y
+90,I Am Not Alone,Steve Elwell,Clackamas,3/15/2015,I Am Not Alone.mp3,,,Message,Y
+91,The Glory of His Love,Steve Elwell,Clackamas,1/11/2015,The Glory of His Love.mp3,,,Message,Y
+92,The Hard Facts; Through Faith,Steve Elwell,Clackamas,1/25/2015,TheHardFacts.mp3,,,Message,Y
+93,The Perfect Author,Steve Elwell,Clackamas,1/4/2015,ThePerfectAuthor.mp3,,,Message,Y
+94,The Star,Steve Elwell,Clackamas,11/2/2014,The Star.mp3,,,Message,Y
+95,A Sustaining Strength,Don Elwell,Clackamas,3/15/2015,A Sustaining Strength.mp3,,,Message,Y
+96,"Lord, I've Seen My Salvation!",Don Elwell,Clackamas,3/1/2015,LordSeenSalvation.mp3,,,Message,Y
+97,The Tools That Promote Peace,Don Elwell,Clackamas,1/25/2015,ToolsPromotePeace.mp3,,,Message,Y
+98,There's A Place For You,Don Elwell,Clackamas,2/15/2015,There's A Place For You.mp3,,,Message,Y
+99,Through It All,Don Elwell,Clackamas,1/18/2015,Through It All.mp3,,,Message,Y
+100,Wait God's Timing is Perfect,Don Elwell,Clackamas,1/18/2015,GodTimingPerfect.mp3,,,Message,Y
+101,We're All Part of a Picture,Don Elwell,Clackamas,2/22/2015,PartOfPicture.mp3,,,Message,Y
+102,Is Your Heart in God's Work,Mary Lawson,Clackamas,2/7/2015,HeartFully.mp3,,,Message,Y
+103,The Example Set By Christ,Mary Lawson,Clackamas,2/8/2015,The Example Set By Christ.mp3,,,Message,Y
+104,All Things Are Yours,Huyen Hoang,Clackamas,1/29/2017,p2017-01-29am.mp3,,,Message,Y
+105,By Their Example,Don Elwell,Clackamas,1/22/2017,p2017-01-22am.mp3,,,Message,Y
+108,The Word of God,Don Elwell,Clackamas,2/19/2017,The Word of God.mp3,,,Message,Y
+109,Loves Carvings,Huyen Hoang,Clackamas,2/19/2017,Loves Carvings.mp3,,,Message,Y
+110,Living in Two Kingdoms,Huyen Hoang,Clackamas,2/5/2017,p2017-02-05am.mp3,,,Message,Y
+111,Being About Father's Business,Don Elwell,Clackamas,2/12/2017,p2017-02-12am.mp3,,,Message,Y
+112,A Vision of the Big Picture,Don Elwell,Clackamas,2/26/2017,p2017-02-26am.mp3,,,Message,Y
+113,Our Choices,Don Elwell,Clackamas,3/5/2017,p2017-03-05am.mp3,,,Message,Y
+114,A Position of Life,Huyen Hoang,Clackamas,4/2/2017,A Position of Life.mp3,,,Message,Y
+115,Don't Settle,Huyen Hoang,Clackamas,3/5/2017,Dont Settle.mp3,,,Message,Y
+116,A Quite Place,Huyen Hoang,Clackamas,3/26/2017,A Quite Place .mp3,,,Message,Y
+117,Take Heed,Don Elwell,Clackamas,4/2/2017,Take Heed.mp3,,,Message,Y
+118,GOAT,Don Elwell,Clackamas,4/16/2017,p2017-04-16am.mp3,,,Message,Y
+119,Joy in Discomfort,Huyen Hoang,Gladstone,4/23/2017,p2017-04-23am.mp3,,,Message,Y
+120,Inward Manifestation,LaDawna Adams,Clackamas,4/30/2017,p2017-04-30am.mp3,,,Message,Y
+121,Resting in Christ's Authority,Ken Elwell,Clackamas,5/14/2017,p2017-05-14am.mp3,,,Message,Y
+122,"Inspect, Recognize, Apply",Don Elwell,Clackamas,5/21/2017,p2017-05-21am.mp3,,,Message,Y
+125,Benefits of True Wealth,Don Elwell,Clackamas,6/18/2017,p2017-06-18am.mp3,,,Message,Y
+130,Starry Nights at the Beaches,Huyen Hoang,Clackamas,7/3/2017,p2017-07-02am.mp3,,,Message,Y
+136,Only His Touch Speaks Peace,Ken Elwell,Clackamas,7/3/2017,p2017-07-02pm.mp3,,,Message,Y
+137,Making Preparation,Don Elwell,Clackamas,6/4/2017,Making Preparation.mp3,,,Message,Y
+138,To Name Your Kids Again,Huyen Hoang,Clackamas,6/11/2017,To Name Your Kids Again.mp3,,,Message,Y
+139,Continue on,Don Elwell,Clackamas,7/9/2017,Continueon.mp3,,,Message,Y
+140,Patterns,Huyen Hoang,Clackamas,7/16/2017,Patterns.mp3,,,Message,Y
+142,Labor For That Which Endures,Don Elwell,Clackamas,8/13/2017,Dad.mp3,,,Message,Y
+144,Spiritual Eating,Don Elwell,Clackamas,8/27/2017,Spiritual Eating.mp3,,,Message,Y
+146,Our Identity,Don Elwell,Clackamas,9/17/2017,Our Identity.mp3,,,Message,Y
+147,Living An Upside Down Life,Huyen Hoang,Clackamas,9/10/2017,LivingAnUpsideDownLife.mp3,,,Message,Y
+148,Spiritual Investments,Huyen Hoang,Clackamas,9/17/2017,Spiritual Investments.mp3,,,Message,Y
+149,To The Saints At:,Huyen Hoang,Clackamas,10/8/2017,10-08-2017.mp3,,,Message,Y
+151,Divine Inspiration,Don Elwell,Clackamas,9/24/2017,Devine Inspiration.mp3,,,Message,Y
+152,What We Have In Christ,Huyen Hoang,Clackamas,10/1/2017,What We Have In Christ.mp3,,,Message,Y
+153,In This World; Not of It,Don Elwell,Clackamas,10/1/2017,In This World; Not of It.mp3,,,Message,Y
+154,Who is in Your Posse?,Don Elwell,Clackamas,10/15/2017,Who is in Your Posse.mp3,,,Message,Y
+155,Free Shipping,Huyen Hoang,Clackamas,10/22/2017,Free Shipping.mp3,,,Message,Y
+156,That New Car Smell,Curtis Williams,Gladstone,11/12/2017,p2017-11-12am.mp3,,,Message,Y
+168,Be Ready,Curtis Williams,Gladstone,11/11/2017,p2017-11-11pm.mp3,,,Message,Y
+169,Spiritual Underbrush,Don Elwell,Clackamas,11/19/2017,p2017-11-19am.mp3,,,Message,Y
+170,To Your Faith Add Knowledge,Don Elwell,Clackamas,11/5/2017,p2017-11-05am.mp3,,,Message,Y
+171,Dominion of Christ,Huyen Hoang,Clackamas,11/26/2017,p2017-11-26am.mp3,,,Message,Y
+172,The Mind of Christ,Don Elwell,Clackamas,12/3/2017,p2017-12-03am.mp3,,,Message,Y
+173,The Almond in the Garden,Huyen Hoang,Clackamas,12/3/2017,p2017-12-03pm.mp3,,,Message,Y
+174,Announcing Arrival of Christ,Don Elwell,Clackamas,12/10/2017,p2017-12-10am.mp3,,,Message,Y
+175,Value of Tragedy,Don Elwell,Clackamas,12/31/2017,p2017-12-31am.mp3,,,Message,Y
+176,The Power Within You,Curtis Williams,Clackamas,11/10/2017,Exceeding Abundantly Above.mp3,,,Message,Y
+178,Seeing the Glory of God,Huyen Hoang,Clackamas,1/7/2018,p2018-01-07am.mp3,,,Message,Y
+179,Joy in Service,Don Elwell,Clackamas,1/7/2018,p2018-01-07pm.mp3,,,Message,Y
+180,Bear Another's Burdens,Don Elwell,Clackamas,1/14/2018,p2018-01-14am.mp3,,,Message,Y
+181,The Prudent Man,Don Elwell,Clackamas,1/21/2018,p2018-01-21am.mp3,,,Message,Y
+182,Urgings of the Apostles,Huyen Hoang,Clackamas,1/21/2018,p2018-01-21pm.mp3,,,Message,Y
+183,Walking with God,Huyen Hoang,Clackamas,1/28/2018,p2018-01-28am.mp3,,,Message,Y
+184,One Bite at a Time,Don Elwell,Clackamas,2/4/2018,p2018-02-04am.mp3,,,Message,Y
+185,Source of True Progress,Huyen Hoang,Clackamas,2/4/2018,p2018-02-04pm.mp3,,,Message,Y
+186,Thinking Errors,Don Elwell,Clackamas,2/18/2018,p2018-02-18am.mp3,,,Message,Y
+187,Spiritually Stubborn,Don Elwell,Clackamas,2/18/2018,p2018-02-18pm.mp3,,,Message,Y
+188,He Cares,Don Elwell,Clackamas,2/25/2018,p2018-02-25am.mp3,,,Message,Y
+189,The Work of God,Don Elwell,Clackamas,3/4/2018,p2018-03-04am.mp3,,,Message,Y
+190,Kiss the Son,Huyen Hoang,Clackamas,3/4/2018,p2018-03-04pm.mp3,,,Message,Y
+191,Playing to Win,Don Elwell,Clackamas,3/11/2018,p2018-03-11am.mp3,,,Message,Y
+192,The Wisdom of God,Huyen Hoang,Clackamas,3/18/2018,p2018-03-18am.mp3,,,Message,Y
+193,DIstractions,Don Elwell,Clackamas,3/18/2018,p2018-03-18pm.mp3,,,Message,Y
+203,Real Freedom,Don Elwell,Clackamas,3/25/2018,p2018-03-25am.mp3,,,Message,Y
+206,Decision Tree,Don Elwell,Clackamas,4/8/2018,p2018-04-08am.mp3,,,Message,Y
+207,Impossible is Nothing,Don Elwell,Clackamas,4/15/2018,p2018-04-15am.mp3,,,Message,Y
+208,Abide in the Love of God,Huyen Hoang,Clackamas,4/15/2018,p2018-04-15pm.mp3,,,Message,Y
+214,Conscience Void of Offence,Don Elwell,Clackamas,4/29/2018,p2018-04-29am.mp3,,,Message,Y
+220,The Lord Will Get You There,Don Elwell,Clackamas,5/6/2018,p2018-05-06am.mp3,,,Message,Y
+221,Recharging,Don Elwell,Clackamas,5/13/2018,p2018-05-13am.mp3,,,Message,Y
+225,"Sacrifice, Seek, Save",Don Elwell,Clackamas,5/20/2018,p2018-05-20am.mp3,,,Message,Y
+227,Encourage Yourself in the Lord,Don Elwell,Clackamas,5/27/2018,p2018-05-27am.mp3,,,Message,Y
+228,Friends and Witnesses,Huyen Hoang,Clackamas,6/10/2018,p2018-06-10am.mp3,,,Message,Y
+236,Confidence in God,Don Elwell,Clackamas,6/3/2018,p2018-06-03am.mp3,,,Message,Y
+247,The Father with Two Sons,Michael Smith,Clackamas,6/17/2018,p2018-06-17am.mp3,,,Message,Y
+248,Peace in the Glorious Mundane,Don Elwell,Clackamas,7/1/2018,p2018-07-01am.mp3,,,Message,Y
+249,A Call to Ministry,Huyen Hoang,Clackamas,8/5/2018,p2018-08-05pm.mp3,,,Message,Y
+250,A Lively Hope,Don Elwell,Clackamas,7/8/2018,p2018-07-08am.mp3,,,Message,Y
+251,Spiritual Warfare,Don Elwell,Clackamas,8/5/2018,p2018-08-05am.mp3,,,Message,Y
+252,Children of Light,Huyen Hoang,Clackamas,8/12/2018,p2018-08-12am.mp3,,,Message,Y
+254,Acknowledge Him,Don Elwell,Clackamas,9/2/2018,p2018-09-02am.mp3,,,Message,Y
+255,Encounter Jesus Christ,Huyen Hoang,Clackamas,9/9/2018,p2018-09-09am.mp3,,,Message,Y
+256,Stand in the Gap,Don Elwell,Clackamas,9/23/2018,p2018-09-23am.mp3,,,Message,Y
+257,Chosen and Recruited,Don Elwell,Clackamas,9/30/2018,p2018-09-30am.mp3,,,Message,Y
+258,Double Down on Jesus,Don Elwell,Clackamas,10/14/2018,p2018-10-14am.mp3,,,Message,Y
+259,Examine Yourselves,Don Elwell,Clackamas,10/21/2018,p2018-10-21am.mp3,,,Message,Y
+261,Decisive Obedience,Don Elwell,Gladstone,12/2/2018,p2018-12-02am.mp3,,,Message,Y
+262,Go Slow to Go Fast,Don Elwell,Clackamas,11/11/2018,p2018-11-11am.mp3,,,Message,Y
+264,Be Like the Eagle,Don Elwell,Clackamas,10/28/2018,p2018-10-28am.mp3,,,Message,Y
+269,Fullness of Joy in the Light,Don Elwell,Gladstone,12/9/2018,p2018-12-09am.mp3,,,Message,Y
+270,Good Tidings of Great Joy,Ken Elwell,Gladstone,12/23/2018,p2018-12-23am.mp3,,,Message,Y
+271,The Word of God,Don Elwell,Gladstone,12/16/2018,p2018-12-16pm.mp3,,,Message,Y
+272,From the Beginning,Huyen Hoang,Gladstone,12/16/2018,p2018-12-16am-huyen.mp3,,,Message,N
+273,Fringe Benefits,Don Elwell,Gladstone,1/13/2019,p2019-01-13am.mp3,,,Message,Y
+274,Satan's Long Game,Don Elwell,Gladstone,1/27/2019,p2019-01-27am.mp3,,,Message,Y
+278,Called to Be Extraordinary,Don Elwell,Gladstone,1/20/2019,p2019-01-20am.mp3,,,Message,Y
+279,A Sip of Near Beer,Don Elwell,Gladstone,2/10/2019,p2019-02-10am.mp3,,,Message,Y
+280,Victory in Jesus,Donald Elwell III,Gladstone,2/17/2019,p2019-02-17pm.mp3,,,Message,Y
+281,Cultivating Compassion,Don Elwell,Gladstone,2/17/2019,p2019-02-17am.mp3,,,Message,Y
+288,Take Us the Little Foxes,Don Elwell,Gladstone,2/24/2019,p2019-02-24am.mp3,,,Message,Y
+289,Seeking for Inspiration,Don Elwell,Gladstone,3/3/2019,p2019-03-03am.mp3,,,Message,Y
+290,The Battle - Good vs. Evil,Don Elwell,Gladstone,3/17/2019,p2019-03-17am.mp3,,,Message,Y
+291,Two Weapons,Don Elwell,Gladstone,3/17/2019,p2019-03-17pm.mp3,,,Message,Y
+292,Witness Protection Program,Donald Elwell III,Gladstone,3/24/2019,p2019-03-24am.mp3,,,Message,Y
+294,Weapons of Our Warfare,Don Elwell,Gladstone,3/31/2019,p2019-03-31am.mp3,,,Message,Y
+295,Clear Vision,Ken Elwell,Gladstone,4/7/2019,p2019-04-07am.mp3,,,Message,Y
+296,Tools for Battle,Don Elwell,Gladstone,4/7/2019,p2019-04-07pm.mp3,,,Message,Y
+297,How Could Not We Cast Him Out?,Don Elwell,Gladstone,4/14/2019,p2019-04-14am.mp3,,,Message,Y
+298,God our H.O.P.E.,Don Elwell,Gladstone,4/21/2019,p2019-04-21am.mp3,,,Message,Y
+299,God's Love - Our Confidence,Don Elwell,Gladstone,4/28/2019,p2019-04-28am.mp3,,,Message,Y
+302,Battle of the Sexes,Don Elwell,Gladstone,5/12/2019,p2019-05-12am.mp3,,,Message,Y
+303,Unlimited Minutes,Don Elwell,Gladstone,5/19/2019,p2019-05-19am.mp3,,,Message,Y
+304,The Butterfly Effect,Don Elwell,Gladstone,5/26/2019,p2019-05-26am.mp3,,,Message,Y
+306,Contentment by Faith,Don Elwell,Gladstone,6/2/2019,p2019-06-02am.mp3,,,Message,Y
+307,Heavenly Corporation,Donald Elwell III,Gladstone,6/2/2019,p2019-06-02pm.mp3,,,Message,Y
+308,Building on the Rock,Donald Elwell III,Gladstone,6/16/2019,p2019-06-16am.mp3,,,Message,Y
+309,Proving your Love,Donald Elwell III,Gladstone,7/7/2019,p2019-07-07am.mp3,,,Message,Y
+310,What Doth God Require?,Don Elwell,Gladstone,7/21/2019,p2019-07-21am.mp3,,,Message,Y
+311,Obedience By Faith,Don Elwell,Gladstone,7/14/2019,p2019-07-14am.mp3,,,Message,Y
+314,A Dog's Life,Don Elwell,Gladstone,8/11/2019,p2019-08-11am.mp3,,,Message,Y
+317,Casual Christianity,Don Elwell,Gladstone,8/25/2019,p2019-08-25am.mp3,,,Message,Y
+318,Prioritizing our Preferences,Don Elwell,Gladstone,9/1/2019,p2019-09-01am.mp3,,,Message,Y
+319,The Power of Life and Death,Don Elwell,Gladstone,9/29/2019,p2019-09-29am.mp3,,,Message,Y
+320,Keep Your Focus on God,Donald Elwell III,Gladstone,10/13/2019,p2019-10-13am.mp3,,,Message,Y
+321,Destroy Your Distractions,Don Elwell,Gladstone,9/22/2019,p2019-09-22am.mp3,,,Message,Y
+322,Distractions,Donald Elwell III,Gladstone,10/27/2019,p2019-10-27am.mp3,,,Message,Y
+323,Stir up they Gift,Donald Elwell III,Gladstone,11/10/2019,p2019-11-10am.mp3,,,Message,Y
+324,Max Out Your Experience,Don Elwell,Gladstone,10/20/2019,p2019-10-20am.mp3,,,Message,Y
+325,Directing thy Path,Don Elwell,Gladstone,11/24/2019,p2019-11-24am.mp3,,,Message,Y
+326,Beautifying the Meek,Don Elwell,Gladstone,12/8/2019,p2019-12-08am.mp3,,,Message,Y
+327,More Blessed to Give,Don Elwell,Gladstone,12/15/2019,p2019-12-15am.mp3,,,Message,Y
+328,Don't Conform - Transform,Don Elwell,Gladstone,12/29/2019,p2019-12-29am.mp3,,,Message,Y
+329,Run for Your Life,Don Elwell,Gladstone,1/12/2020,p2020-01-12am.mp3,,,Message,Y
+331,Unspotted From the World,Don Elwell,Gladstone,2/9/2020,p2020-02-09am.mp3,,,Message,Y
+332,Mental Fortitude,Don Elwell,Gladstone,2/16/2020,p2020-02-16am.mp3,,,Message,Y
+333,Dedicated to God's Work,Don Elwell,Gladstone,3/1/2020,p2020-03-01am.mp3,,,Message,Y
+337,The Fifth Column,Michael Smith,Gladstone,3/8/2020,p2020-03-08am.mp3,,,Message,Y
+338,Standing on the Rock,Ken Elwell,Virtual,4/5/2020,p2020-04-05am.mp3,,,Message,Y
+339,Beyond the Cross,Don Elwell,Virtual,4/12/2020,p2020-04-12am.mp3,,,Message,Y
+340,Resurrection,Ken Elwell,Virtual,4/12/2020,p2020-04-12pm.mp3,,,Message,Y
+342,Take Heed How you Build,Don Elwell,Virtual,4/19/2020,p2020-04-19am.mp3,,,Message,Y
+343,Power of the Blessing,Don Elwell,Virtual,4/26/2020,p2020-04-26am.mp3,,,Message,Y
+344,Take My Yoke Upon You,Ken Elwell,Virtual,5/3/2020,p2020-05-03am.mp3,,,Message,Y
+345,When Feeling Overwhelmed,Don Elwell,Virtual,5/10/2020,p2020-05-10am.mp3,,,Message,Y
+346,Walking in the Old Paths,Ken Elwell,Virtual,5/17/2020,p2020-05-17am.mp3,,,Message,Y
+348,Time,Mary Lawson,Virtual,5/24/2020,p2020-05-24am.mp3,,,Message,Y
+349,Pure Religion,Don Elwell,Virtual,5/31/2020,p2020-05-31am.mp3,,,Message,Y
+350,A Place of Maturity,Ken Elwell,Gladstone,6/7/2020,p2020-06-07am.mp3,,,Message,Y
+351,The Abundant Life,Don Elwell,Gladstone,6/14/2020,p2020-06-14am.mp3,,,Message,Y
+352,God Is Still On His Throne,Michael Smith,Jefferson,6/19/2020,p2020-06-19pm.mp3,,,Message,Y
+353,The Land of Our Fathers,Michael Smith,Gladstone,6/21/2020,p2020-06-21am.mp3,,,Message,Y
+354,Healing Our Wounds,Donald Elwell III,Gladstone,6/28/2020,p2020-06-28am.mp3,,,Message,Y
+358,Discourage Proof,Don Elwell,Gladstone,7/5/2020,p2020-07-05am.mp3,,,Message,Y
+359,Spiritual PPE,Don Elwell,Gladstone,7/12/2020,p2020-07-12am.mp3,,,Message,Y
+360,He Knows Your Name,Don Elwell,Virtual,7/26/2020,p2020-07-26am.mp3,,,Message,Y
+361,A Gracious Offender,Don Elwell,Gladstone,8/9/2020,p2020-08-09am.mp3,,,Message,Y
+362,Who Do You Love?,Ken Elwell,Gladstone,8/2/2020,p2020-08-02am.mp3,,,Message,Y
+363,Strength through weakness,Ken Elwell,Gladstone,8/16/2020,p2020-08-16am.mp3,,,Message,Y
+364,Obedience though Faith,Ken Elwell,Gladstone,8/23/2020,2020-08-23am.mp3,,,Message,Y
+365,"Your Own Work, Your Own Reward",Don Elwell,Gladstone,8/30/2020,p2020-08-30am.mp3,,,Message,Y
+366,The Cause of Christ,Ken Elwell,Gladstone,9/6/2020,p2020-09-06am.mp3,,,Message,Y
+367,Knowing The Truth,Donald Elwell III,Gladstone,9/13/2020,p2020-09-13am.mp3,,,Message,Y
+368,Misplaced Fear,Don Elwell,Gladstone,9/20/2020,p2020-09-20am.mp3,,,Message,Y
+373,Rewarder of the Diligent,Ken Elwell,Gladstone,9/27/2020,p2020-09-27am.mp3,,,Message,Y
+376,You Can Trust God,Don Elwell,Virtual,10/11/2020,p2020-10-11am.mp3,,,Message,Y
+377,"Behold the Hand, Behold Nail",Huyen Hoang,Gladstone,10/4/2020,p2020-10-04am.mp3,,,Message,Y
+380,Keep your Heart Tender,Don Elwell,Virtual,10/18/2020,p2020-10-18am.mp3,,,Message,Y
+382,The Better Life,Michael Smith,Gladstone,10/21/2020,p2020-10-21pm.mp3,,,Message,Y
+383,Preparing for Battle,Bob Wilson,Jefferson,10/22/2020,p2020-10-22pm.mp3,,,Message,Y
+384,Consider What You Have,Paul Phillips,Jefferson,10/23/2020,p2020-10-23pm.mp3,,,Message,Y
+386,Don't Give Up Your Faith,Bob Wilson,Gladstone,10/25/2020,p2020-10-25am.mp3,,,Message,Y
+388,Don Elwell's Ordination,Michael Smith,Gladstone,10/24/2020,p2020-10-24pm-1.mp3,,,Message,Y
+390,A New Chapter,Michael Smith,Gladstone,10/24/2020,p2020-10-24-pm-2.mp3,,,Message,Y
+392,"High Priest, Friend & Brother",Ken Elwell,Gladstone,11/1/2020,p2020-11-01am.mp3,,,Message,Y
+394,Review Your List,Don Elwell,Gladstone,11/8/2020,p2020-11-08am.mp3,,,Message,Y
+395,Hear Admonishment of Wisdom,Ken Elwell,Gladstone,11/15/2020,p2020-11-15am.mp3,,,Message,Y
+402,Hope in our Messiah,Huyen Hoang,Gladstone,12/6/2020,p2020-12-06am.mp3,,,Message,Y
+403,Trust in God's Capability,Ken Elwell,Gladstone,11/29/2020,p2020-11-29am.mp3,,,Message,Y
+404,Ask and it shall be Given,Don Elwell,Gladstone,11/22/2020,p2020-11-22am.mp3,,,Message,Y
+406,Don't Forget the Benefits,Don Elwell,Gladstone,12/13/2020,p2020-12-13am.mp3,,,Message,Y
+410,He Knows What you Need,Huyen Hoang,Gladstone,12/27/2020,p2020-12-27am.mp3,,,Message,Y
+411,That Place Made For Me,Ken Elwell,Gladstone,1/3/2021,p2021-01-03am.mp3,,,Message,Y
+413,The Glory of the Cross,Ken Elwell,Gladstone,1/24/2021,p2021-01-24am.mp3,,,Message,Y
+414,Keep the Faith,Don Elwell,Gladstone,1/17/2021,p2021-01-17am.mp3,,,Message,Y
+415,The Perfect Gift,Donald Elwell III,Gladstone,1/10/2021,p2021-01-10am.mp3,,,Message,Y
+416,Mercy,Don Elwell,Gladstone,1/31/2021,p2021-01-31am.mp3,,,Message,Y
+422,Relationships,Don Elwell,Gladstone,2/7/2021,p2021-02-07am.mp3,,,Message,Y
+423,.. But God,Ken Elwell,Gladstone,2/14/2021,p2021-02-14am.mp3,,,Message,Y
+425,Reacting to Offenses,Ken Elwell,Gladstone,2/28/2021,p2021-02-28am.mp3,,,Message,Y
+427,Seek Those Things Above,Don Elwell,Gladstone,3/7/2021,p2021-03-07am.mp3,,,Message,Y
+429,Ponder the Path of thy Feet,Rodney Smith,Gladstone,3/14/2021,p2021-03-14am.mp3,,,Message,Y
+432,The River of God,Ken Elwell,Gladstone,3/21/2021,p2021-03-21am.mp3,,,Message,Y
+435,If It Be Possible,Don Elwell,Gladstone,3/28/2021,p2021-03-28am.mp3,,,Message,Y
+437,Jesus Knows Your Name,Ken Elwell,Gladstone,4/4/2021,p2021-04-04am.mp3,,,Message,Y
+439,Going It Alone,Michael Smith,Jefferson,4/9/2021,p2021-04-10pm.mp3,,,Message,Y
+440,Is All Clear?,Michael Smith,Jefferson,4/10/2021,p2021-04-11pm.mp3,,,Message,Y
+442,There Is A Path,Michael Smith,Jefferson,4/11/2021,p2021-04-11am.mp3,,,Message,Y
+447,Jesus Has Risen Within You,Don Elwell,Gladstone,4/18/2021,p2021-04-18am.mp3,,,Message,Y
+450,Jesus Christ - Your Friend,Don Elwell,Gladstone,4/25/2021,p2021-04-25am.mp3,,,Message,Y
+451,Freedom in Christ,Ken Elwell,Gladstone,5/2/2021,p2021-05-02am.mp3,,,Message,Y
+455,According to His Divine Power,Don Elwell,Gladstone,5/9/2021,p2021-05-09am.mp3,,,Message,Y
+459,Walking in the Spirit,Don Elwell,Gladstone,5/16/2021,p2021-05-16am.mp3,,,Message,Y
+461,Rest in the Lord,Ken Elwell,Gladstone,5/23/2021,p2021-05-23am.mp3,,,Message,Y
+464,Connected to the Vine,Ken Elwell,Gladstone,5/30/2021,p2021-05-30am.mp3,,,Message,Y
+467,Who Do You Say That I Am?,Donald Elwell III,Gladstone,6/6/2021,p2021-06-06am.mp3,,,Message,Y
+468,Preparing the Ground,Ken Elwell,Gladstone,6/13/2021,p2021-06-13am.mp3,,,Message,Y
+469,What is Your Mindset?,Michael Smith,Gladstone,6/16/2021,p2021-06-16pm.mp3,,,Message,Y
+470,Trapped,Michael Smith,Gladstone,6/17/2021,p2021-06-17pm.mp3,,,Message,Y
+471,"Don't Conform, Transform!",Darrell Johnson,Gladstone,6/18/2021,p2021-06-18am.mp3,,,Message,Y
+475,Worth of a Child,Alice Johnson,Gladstone,6/18/2021,p2021-06-18pm.mp3,,,Message,Y
+477,Have you Met the Lord?,Michael Smith,Elwell Corp,6/19/2021,p2021-06-19am.mp3,,,Message,Y
+479,When Jesus Passes By,Damar Randle,Gladstone,6/19/2021,p2021-06-19pm.mp3,,,Message,Y
+482,God Famous,Alicia Johnson,Gladstone,6/20/2021,p2021-06-20am.mp3,,,Message,Y
+486,What Manner of Person,Don Elwell,Gladstone,6/27/2021,p2021-06-27am.mp3,,,Message,Y
+489,A Well Watered Garden,Phillip Gellenbeck,Gladstone,7/4/2021,p2021-07-04am.mp3,,,Message,Y
+491,The Big Picture View,Don Elwell,Gladstone,7/11/2021,p2021-07-11am.mp3,,,Message,Y
+494,All Things,Don Elwell,Gladstone,8/1/2021,p2021-08-01am.mp3,,,Message,Y
+496,Sufficiency in God,Ken Elwell,Gladstone,8/8/2021,p2021-08-08am.mp3,,,Message,Y
+498,Faith That Worketh By Love,Don Elwell,Gladstone,8/15/2021,p2021-08-15am.mp3,,,Message,Y
+500,Our High Places,Don Elwell,Gladstone,8/22/2021,p2021-08-22am.mp3,,,Message,Y
+502,What Will You Do With Freedom?,Don Elwell,Gladstone,8/29/2021,p2021-08-29am.mp3,,,Message,Y
+503,Living Revelation of Christ,Ken Elwell,Gladstone,9/5/2021,p2021-09-05am.mp3,,,Message,Y
+506,Staying Power - Consider Jesus,Don Elwell,Gladstone,9/12/2021,p2021-09-12am.mp3,,,Message,Y
+511,Invest in Your Calling,Ken Elwell,Gladstone,9/19/2021,p2021-09-19am.mp3,,,Message,Y
+514,God's Power Through You,Bob Wilson,Gladstone,9/26/2021,p2021-09-26am.mp3,,,Message,Y
+515,For the Joy,Don Elwell,Gladstone,10/3/2021,p2021-10-03am.mp3,,,Message,Y
+516,Fellowship,Don Elwell,Gladstone,10/10/2021,p2021-10-10am.mp3,,,Message,Y
+519,Stay Put / Stand Fast,Don Elwell,Gladstone,10/17/2021,p2021-10-17am.mp3,,,Message,Y
+521,Buy The Truth,Don Elwell,Gladstone,10/24/2021,p2021-10-24am.mp3,,,Message,Y
+523,Your Habitation,Ken Elwell,Gladstone,10/31/2021,p2021-10-31am.mp3,,,Message,Y
+525,Ministers of Reconciliation,Don Elwell,Gladstone,11/7/2021,p2021-11-07am.mp3,,,Message,Y
+529,Ministry of Reconciliation (2),Don Elwell,Gladstone,11/14/2021,p2021-11-14am.mp3,,,Message,Y
+531,Child-like Dependence,Ken Elwell,Gladstone,11/21/2021,p2021-11-21am.mp3,,,Message,Y
+533,Be ... Like a Tree,Don Elwell,Gladstone,11/28/2021,p2021-11-28am.mp3,,,Message,Y
+536,Adoring the Christ,Don Elwell,Gladstone,12/5/2021,p2021-12-05am.mp3,,,Message,Y
+540,Rites and Rituals,Don Elwell,Gladstone,12/12/2021,p2021-12-12am.mp3,,,Message,Y
+542,"Lo, Behold the Gift of God",Ken Elwell,Gladstone,12/19/2021,p2021-12-19am.mp3,,,Message,Y
+543,With God Nothing is Impossible,Don Elwell,Gladstone,12/26/2021,p2021-12-26am.mp3,,,Message,Y
+546,Willing and Obedient,Don Elwell,Gladstone,1/2/2022,p2022-01-02am.mp3,,,Message,Y
+548,Put Your Trust in God,Ken Elwell,Gladstone,1/9/2022,p2022-01-09am.mp3,,,Message,Y
+551,Handling Stress and Difficulty,Don Elwell,Gladstone,1/23/2022,p2022-01-23am.mp3,,,Message,Y
+552,Jesus is the Oil in Our Lamps,Ken Elwell,Gladstone,1/16/2022,p2022-01-16am.mp3,,,Message,Y
+555,A Correct View of Ourselves,Don Elwell,Gladstone,1/30/2022,p2022-01-30am.mp3,,,Message,Y
+558,Our Identity in Christ,Don Elwell,Gladstone,2/6/2022,p2022-02-06am.mp3,,,Message,Y
+560,Love is Greater than Right,Bob Wilson,Gladstone,2/13/2022,p2022-02-13am.mp3,,,Message,Y
+562,Who You Are in God's Eyes,Don Elwell,Gladstone,2/20/2022,p2022-02-20am.mp3,,,Message,Y
+564,Who We Are in Christ,Don Elwell,Gladstone,2/27/2022,p2022-02-27am.mp3,,,Message,Y
+567,Warring for the Faith,Huyen Hoang,Gladstone,3/6/2022,p2022-03-06am.mp3,,,Message,Y
+569,Your Titles in Christ,Don Elwell,Gladstone,3/13/2022,p2022-03-13am.mp3,,,Message,Y
+571,Seeking the Good Pasture,Ken Elwell,Gladstone,3/20/2022,p2022-03-20am.mp3,,,Message,Y
+574,Friendship with the World,Huyen Hoang,Gladstone,3/27/2022,p2022-03-27am.mp3,,,Message,Y
+576,Hindered by Our History,Don Elwell,Gladstone,4/3/2022,p2022-04-03am.mp3,,,Message,Y
+578,Social Programming,Don Elwell,Gladstone,4/10/2022,p2022-04-10am.mp3,,,Message,Y
+580,Good For Nothing?,Don Elwell,Gladstone,4/17/2022,p2022-04-17am.mp3,,,Message,Y
+581,Build Up Your Most Holy Faith,Don Elwell,Gladstone,4/24/2022,p2022-04-24am.mp3,,,Message,Y
+583,I Can Do All Things,Don Elwell,Gladstone,5/1/2022,p2022-05-01am.mp3,,,Message,Y
+585,True Freedom in Christ,Don Elwell,Knott City Park,5/7/2022,p2022-05-07pm.mp3,,,Message,Y
+586,A Tale of Two Apostles,Don Elwell,Knott City Park,5/8/2022,p2022-05-08am.mp3,,,Message,Y
+589,Examine Yourself,Don Elwell,Gladstone,5/15/2022,p2022-05-15am.mp3,,,Message,Y
+591,Digging out the Stones,Don Elwell,Gladstone,5/22/2022,p2022-05-22am.mp3,,,Message,Y
+593,Embracing Refinement,Don Elwell,Gladstone,5/29/2022,p2022-05-29am.mp3,,,Message,Y
+595,The Christian Disposition,Don Elwell,Gladstone,6/5/2022,p2022-06-05am.mp3,,,Message,Y
+597,Rich Toward God,Don Elwell,Gladstone,6/12/2022,p2022-06-12am.mp3,,,Message,Y
+600,The Gift of Salvation,Michael Smith,Hillside Christian,6/15/2022,p2022-06-15pm.mp3,,,Message,Y
+601,God's SuperStore,Mary Lawson,Hillside Christian,6/16/2022,p2022-06-16am.mp3,,,Message,Y
+602,Preparing the Soil,Phillip Gellenbeck,Hillside Christian,6/16/2022,p2022-06-16pm.mp3,,,Message,Y
+603,Without Reserve,Michael Smith,Hillside Christian,6/17/2022,p2022-06-17pm.mp3,,,Message,Y
+604,Heaven in the House,Michael Smith,Hillside Christian,6/17/2022,p2022-06-17am.mp3,,,Message,Y
+612,Hearing His Voice,Paul Phillips,Hillside Christian,6/18/2022,p2022-06-18am.mp3,,,Message,Y
+616,A Place Prepared for You,Damar Randle,Hillside Christian,6/18/2022,p2022-06-18pm.mp3,,,Message,Y
+620,Get Through to the Other Side,Paul Phillips,Hillside Christian,6/19/2022,p2022-06-19am.mp3,,,Message,Y
+624,Making a Jewel In Your Life,Don Elwell,Gladstone,6/26/2022,p2022-06-26am.mp3,,,Message,Y
+626,Following Hard After God,Don Elwell,Gladstone,7/3/2022,p2022-07-03am.mp3,,,Message,Y
+628,Children Have Ye Any Meat?,Ken Elwell,Gladstone,7/10/2022,p2022-07-10am.mp3,,,Message,Y
+630,An Intimate Knowledge of God,Don Elwell,Gladstone,7/31/2022,p2022-07-31am.mp3,,,Message,Y
+633,Writing Your Own Eulogy,Don Elwell,Gladstone,8/7/2022,p2022-08-07am.mp3,,,Message,Y
+636,Glorifying God's Name,Ken Elwell,Gladstone,8/14/2022,p2022-08-14am.mp3,,,Message,Y
+639,Life is Short - Seize the Day,Huyen Hoang,Gladstone,8/21/2022,p2022-08-21am.mp3,,,Message,Y
+644,Try the Spirits,Don Elwell,Gladstone,8/28/2022,p2022-08-28am.m4a,,,Message,Y
+646,Spiritual Weapons,Don Elwell,Gladstone,9/4/2022,p2022-09-04am.m4a,,,Message,Y
+649,Heaven is Worth the Fight,Don Elwell,Gladstone,9/11/2022,p2022-09-11am.m4a,,,Message,Y
+651,Honesty the Best Policy,Don Elwell,Gladstone,9/25/2022,p2022-09-25am.m4a,,,Message,Y
+653,Helmet of Salvation,Don Elwell,Gladstone,10/2/2022,p2022-10-02am.m4a,,,Message,Y
+655,Why?,Bob Wilson,Gladstone,10/9/2022,p2022-10-09am.m4a,,,Message,Y
+658,Preparing for Battle,Huyen Hoang,Gladstone,10/16/2022,p2022-10-16am.m4a,,,Message,Y
+659,Unity,Don Elwell,Gladstone,10/23/2022,p2022-10-23am.m4a,,,Message,Y
+661,God Will Supply All Your Needs,Curtis Williams,Gladstone,10/28/2022,p2022-10-28pm.m4a,,,Message,Y
+662,Let Mercy Work in Your Life,Curtis Williams,Gladstone,10/29/2022,p2022-10-29pm.m4a,,,Message,Y
+665,God's Abundant Power,Curtis Williams,Gladstone,10/30/2022,p2022-10-30am.m4a,,,Message,Y
+668,Jesus - The Who for Our Why,Huyen Hoang,Gladstone,11/6/2022,p2022-11-06am.m4a,,,Message,Y
+669,A Sure Calling and Election,Don Elwell,Gladstone,11/13/2022,p2022-11-13am.m4a,,,Message,Y

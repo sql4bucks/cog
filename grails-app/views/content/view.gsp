@@ -14,13 +14,13 @@
 	    		$("#jquery_jplayer_1").jPlayer({
 	        		ready: function(event) {
 	            		$(this).jPlayer("setMedia", {
-	                		mp3: "${mediaUrl}/${contentInstance.fileName}"
+	                		${(contentInstance.fileName.split("\\."))[1]}: "${mediaUrl}/${contentInstance.fileName}"
 	            			});
 	        			},
 		        	swfPath: "/cog/js",
 		        	preload: "metadata",
 		        	solution: "html, flash", 
-		        	supplied: "mp3",
+		        	supplied: "mp3, m4a, wav",
 		        	emulateHtml: "true",
 		        	cssSelectorAncestor: "#jp_container_1",
 					wmode: "window"

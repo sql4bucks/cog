@@ -77,7 +77,7 @@ class ContentService {
 			else
 			{
 				// Error Message, reject value if empty
-				content.errors.rejectValue("uploadFile", "Media files must be of type .mp3 to be uploaded." )
+				content.errors.rejectValue("uploadFile", "Media files must be of type .mp3, .mp4, .wav, or .m4a to be uploaded." )
 				return [success: false, contentInstance: content]
 			 }
 		}
