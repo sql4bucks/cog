@@ -45,17 +45,18 @@
                 <g:message code="default.links.label"/>
             </g:link>
         </li>
-
-        <%--
+        
+        %{--
         <li>
             <g:link class="navItem" url="http://delwell2.blogspot.com">
                 <div class="navButton">
                     <img src="${resource(dir: 'images', file: 'My-blog-icon.png')}" alt="Blog"/>
                 </div>
-            <g:message code="default.blog.label"/>
+                <g:message code="default.blog.label"/>
             </g:link>
         </li>
-        --%>
+        --}%
+
         <sec:access expression="hasRole('ROLE_ADMIN')">
             <li>
                 <g:link class="navItem" controller="admin" action="index">
@@ -74,6 +75,15 @@
                 <g:message code="default.about.label"/>
             </g:link>
         </li>
+        <li>
+            <g:link class="navItem" controller="suggestionBox" action="list">
+                <div class="navButton">
+                    <img src="${resource(dir: 'images', file: 'My-blog-icon.png')}" alt="Suggestions"/>
+                </div>
+                <g:message code="suggestionBox.menu.label"/>
+            </g:link>
+        </li>
+
 
     </ul>
 </nav>

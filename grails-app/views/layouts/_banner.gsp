@@ -1,6 +1,6 @@
 		<section id="banner" class="blueGradient" role="banner">
 			<article id="logo" class="floatLeft cogPic">
-				<g:link url="http://www.inspired-art.com" target="_blank">
+				<g:link controller="content" action="doSearch">
 					<img src="${resource(dir: 'images', file: 'jesusHugging.jpg')}"
 						 alt="Forgiven" class="smallShadow cogImage"/>
 				</g:link>
@@ -17,16 +17,15 @@
 			</article>
 			<div class="h1 titleMargin floatLeft"><h1>Church of God - Portland, Oregon</h1></div>
 			<div class="floatLeft notMobile bannerText" >
-				<p>Website of the Church of God in Portland, Oregon. We publish recorded media for the
-				encouragement of those in the Portland area and across the web. Sermons, singing and links to
-				additional rich content are available for those thirsting for truth.
+				<p>Website of the Church of God "Evening Light" congregation in Portland, Oregon.
 				</p>
 			</div>
 			<div class="floatLeft desktopOnly bannerText" >
-				<p>
-				The "Evening Light" congregation in Portland, Oregon currently meets at the Gladstone Community Center,
-				located here: </p>
-				<p>255 E. Exeter St, Gladstone, Oregon.</p>
+				<p>Come worship with us!</br>
+				Gladstone Community Center - 255 E. Exeter St, Gladstone, Oregon. </br>
+					Join us in person or virtually on <a href="https://us02web.zoom.us/j/4179158207?pwd=N1hwVUNnQWw5R3JkbjdZYmVGUndUUT09">Zoom</a>.</br></br>
+				<g:link controller='about' action='index'>Service Schedule</g:link>
+				</>
 			</div>
 			<div class="floatLeft ifMobile" style="margin:0;max-width:60%" >
 				Website of the Church of God in Portland, Oregon, spreading truth across the web.
