@@ -33,6 +33,14 @@
 			<p>
 				The Church of God, <em>where salvation makes you a member</em>.
 			</p>
+			<h2> Worship with Us</h2>
+			<div>
+				<p><b>Come worship with us at our Portland area location:</b></p>
+				<p>
+					Gladstone Community Center - 255 E. Exeter St, Gladstone, Oregon. </br>
+					Join us in person or virtually on <a href="https://us02web.zoom.us/j/4179158207?pwd=N1hwVUNnQWw5R3JkbjdZYmVGUndUUT09">Zoom</a>.</br></br>
+				</p>
+			</div>
 
 			<h2> Service Times</h2>
 				<p>

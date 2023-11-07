@@ -28,7 +28,9 @@
 				</>
 			</div>
 			<div class="floatLeft ifMobile" style="margin:0;max-width:60%" >
-				Website of the Church of God in Portland, Oregon, spreading truth across the web.
+				Website of the Church of God in Portland, Oregon. </br>
+				Join us in person or virtually on <a href="https://us02web.zoom.us/j/4179158207?pwd=N1hwVUNnQWw5R3JkbjdZYmVGUndUUT09">Zoom</a>.</br></br>
+				<g:link controller='about' action='index'>Service Schedule</g:link>
 			</div>
 			<div class="clearBoth"></div>
 		</section>
