@@ -55,8 +55,9 @@ grails.project.dependency.resolution = {
         //runtime ":yui-minify-resources:0.1.4"
 
         build ":tomcat:7.0.54"
+        compile "org.grails.plugins:calendar:1.2.1"
         compile ":spring-security-core:2.0-RC6"
-        compile ":calendar:1.2.1"
+
 
     }
 }
