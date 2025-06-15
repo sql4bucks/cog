@@ -4,5 +4,6 @@ class ErrorController {
 	def notFound = {}
 	def forbidden = {}
 	def notAllowed = {}
+	def moved = {}
 
 }
