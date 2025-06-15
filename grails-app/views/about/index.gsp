@@ -2,8 +2,8 @@
 <html>
 	<head>
 		<meta name="layout" content="main"/>
-		<title>About the Church of God - Portland, Oregon</title>
-		<meta name="description" content="About the Church of God at Portland, Oregon."/>
+		<title>About the Church of God - Lacamas, Washington</title>
+		<meta name="description" content="About the Church of God at Lacamas, Washington."/>
 		<meta name="robots" content="index, follow">
 		<meta name="revisit-after" content="14 days">
 		<style type="text/css">
@@ -35,10 +35,10 @@
 			</p>
 			<h2> Worship with Us</h2>
 			<div>
-				<p><b>Come worship with us at our Portland area location:</b></p>
+				<p><b>Come worship with us at our Portland metro area location:</b></p>
 				<p>
-					Gladstone Community Center - 255 E. Exeter St, Gladstone, Oregon. </br>
-					Join us in person or virtually on <a href="https://us02web.zoom.us/j/4179158207?pwd=N1hwVUNnQWw5R3JkbjdZYmVGUndUUT09">Zoom</a>.</br></br>
+					Lacamas Creek Campground  - 2025 NE Goodwin Rd, Camas, WA. </br>
+					Join us in person or  <b><a href="https://us02web.zoom.us/j/4179158207?pwd=N1hwVUNnQWw5R3JkbjdZYmVGUndUUT09" target="_blank">virtually on Zoom</a>.</b></br></br>
 				</p>
 			</div>
 

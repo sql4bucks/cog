@@ -15,21 +15,21 @@
 					</sec:ifNotLoggedIn>
 					<br>	
 			</article>
-			<div class="h1 titleMargin floatLeft"><h1>Church of God - Portland, Oregon</h1></div>
+			<div class="h1 titleMargin floatLeft"><h1>Lacamas Church of God - Camas, WA</h1></div>
 			<div class="floatLeft notMobile bannerText" >
-				<p>Website of the Church of God "Evening Light" congregation in Portland, Oregon.
+				<p>Website of the Church of God "Evening Light" congregation in Camas, Washington.
 				</p>
 			</div>
 			<div class="floatLeft desktopOnly bannerText" >
 				<p>Come worship with us!</br>
-				Gladstone Community Center - 255 E. Exeter St, Gladstone, Oregon. </br>
-					Join us in person or virtually on <a href="https://us02web.zoom.us/j/4179158207?pwd=N1hwVUNnQWw5R3JkbjdZYmVGUndUUT09">Zoom</a>.</br></br>
+				Lacamas Creek Campground - 2025 NE Goodwin Rd, Camas, Washington. </br>
+					Join us in person or <b><a href="https://us02web.zoom.us/j/4179158207?pwd=N1hwVUNnQWw5R3JkbjdZYmVGUndUUT09" target="_blank">virtually on Zoom</a></b>.</br></br>
 				<g:link controller='about' action='index'>Service Schedule</g:link>
 				</>
 			</div>
 			<div class="floatLeft ifMobile" style="margin:0;max-width:60%" >
-				Website of the Church of God in Portland, Oregon. </br>
-				Join us in person or virtually on <a href="https://us02web.zoom.us/j/4179158207?pwd=N1hwVUNnQWw5R3JkbjdZYmVGUndUUT09">Zoom</a>.</br></br>
+				Website of the Church of God in Camas, Washington. </br>
+				Join us in person or virtually on <a href="https://us02web.zoom.us/j/4179158207?pwd=N1hwVUNnQWw5R3JkbjdZYmVGUndUUT09" target="_blank">Zoom</a>.</br></br>
 				<g:link controller='about' action='index'>Service Schedule</g:link>
 			</div>
 			<div class="clearBoth"></div>

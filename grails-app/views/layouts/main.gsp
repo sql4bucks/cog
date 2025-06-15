@@ -8,8 +8,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="keywords"
-          content="Church of God Portland Oregon, Church of God Evening Light, Gladstone Oregon"/>
-    <title><g:layoutTitle default="Church Of God - Portland, Oregon"/></title>
+          content="Lacamas Church of God, Portland, Oregon, Church of God Evening Light, Camas Washington"/>
+    <title><g:layoutTitle default="Lacamas Church Of God - Camas, Washington"/></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="${request.getSiteUrl()}"/>
     <link rel="shortcut icon" href="${resource(dir: 'images', file: 'fav.ico')}" type="image/x-icon">

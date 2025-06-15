@@ -4,8 +4,8 @@
 	<head>
 		<meta name="layout" content="main"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Church of God - Portland, Oregon</title>
-		<meta name="description" content="The Church of God congregation from Portland, Oregon; providing audio content and encouragement to all thirsty souls"/>
+		<title>Church of God - Camas, Washington</title>
+		<meta name="description" content="The Church of God congregation from Camas, Washington; providing audio content and encouragement to all thirsty souls"/>
 		<r:require module="haccordion"/>
 		<r:script>
 			haccordion.setup({
