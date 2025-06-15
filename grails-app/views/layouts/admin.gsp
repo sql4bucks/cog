@@ -7,15 +7,15 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title><g:layoutTitle default="Church Of God - Portland"/></title>
+		<title><g:layoutTitle default="Lacamas Church Of God"/></title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="robots" content="noindex,nofollow">
 		<link rel="shortcut icon" href="${resource(dir: 'images', file: 'fav.ico')}" type="image/x-icon">
 		<link rel="apple-touch-icon" href="${resource(dir: 'images', file: 'apple-touch-icon.png')}">
 		<link rel="apple-touch-icon" sizes="114x114" href="${resource(dir: 'images', file: 'apple-touch-icon-retina.png')}">
 		<link rel="stylesheet" href="${resource(dir: 'css', file: 'adminMenu.css')}" type="text/css">
-		<link rel="stylesheet" href="${resource(dir: 'css', file: 'main-02.css')}" type="text/css">
-		<link rel="stylesheet" href="${resource(dir: 'css', file: 'mobile-02.css')}" type="text/css">
+		<link rel="stylesheet" href="${resource(dir: 'css', file: 'main-01.css')}" type="text/css">
+		<link rel="stylesheet" href="${resource(dir: 'css', file: 'mobile-01.css')}" type="text/css">
 		<script type="text/javascript">
 		/*****************************************************************************************
 		 * Credits: Using the following scripts from dynamicdrive.com:

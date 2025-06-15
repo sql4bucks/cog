@@ -7,7 +7,23 @@ class GroovyFilters {
 
     def filters =
         {
-            preventActions(controller: '*', action: '(update|save|delete)')
+            preventActions(controller: '*', action: '(update|save)')
+                    {
+                        before = {
+
+                            def principal = springSecurityService.getPrincipal()
+                            if (principal == "anonymousUser") {
+                                redirect(controller: "login", action: "auth", params: [cName: controllerName, aName: actionName, id: params.id])
+                                return false
+                            } else {
+                                if (SpringSecurityUtils.ifNotGranted("ROLE_ADMIN,ROLE_SUPER,ROLE_SUGGEST")) {
+                                    return false
+                                }
+
+                            }
+                        }
+                    }
+            preventActions(controller: '*', action: '(delete)')
                     {
                         before = {
 

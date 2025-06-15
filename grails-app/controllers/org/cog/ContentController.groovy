@@ -20,7 +20,7 @@ class ContentController {
     }
 
     def list() {
-        params.max = Math.min(params.max ? params.int('max') : 20, 100)
+        params.max = Math.min(params.max ? params.int('max') : 8, 100)
         [contentInstanceList: Content.list(params), contentInstanceTotal: Content.count()]
     }
 	
@@ -36,7 +36,7 @@ class ContentController {
 		def query = contentService.searchContent(cmdObj)
 		session.contentQuery = query
 		session.searchCommand = cmdObj
-		params.max = Math.min(params.max ? params.int('max') : 10, 100)
+		params.max = Math.min(params.max ? params.int('max') : 8, 100)
 		if (params.offset==null) {params.offset=0}
         // Default sort is by content data desc
         if (params.sort == null)  {
@@ -58,7 +58,7 @@ class ContentController {
 			redirect(action: "search") 
 			return
 		}
-		params.max = Math.min(params.max ? params.int('max') : 10, 100)
+		params.max = Math.min(params.max ? params.int('max') : 8, 100)
 		if (params.offset==null) {params.offset=0}
 		render (view: "searchResults", model: [contentInstanceList: query.list(params), contentInstanceTotal: query.count(), cmdObj: cmdObj, params: params])
 	}

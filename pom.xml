@@ -104,6 +104,14 @@
             <type>zip</type>
         </dependency>
 
+        <dependency>
+            <groupId>org.grails.plugins</groupId>
+            <artifactId>calendar</artifactId>
+            <version>1.2.1</version>
+            <scope>compile</scope>
+            <type>zip</type>
+        </dependency>
+
     </dependencies>
 
     <build>

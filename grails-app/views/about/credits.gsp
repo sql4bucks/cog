@@ -2,8 +2,8 @@
 <html>
 	<head>
 		<meta name="layout" content="main"/>
-		<title>About the Church of God - Portland, Oregon - Art credits</title>
-		<meta name="description" content="About the Church of God at Portland, Oregon. Credits for artwork on the site."/>
+		<title>About the Church of God - Camas, Washington - Art credits</title>
+		<meta name="description" content="About the Church of God at Camas, Washington. Credits for artwork on the site."/>
 		<meta name="robots" content="index, nofollow">
 		<meta name="revisit-after" content="14 days">
 		<style type="text/css">

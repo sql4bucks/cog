@@ -2,8 +2,8 @@
 <html>
 	<head>
 		<meta name="layout" content="main"/>
-		<title>About the Church of God - Portland, Oregon</title>
-		<meta name="description" content="About the Church of God at Portland, Oregon."/>
+		<title>About the Church of God - Lacamas, Washington</title>
+		<meta name="description" content="About the Church of God at Lacamas, Washington."/>
 		<meta name="robots" content="index, follow">
 		<meta name="revisit-after" content="14 days">
 		<style type="text/css">
@@ -29,24 +29,27 @@
 		<h1 class="structuralClear"></h1>
 		<a href="#page-body" class="skip"><g:message code="default.link.skip.label" default="Skip to content&hellip;"/></a>
 		<section id="page-body" role="main" class="content scaffold-show">
-			<h1>About this site</h1>
+			<h1>About Us</h1>
 			<p>
-				The Church of God, <em>where salvation makes you a member</em>. <br><br>
-				This web site is presented by the Church of God	congregation at Gladstone, a suburb of Portland, Oregon. <br/>
-				&copy; 2012 - ${new Date().format("yyyy")} - Church of God. All Rights Reserved.
-			<p> Software release version 0.5 </p>
-			<article id="credits">
-				<h2><g:link action="credits">Credits</g:link></h2>
+				The Church of God, <em>where salvation makes you a member</em>.
+			</p>
+			<h2> Worship with Us</h2>
+			<div>
+				<p><b>Come worship with us at our Portland metro area location:</b></p>
 				<p>
-					Visit <g:link action="credits">this page</g:link> to learn more about the artists and their artwork on this site.
+					Lacamas Creek Campground  - 2025 NE Goodwin Rd, Camas, WA. </br>
+					Join us in person or  <b><a href="https://us02web.zoom.us/j/4179158207?pwd=N1hwVUNnQWw5R3JkbjdZYmVGUndUUT09" target="_blank">virtually on Zoom</a>.</b></br></br>
 				</p>
-			</article>
-			<article id="technical">
-				<h2><g:link controller="about" action="technical">Technical Information</g:link></h2>
+			</div>
+
+			<h2> Service Times</h2>
 				<p>
-					Click <g:link controller="about" action="technical">this link</g:link> for technical details and credits.
+					<b>Sunday School:</b> 10:15 AM <br>
+					<b>Sunday Worship Service:</b> 11:15 AM <br>
+					<b>Wednesday Night Service:</b> 7:00 PM <br>
 				</p>
-			</article>
+			<p></p>
+
 		</section>
 	</body>
 </html>
