@@ -23,7 +23,7 @@
 	    </span>
 	    <img src="${resource(dir:'images',file:'moved.jpg')}" style="float:right; clear:both; margin-right:30%" border="0"/>
 	    <p style="color:navy;margin-top:10px;">
-	    The new website is located at <a href="https://lacamaschurchofgod.org">https://lacamaschurchofgod.org</a><br/><br/>
+	    <br/>The new website is located at <a href="https://lacamaschurchofgod.org">https://lacamaschurchofgod.org</a><br/><br/>
 		Please update your bookmarks to open the new website in the future.<br/><br/>
 		(Please note that this site will be removed soon.)<br/>
 	    </p> 
